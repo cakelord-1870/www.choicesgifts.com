@@ -1,0 +1,4143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/aa-bronze.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-03T17:25:15-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554153844801</id>
+    <published>2021-05-03T17:25:15-04:00</published>
+    <updated>2021-05-03T17:25:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/al-anon-medallion-in-bronze-with-volcano-crystals-years-1-40-24-hr-1-3-6-9-mo"/>
+    <title>Al-Anon Medallion in Bronze With Volcano Crystals (years 1-40; 24 Hr, 1 3, 6, 9 Mo.)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/AlAnonVolcanoBling.jpg?v=1620077099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Al-Anon Bronze Anniversary Coins.  One Day at A Time and the Serenity Prayer on the back.   </span></p>
+<p><span>Volcano Swarvoski Crystal circle. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>ALANon 24 Hr Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>1 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>ALANon 1 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>3 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 3 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>6 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 6 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>9 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 9 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>1 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>2 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>3 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>4 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>5 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>6 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>7 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>8 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>9 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>10 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>11 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>12 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>13 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>14 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>15 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>16 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>17 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>18 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>19 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>20 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>21 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>22 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>23 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>24 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>25 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>26 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>27 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>28 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>29 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>30 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>31 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>32 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>33 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>34 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>35 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>36 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>37 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>38 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>39 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554153844801</id>
+      <title>40 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554152468545</id>
+    <published>2021-05-03T17:23:34-04:00</published>
+    <updated>2021-05-03T17:23:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-al-anon-medallion-in-bronze-alanon-years-1-40-24-hr-1-3-6-9-mo"/>
+    <title>Al-Anon Medallion in Bronze With White Crystals (years 1-40; 24 Hr, 1 3, 6, 9 Mo.)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/AlAnonWhiteBling.jpg?v=1620077032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Al-Anon Bronze Anniversary Coins.  One Day at A Time and the Serenity Prayer on the back.   </span></p>
+<p><span>White Swarvoski Crystal circle. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>ALANon 24 Hr Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>1 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>ALANon 1 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>3 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 3 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>6 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 6 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>9 Month</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 9 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>1 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>2 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>3 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>4 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>5 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>6 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>7 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>8 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>9 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>10 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>11 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>12 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>13 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>14 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>15 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>16 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>17 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>18 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>19 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>20 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>21 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>22 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>23 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>24 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>25 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>26 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>27 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>28 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>29 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>30 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>31 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>32 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>33 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>34 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>35 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>36 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>37 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>38 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>39 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554152468545</id>
+      <title>40 Year</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Alanon 40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554149716033</id>
+    <published>2021-05-03T17:17:09-04:00</published>
+    <updated>2021-05-03T17:17:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-ca-medallion-cocaine-anonymous-with-white-crystal-years-1-50"/>
+    <title>CA Medallion Cocaine Anonymous with Volcano Crystal (Years 1-50)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/CAVolcanoBling.jpg?v=1620076573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocaine Anonymous Bronze Medallion with Hope Faith Courage on the front with "CA" in the middle.  </p>
+<p>Serenity Prayer on the back.   </p>
+<p>Volcano Swarvoski crystals along the edges.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>1 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>2 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>3 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>4 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>5 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>6 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>7 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>8 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>9 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>10 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>11 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>12 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>13 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>14 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>15 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>16 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>17 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>18 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>19 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>20 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>21 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>22 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>23 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>24 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>25 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>26 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>27 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>28 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>29 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>30 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>31 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>32 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>33 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>34 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>35 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>36 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>37 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>38 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>39 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>40 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>41 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA41</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>42 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA42</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>43 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA43</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>44 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA44</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>45 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA45</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>46 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA46</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>47 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA47</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>48 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA48</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>49 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA49</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554149716033</id>
+      <title>50 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA50</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554146832449</id>
+    <published>2021-05-03T17:14:06-04:00</published>
+    <updated>2021-05-03T17:14:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-ca-medallion-cocaine-anonymous-years-1-50"/>
+    <title>CA Medallion Cocaine Anonymous with White Crystal (Years 1-50)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/CAWhiteBling.jpg?v=1620076157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocaine Anonymous Bronze Medallion with Hope Faith Courage on the front with "CA" in the middle.  </p>
+<p>Serenity Prayer on the back.    </p>
+<p>White Swarvoski crystals along the edges.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>1 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>2 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>3 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>4 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>5 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>6 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>7 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>8 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>9 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>10 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>11 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>12 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>13 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>14 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>15 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>16 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>17 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>18 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>19 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>20 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>21 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>22 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>23 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>24 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>25 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>26 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>27 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>28 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>29 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>30 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>31 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>32 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>33 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>34 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>35 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>36 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>37 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>38 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>39 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>40 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>41 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA41</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>42 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA42</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>43 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA43</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>44 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA44</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>45 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA45</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>46 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA46</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>47 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA47</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>48 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA48</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>49 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA49</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554146832449</id>
+      <title>50 Year</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>CA50</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4516586258497</id>
+    <published>2020-06-17T13:34:17-04:00</published>
+    <updated>2020-06-17T13:34:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/br03-al-anon-medallion-in-bronze-alanon-years-1-40-24-hr-1-3-6-9-mo"/>
+    <title>Al-Anon Medallion in Bronze Alanon (years 1-40; 24 Hr, 1 3, 6, 9 Mo.)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/al-anon-medallion-in-bronze-alanon-years-1-40-24-hr-1-3-6-9-mo_0c284ee7-3e91-448f-8d61-b9177de655c2.jpg?v=1606858636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Al-Anon Bronze Anniversary Coins.  One Day at A Time and the Serenity Prayer on the back.   </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>ALANon 24 Hr Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>1 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>ALANon 1 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>3 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 3 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>6 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 6 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>9 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 9 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>1 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>2 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>3 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>4 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>5 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>6 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>7 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>8 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>9 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>10 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>11 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>12 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>13 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>14 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>15 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>16 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>17 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>18 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>19 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>20 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>21 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>22 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>23 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>24 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>25 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>26 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>27 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>28 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>29 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>30 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>31 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>32 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>33 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>34 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>35 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>36 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>37 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>38 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>39 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516586258497</id>
+      <title>40 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Alanon 40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4516578394177</id>
+    <published>2020-06-17T13:27:58-04:00</published>
+    <updated>2020-06-17T13:27:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/br07new-oa-medallion-overeaters-anonymous-years-1-30-3-mo-6mo"/>
+    <title>OA Medallion - Overeaters Anonymous (Years 1-30, 3 Mo, 6Mo.)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/oa-medallion-overeaters-anonymous-years-1-30-3-mo-6mo.jpg?v=1606858628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Commemorate your journey with this well-crafted copper coins. " Abstinence A Day At A Time'" is on the front. The Serenity Prayer is on the back.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>1 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>2 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>3 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>4 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>5 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>6 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>7 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>8 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>9 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>10 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>11 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>12 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>13 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>14 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>15 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>16 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>17 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>18 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>19 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>20 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>25 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>30 Year</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516578394177</id>
+      <title>6 Month</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>OA 6 Month</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4516566040641</id>
+    <published>2020-06-17T13:18:30-04:00</published>
+    <updated>2020-06-17T13:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/br04new-ca-medllion-cocaine-anonymous-years-1-50"/>
+    <title>CA Medallion Cocaine Anonymous (Years 1-50)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/ca-medallion-cocaine-anonymous-years-1-50_f4aa0566-b99c-4e69-8c4f-e9addfdbe674.jpg?v=1606858619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocaine Anonymous Bronze Medallion with Hope Faith Courage on the front with "CA" in the middle.  </p>
+<p>Serenity Prayer on the back.    </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Other 12 Step</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>1 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA01</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>2 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA02</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>3 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA03</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>4 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA04</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>5 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA05</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>6 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA06</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>7 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA07</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>8 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA08</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>9 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA09</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>10 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>11 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>12 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>13 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>14 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>15 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>16 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>17 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>18 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>19 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>20 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>21 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>22 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>23 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>24 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>25 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>26 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>27 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>28 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>29 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>30 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>31 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>32 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>33 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>34 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>35 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>36 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>37 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>38 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>39 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>40 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>41 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA41</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>42 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA42</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>43 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA43</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>44 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA44</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>45 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA45</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>46 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA46</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>47 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA47</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>48 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA48</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>49 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA49</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4516566040641</id>
+      <title>50 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>CA50</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4514597339201</id>
+    <published>2020-06-15T20:54:10-04:00</published>
+    <updated>2020-06-15T20:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a82new-bill-bob-bronze-medallion-yrs-1-65-monthly"/>
+    <title>#A82 Bill &amp; Bob Bronze Medallion (Yrs 1-65, Monthlys)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a82-bill-bob-bronze-medallion-yrs-1-65-monthlys.jpg?v=1606944092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Bill and Bob Anniversary coins available in Years 1-65 years, and monthlys.</p>
+<meta charset="utf-8">
+<p><span>Bronze anniversary coin inscribed with the words Rarely have we seen a person fail who has thoroughly followed our path.</span><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>24 Hr BB Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>3 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3 Mo BB Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>18 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>18 Mo BB Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>1 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>2 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>3 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB3</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>4 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>5 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB5</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>6 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>7 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>8 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB8</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>9 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB9</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>10 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>11 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>12 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>13 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>14 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>15 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>16 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>17 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>18 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>19 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>20 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>21 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>22 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>23 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>24 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>25 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>26 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>27 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>28 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>29 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>30 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>31 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>32 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>33 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>34 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>35 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>36 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>37 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>38 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>39 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>40 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>41 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB41</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>42 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB42</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>43 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB43</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>44 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB44</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>45 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB45</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>46 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB46</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>47 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB47</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>48 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB48</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>49 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB49</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>50 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB50</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>51 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB51</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>52 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB52</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>53 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB53</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>54 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB54</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>55 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB55</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>56 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB56</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>57 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB57</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>58 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB58</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>59 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB59</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514597339201</id>
+      <title>60 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>BB60</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4514575482945</id>
+    <published>2020-06-15T20:17:52-04:00</published>
+    <updated>2020-06-15T20:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a81new-aa-medallion-bronze-recovery-aa-coin-yrs-1-65-hours-days-months"/>
+    <title>#A81. AA Medallion Bronze Recovery AA Coin (Yrs 1-65, 24Hrs, Months)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a81-aa-medallion-bronze-recovery-aa-coin-yrs-1-65-24hrs-months.jpg?v=1606944085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>AA Anniversary Medallions - Bronze. Available in: 24 hour, 3, 6, 9, 18 month, 1-65 years.</p>
+<p>These antiqued bronze medallions feature the time-honored Twelve Step program phrase "To Thine Own Self Be True," with the year and "Unity, Service, Recovery" on one side, and the Serenity prayer on the other.¬†</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>24 Hr Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>1 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>1 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>3 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>3 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>6 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>6 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>9 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>9 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>18 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>18 Mo Bronze</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>1 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>2 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>3 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA3</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>4 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>5 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA5</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>6 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>7 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>8 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA8</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>9 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA9</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>10 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>11 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>12 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>13 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>14 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>15 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA15</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>16 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA16</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>17 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA17</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>18 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA18</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>19 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA19</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>20 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>21 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA21</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>22 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA22</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>23 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA23</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>24 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA24</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>25 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA25</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>26 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA26</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>27 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA27</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>28 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA28</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>29 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA29</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>30 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA30</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>31 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA31</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>32 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA32</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>33 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA33</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>34 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA34</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>35 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA35</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>36 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA36</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>37 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA37</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>38 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA38</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>39 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA39</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>40 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA40</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>41 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA41</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>42 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA42</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>43 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA43</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>44 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA44</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>45 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA45</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>46 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA46</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>47 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA47</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>48 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA48</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>49 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA49</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>50 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA50</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>51 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA51</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>52 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA52</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>53 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA53</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>54 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA54</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>55 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA55</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>56 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA56</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>57 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA57</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>58 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA58</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>59 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA59</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>60 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA60</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>61 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA61</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>62 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA62</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>63 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA63</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>64 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA64</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>65 Year</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA65</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4514575482945</id>
+      <title>2 Month</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>AA 2 Month</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632895668260</id>
+    <published>2020-04-28T08:38:20-04:00</published>
+    <updated>2020-04-28T08:38:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c09-butterfly-serenity-prayer-back-bronze-coin-brm6"/>
+    <title>C09. Butterfly, Serenity Prayer (back), Bronze Coin.  BRM6</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c09-butterfly-serenity-prayer-back-bronze-coin-brm6.jpeg?v=1592972696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632895668260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080826462244</id>
+    <published>2019-06-11T14:18:43-04:00</published>
+    <updated>2019-06-11T14:18:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c21-discover-the-goodness-bronze-coin"/>
+    <title>C21. Discover the Goodness Bronze. BRM145</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c21-discover-the-goodness-bronze-brm145.jpeg?v=1606772352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080826462244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080808046628</id>
+    <published>2015-12-06T13:45:00-05:00</published>
+    <updated>2015-12-06T13:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c16-celebrate-balloons-living-life-centered-on-the-steps"/>
+    <title>C16. Celebrate Balloons, Living Life. BRM129</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c16-celebrate-balloons-living-life-brm129_92543deb-b831-48a0-b07b-e1013ca68487.jpg?v=1606858551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080808046628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1053192224804</id>
+    <published>2015-12-06T13:45:00-05:00</published>
+    <updated>2015-12-06T13:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c15-camel-let-go-let-god-one-day-at-a-time-bronze-red-coin"/>
+    <title>C15. Camel, Let Go Let God, ODAT, Bronze/Red Coin.</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c15-camel-let-go-let-god-odat-bronzered-coin.jpg?v=1606772325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Antique Rose Bronze coin.   Let Go Let God on the front, the Camel Story on the back.  Gorgeous! </p>
+<p>Comes with velvet pouch.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1053192224804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/417322695</id>
+    <published>2014-12-04T20:39:00-05:00</published>
+    <updated>2014-12-04T20:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a84-aa-medallion-step-coins-bronze-coin-steps-1-12-33"/>
+    <title>#A84. AA Medallion, Step Coins, Bronze Coin (Steps 1 - 12) #33</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a84-aa-medallion-step-coins-bronze-coin-steps-1-12-33.jpg?v=1607445335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Commemorate your journey through the Steps with this well-crafted copper coins.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 1</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 2</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 3</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 3</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 4</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 5</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 5</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 6</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 7</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 8</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 8</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 9</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 9</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 10</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 10</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 11</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/417322695</id>
+      <title>Step 12</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>Step 12</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080955338788</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c06-butterfly-let-go-let-god-odat-bronze-color-coin"/>
+    <title>C06. Butterfly, Let Go Let God, ODAT, Bronze/Color Coin.</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>SERENDIPITY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c06-butterfly-let-go-let-god-odat-bronzecolor-coin.jpg?v=1592973297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SERENDIPITY<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080955338788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku/>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080783044644</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c03-attitude-eagle-progress-not-perfection-bronze-medallion"/>
+    <title>C54. Progress Not Perfection Bronze. BRM144</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c54-progress-not-perfection-bronze-brm144.jpeg?v=1606772343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Progress Not Perfection</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080783044644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>500</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080781045796</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c05-butterfly-let-go-let-god-bronze-coin-brm91"/>
+    <title>C05. Butterfly, Let Go Let God, Bronze Coin. BRM91</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c05-butterfly-let-go-let-god-bronze-coin-brm91.jpeg?v=1592973235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080781045796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/908871434276</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c22-easy-does-it-serenity-prayer-back-bronze-coin-brm139"/>
+    <title>C22. Easy Does It, Serenity Prayer, Bronze Coin.  BRM139</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c22-easy-does-it-serenity-prayer-bronze-coin-brm139.jpeg?v=1606772305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/908871434276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1080845828132</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c39-if-its-to-be-its-up-to-me-bronze-coin"/>
+    <title>C39. If Its to be its up to me Bronze Coin. BRM115.</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c39-if-its-to-be-its-up-to-me-bronze-coin-brm115.jpg?v=1598997273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you would change the world, then you must be the way you want the world to be!  Ghandi</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1080845828132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1055666405412</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c29-first-things-first-serenity-prayer-bronze-coin-brm138"/>
+    <title>C29. First Things First, Serenity Prayer, Bronze.  BRM138</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c29-first-things-first-serenity-prayer-bronze-brm138.jpeg?v=1606772329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bronze</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1055666405412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/908819398692</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c02-angel-praying-to-be-with-you-when-i-cannot-bronze-coin-brm124"/>
+    <title>C02. Angel Praying, &quot;To Be with you when I cannot&quot;, BRM124</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c02-angel-praying-to-be-with-you-when-i-cannot-brm124.jpeg?v=1606772301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/908819398692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632972148772</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c25-elevator-is-broken-take-the-steps-bronze-coin-brm107"/>
+    <title>C24. Elevator is Broken, Take Steps, Bronze.  BRM107</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c24-elevator-is-broken-take-steps-bronze-brm107.jpeg?v=1606772273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632972148772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632967856164</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c59-that-my-soul-may-soar-bronze-coin-brm102"/>
+    <title>C59. That My Soul May Soar, Bronze Coin.  BRM102</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c59-that-my-soul-may-soar-bronze-coin-brm102.jpg?v=1606858532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632967856164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632935809060</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c04-bill-bob-carry-the-message-bronze-coin-brm100"/>
+    <title>C15a. Carry the Message, Bill &amp; Bob Bronze Coin.  BRM100</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c15a-carry-the-message-bill-bob-bronze-coin-brm100.jpeg?v=1592972743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632935809060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632932139044</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c19-dare-to-dream-fear-is-the-thief-back-bronze-coin-brm94"/>
+    <title>C19. Dare to Dream, Fear is the Thief, Bronze. BRM94</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c19-dare-to-dream-fear-is-the-thief-bronze-brm94.jpeg?v=1606772264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Bronze</s:tag>
+    <s:tag>Bronze</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632932139044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

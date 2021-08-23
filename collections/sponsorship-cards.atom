@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/sponsorship-cards.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-08-19T16:08:17-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6589370499137</id>
+    <published>2021-08-19T16:08:17-04:00</published>
+    <updated>2021-08-19T16:08:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/15a-thank-you-flags"/>
+    <title>15a. Thank You Flags.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/ThankUFlagMiniCard_833bc6f6-b2af-4ae8-b4da-ea4df51f0d85.jpg?v=1629403699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor</s:tag>
+    <s:tag>Sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6589370499137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B15 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554676527169</id>
+    <published>2021-05-05T13:02:06-04:00</published>
+    <updated>2021-05-05T13:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a116c-glitter-fireworks-b39"/>
+    <title>A116c. Glitter Fireworks. B39</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/cd3532-fireworks-thank-you-card.jpg?v=1620234056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Inside: You're spectacular! Thanks</p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor</s:tag>
+    <s:tag>Sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554676527169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B39 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4511187468353</id>
+    <published>2020-06-11T16:35:46-04:00</published>
+    <updated>2020-06-11T16:35:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/16b-thank-you-for-being-my-sponsor-park-scene-b47"/>
+    <title>16B. Thank you for being my Sponsor, Park Scene. B47</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/16b-thank-you-for-being-my-sponsor-park-scene-b08.jpg?v=1602797850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inside:  Happy Anniversary.   <meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4511187468353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B47. CBG87</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359175</id>
+    <published>2020-02-24T15:02:52-05:00</published>
+    <updated>2020-02-24T15:02:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/16a-sponsor-thank-you-mountain-card-b7"/>
+    <title>16a. Sponsor, Thank You, Mountain Card. B7</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/16a-sponsor-thank-you-mountain-card-b7.png?v=1592970604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FRONT: Thank you for being my sponsor</p>
+<p>BLANK INSIDE - Perfect for any program</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponsor</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B07. Remake.</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4382451204161</id>
+    <published>2020-01-20T13:24:27-05:00</published>
+    <updated>2020-01-20T13:24:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/11-sponsee-happy-anniversary-confetti-card-b03"/>
+    <title>11. Sponsee, Happy Anniversary Confetti Card. B03</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/11-sponsee-happy-anniversary-confetti-card-b03.png?v=1592974992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside: </p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-center para-style-body">Congratulations on this amazing achievement.  Thank you for all your help.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4382451204161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B03. CBG84</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4382446059585</id>
+    <published>2020-01-20T13:11:51-05:00</published>
+    <updated>2020-01-20T13:11:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/10-sponsor-happy-anniversary-confetti-card-b2"/>
+    <title>10. Sponsor, Happy Anniversary Confetti Card. B2</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/10-sponsor-happy-anniversary-confetti-card-b2.png?v=1592974987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside: </p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-center para-style-body"> </p>
+Congratulations on this amazing achievement.  Thank you for all your help.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4382446059585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B02. CBG83</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4368206561345</id>
+    <published>2020-01-02T23:01:09-05:00</published>
+    <updated>2020-01-02T23:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/65-na-sponsor-congrats-card-b13"/>
+    <title>65. NA Sponsor, Congrats Card. B13</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/65-na-sponsor-congrats-card-b13.png?v=1602711243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body">Thank you for all your help and support. </p>
+<p class="direction-ltr align-center para-style-body">Happy Anniversary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Cards</s:tag>
+    <s:tag>Sponsor Featured</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4368206561345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B14. CBG61</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4367510995009</id>
+    <published>2020-01-01T16:14:44-05:00</published>
+    <updated>2020-01-01T16:14:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/64-na-sponsee-na-congrats-card-c26"/>
+    <title>64. NA, Sponsee, NA, Congrats Card. C26</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/64-na-sponsee-na-congrats-card-c26.png?v=1592974920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body"> You are doing great, keep up the good work.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Cards</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4367510995009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C26. CBG59</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4195017195556</id>
+    <published>2019-11-27T16:39:48-05:00</published>
+    <updated>2019-11-27T16:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/15-sponsee-congrats-blue-yellow-card-b11"/>
+    <title>15. Sponsee, Congrats, Blue, Yellow Card. B11</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/15-sponsee-congrats-blue-yellow-card-b11.png?v=1592974135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body"> Celebrate, you deserve it! </p>
+<p class="direction-ltr align-center para-style-body">Congratulations.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4195017195556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B11. CBG41</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4195044130852</id>
+    <published>2019-11-27T16:34:24-05:00</published>
+    <updated>2019-11-27T16:34:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/13-na-sponsor-congrats-card-b13"/>
+    <title>13. NA Sponsor, Congrats Card. B13</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/13-na-sponsor-congrats-card-b13-c25.png?v=1602797802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body"> Thank you for all your help and support. </p>
+<p class="direction-ltr align-center para-style-body">Happy Anniversary! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Cards</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4195044130852</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B13. CBG61</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4195041443876</id>
+    <published>2019-11-27T16:34:11-05:00</published>
+    <updated>2019-11-27T16:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/14-na-sponsee-na-congrats-card-b14"/>
+    <title>14. NA Sponsee, NA, Congrats Card. B14</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/14-na-sponsee-na-congrats-card-b14.jpg?v=1602797797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body"> You are doing great, keep up the good work!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Cards</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4195041443876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B14, C26.  CBG59</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4195057238052</id>
+    <published>2019-10-30T13:31:19-04:00</published>
+    <updated>2019-10-30T13:31:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/09-sponsor-worlds-greatest-card-b1"/>
+    <title>09. Sponsor, Worlds Greatest Card. B1</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/09-sponsor-worlds-greatest-card-b1.png?v=1592974197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside: </p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>Thank you for all your help,</span><span class="white-space-prewrap"> </span></p>
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>I appreciate you very much!</span></p>
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>Congratulations! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4195057238052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B01. CBG70</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4194990981156</id>
+    <published>2019-10-08T01:31:30-04:00</published>
+    <updated>2019-10-08T01:31:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/12-sponsee-happy-anniversary-pink-ink-card-b10"/>
+    <title>12. Sponsee, Happy Anniversary, Pink Ink Card. B10</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12-sponsee-happy-anniversary-pink-ink-card-b10.png?v=1592974098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"><span>May you keep coming back for the many wonders that await you!</span><br></p>
+<p class="direction-ltr align-center para-style-body"><span>Congratulations!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor Featured</s:tag>
+    <s:tag>sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4194990981156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B10. CBG19</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4195050651684</id>
+    <published>2019-10-08T01:10:30-04:00</published>
+    <updated>2019-10-08T01:10:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/17-sponsor-happy-anniversary-green-card-b4"/>
+    <title>17. Sponsor, Happy Anniversary, Green Card. B4</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/17-sponsor-happy-anniversary-green-card-b4.png?v=1592974183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<meta charset="utf-8">
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>Thank you for the love</span></p>
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span class="white-space-prewrap"> </span><span>and support you have shown me,</span><span class="white-space-prewrap"> </span></p>
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>I am so grateful to have you in my life. </span></p>
+<p class="N-ZiCg direction-ltr align-center para-style-body"><span>Congratulations! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4195050651684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B04. CBG67</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1401944211492</id>
+    <published>2019-07-05T09:30:07-04:00</published>
+    <updated>2019-07-05T09:30:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/18-sponsor-happy-anniversary-white-green-card-b06"/>
+    <title>18. Sponsor, Happy Anniversary, White/Green Card. B06</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/17a-sponsor-happy-anniversary-white-card-b06.png?v=1592973594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Inside:</p>
+<p class="direction-ltr align-center para-style-body"><span>Thank you so much for the love </span>and support you have shown me.</p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"><span class="white-space-prewrap"><span>Happy Anniversary!</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1401944211492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B06. CBG07</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1447736737828</id>
+    <published>2019-07-02T15:37:31-04:00</published>
+    <updated>2019-07-02T15:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/20-sponsee-xoxo-congrats-card-b9"/>
+    <title>20. Sponsee, XOXO, Congrats Card. B9</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/19-sponsee-xoxo-congrats-card-b9.png?v=1592973681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside:</p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"> Its a gift to watch your recovery.   I am honored to be on your team. </p>
+<p class="direction-ltr align-center para-style-body">Congratulations!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1447736737828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B09. CBG33</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1447715045412</id>
+    <published>2019-07-02T15:12:56-04:00</published>
+    <updated>2019-07-02T15:12:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/19-sponsee-baby-funny-card-b12"/>
+    <title>19. Sponsee, Baby, Funny Card. B12</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/18-sponsee-baby-funny-card-b12.png?v=1592973638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside: </p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"><span>It's been</span><span class="white-space-prewrap"> </span></p>
+<p class="direction-ltr align-center para-style-body"><span>SERIOUSLY entertaining....</span></p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"><span>Keep Coming Back!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Funny</s:tag>
+    <s:tag>Funny Cards</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsorship Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1447715045412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B12.  CBG14</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359159</id>
+    <published>2014-10-30T15:15:00-04:00</published>
+    <updated>2014-10-30T15:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/16-sponsor-worlds-best-sponsor-card-b5"/>
+    <title>16. Sponsor, Worlds Best Sponsor Card. B5</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Valley Graphics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/16-sponsor-worlds-best-sponsor-card-b5.png?v=1592970599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valley Graphics<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside:</p>
+<p>Congratulations! Thank you for always being there when I needed you</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponsor</s:tag>
+    <s:tag>Sponsorship cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359159</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>B05 - VG</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

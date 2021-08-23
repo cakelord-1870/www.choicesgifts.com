@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/daily-meditation-readers.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-06-30T14:58:36-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6571019501633</id>
+    <published>2021-06-30T14:58:36-04:00</published>
+    <updated>2021-06-30T14:58:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/each-day-a-new-beginning-journal-by-karen-casey"/>
+    <title>Each Day a New Beginning: Journal by Karen Casey</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/71cyvwyGF6L.jpg?v=1625079329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Inspired by millions of women who have made </span><i>Each Day a New Beginning</i><span> their daily companion, this journal version of the beloved meditation book allows you to personalize favorite passages. Record your hopes and fears, your triumphs and setbacks, as you reflect on the lessons found in living each new day. With insight and clarity, daily meditations explore common issues that women struggle with, from loneliness and shame to spirituality and hope. Women in recovery, as well as all women interested in personal development and self-discovery, will find guidance and affirmation in this invaluable journal.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Literature</s:tag>
+    <s:tag>Books</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6571019501633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652099174465</id>
+    <published>2021-01-31T15:07:42-05:00</published>
+    <updated>2021-01-31T15:07:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/basic-text-anonymous-cover-paperback"/>
+    <title>Basic Text - Anonymous Cover Paperback</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BO-004.jpg?v=1612123663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Conference-approved by choices books &amp; gifts, this book provides insight into the problem of sex and love addiction, information on working the 12 steps of choices books &amp; gifts, the history of Sex &amp; Love Addicts Anonymous, personal stories from members of the program and much more. Softbound book, 6" x 9", 280 pages.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><b data-mce-fragment="1">Table of Contents:</b><span data-mce-fragment="1"></span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 1: Discovery of the Illness of Sex and Love Addiction: A Personal History</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 2: The Beginning of Recovery and of Sex and Love Addicts Anonymous</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 3: Living with a Sex and Love Addict</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 4: The Twelve Step Program; a Path to Sexual and Emotional Sobriety</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 5: The Withdrawal Experience</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 6: Finding and Starting to Work with Other Sex and Love Addicts</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 7: Starting an S.L.A.A. Group</span><br data-mce-fragment="1"><span data-mce-fragment="1">Chapter 8: Building Partnerships</span><br data-mce-fragment="1"><span data-mce-fragment="1">Personal Stories: pp 163-280</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652099174465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>BO-004</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652098912321</id>
+    <published>2021-01-31T15:04:17-05:00</published>
+    <updated>2021-01-31T15:04:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a-state-of-grace-daily-meditations-softcover-edition"/>
+    <title>A State of Grace: Daily Meditations - Softcover Edition</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BO-006.png?v=1612123458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Book Details: </span><br data-mce-fragment="1">
+<div data-mce-fragment="1">S.L.A.A.'s New Conference-Approved Daily Reader </div>
+<div data-mce-fragment="1">Softcover Edition, 4.5" x 6" </div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">365 Days of S.L.A.A. Recovery Inspiration, 1 day per page with a few extra pages for notes. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652098912321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>BO-006</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652097667137</id>
+    <published>2021-01-31T14:59:53-05:00</published>
+    <updated>2021-01-31T14:59:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/the-gift-of-no-contact"/>
+    <title>The Gift of No Contact</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BKT-006_2.png?v=1612123196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This booklet is 8.5" x 5.5", and is 22 pages in length.</span>
+<p data-mce-fragment="1">When we begin our journey in the S.L.A.A. program, we hear many terms that are unfamiliar.  People in meetings speak of "qualifiers", "top lines", "bottom lines", "triggers".  We don't understand these terms, but when we hear the phrase "no contact", we suspect we know what it means, and we are often frightened to consider it.  After all, if we were able to refrain from contact with the people with whom we have painful, destructive relationships, we wouldn't need this program!  This booklet will explain the concept of "no contact" and why it is so valuable by answering the following questions:<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><strong>The Gift of "No Contact" </strong></p>
+<p data-mce-fragment="1">● What is the definition of "no contact" and who is involved?</p>
+<p data-mce-fragment="1">● How do I initiate and maintain "no contact"?</p>
+<p data-mce-fragment="1">● How do I overcome my strong resistance and objections? </p>
+<p data-mce-fragment="1">●<span data-mce-fragment="1"> </span>How do I enforce "no contact" and stay accountable?</p>
+<p data-mce-fragment="1">● How will I benefit from "no contact"?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652097667137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>BKT-006</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652096815169</id>
+    <published>2021-01-31T14:57:39-05:00</published>
+    <updated>2021-01-31T14:57:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/the-step-questions-workbook"/>
+    <title>The Step Questions Workbook</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/WBK-001.jpg?v=1612123063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">8 1/4" wide, and 11" high, 85 pages. This workbook contains insightful questions and inventories for each of the Twelve Steps of S.L.A.A. in a workbook format.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652096815169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.90</s:price>
+      <s:sku>WBK-001</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652095635521</id>
+    <published>2021-01-31T14:54:30-05:00</published>
+    <updated>2021-01-31T14:54:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/40-questions-for-self-diagnosis"/>
+    <title>40 Questions for Self-Diagnosis</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/PAM-002.png?v=1612122869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The questions that may help you determine whether your sexual activity and emotional behavior may be suspect.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652095635521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>PAM-002</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4652094128193</id>
+    <published>2021-01-31T14:50:54-05:00</published>
+    <updated>2021-01-31T14:50:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/anorexia-recovery-tools"/>
+    <title>Anorexia Recovery Tools</title>
+    <s:type>Books</s:type>
+    <s:vendor>Zaibi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/AnorexiaRecoveryTools_2_621x960_c20f3815-36a5-4be9-83ff-0fa3217cc3ec.png?v=1612122642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaibi<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">8.5" x 5",  40 pages plus covers and blank pages for notes.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4652094128193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>BKT-004</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607568707649</id>
+    <published>2020-10-29T15:23:45-04:00</published>
+    <updated>2020-10-29T15:23:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/night-light"/>
+    <title>Night Light</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/night-light.jpg?v=1604007362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This meditation classic gives us a serene, reassuring thought as we end our day and face the night--or as we face a dark moment in the course of our day.<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Night Light's</i><span data-mce-fragment="1"> </span>quotations, reflections, and simple prayers ease the loneliness, fear, and anxiety that can burden our nights so we can wake up and meet each new day refreshed and inspired.</p>
+<p data-mce-fragment="1">In this insightful collection, quotations from Alice Walker, Will Rogers, Gertrude Stein, Carlos Castaneda, George Eliot, Dorothy Parker, and many others introduce thoughtful meditations on balance, self-esteem, relationships, independence, and more. These wise reflections provide enduring reassurance and strength for every day and night of the year.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607568707649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>9780894863813</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607568216129</id>
+    <published>2020-10-29T15:21:50-04:00</published>
+    <updated>2020-10-29T15:21:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/daybreak"/>
+    <title>Daybreak</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/daybreak.jpg?v=1604007359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">These 366 daily affirmations and meditations extend support and wisdom to women who have survived childhood sexual abuse. With understanding, compassion, and strength, the author addresses issues such as intimacy, fear, play, sharing secrets, and anger. She also shares her personal knowledge of sexual abuse to illustrate that we can not only survive, but thrive.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607568216129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>9780894867590</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607567659073</id>
+    <published>2020-10-29T15:19:56-04:00</published>
+    <updated>2020-10-29T15:19:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/letting-go-of-debt"/>
+    <title>Letting Go Of Debt</title>
+    <s:type>Books</s:type>
+    <s:vendor>daily</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/letting-go-of-debt.jpg?v=1604007356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>daily<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Chronic debt takes a terrible toll on a life. Finances stagger, the spirit flags, family and friends feel the strain. For those who wake each day facing such a burden, this inspiring book of daily meditations offers respite, hope, and practical advice. Simple and positive, each day's message helps put seemingly unmanageable debt in the proper perspective-and reminds us of our deepest debt to ourselves: to take heart and find strength in the daily struggle.</p>
+<p data-mce-fragment="1">Written by the former wife of a compulsive gambler, these meditations hold a universal message of hope for anyone seeking the courage to live wisely with trying circumstances-one day at a time</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Karen Casanova</b><span data-mce-fragment="1"> </span>is the author of thirteen children's books. She lives in Saint Croix Falls, Wisconsin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607567659073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>9781568383675</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607566938177</id>
+    <published>2020-10-29T15:17:35-04:00</published>
+    <updated>2020-10-29T15:17:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/days-of-healing-days-of-joy"/>
+    <title>Days Of Healing Days Of Joy</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/days-of-healing-days-of-joy.jpg?v=1604007353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Children of alcoholic or addicted parents may be stripped of hope, courage, and self-esteem. The dysfunctional family is fueled by shame and chaos, stunting children's relationships and self-acceptance. Adult children of alcoholics and addicts need encouragement to overcome these childhood deprivations.<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Days of Healing, Days of Joy</i><span data-mce-fragment="1"> </span>models a program of serenity, spirituality, and acceptance through its meditations.</b></p>
+<p data-mce-fragment="1">Alcoholic or addicted parents may become focused on their compulsion while their children fend for themselves in a dysfunctional household. Without helpful and informative parental guidance, children manage their own personal growth, and their spiritual and emotional health suffers. Children parent themselves, and their innocence dies.</p>
+<p data-mce-fragment="1">Parents with addiction may not have demonstrated healthy connection and love to their children. Adult children of addicts or alcoholics are often shadowed by this disconnect; codependency, self-judgment, and overzealous loyalty darken their doorway. Fortunately, healing and recovery are within reach. In<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Days of Healing, Days of Joy,</i><span data-mce-fragment="1"> </span>Earnie Larsen and Carol Larsen Hegarty share the reflective and peaceful insight needed for growing up again--this time with plenty of love and patience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607566938177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku>9780894864551</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607565594689</id>
+    <published>2020-10-29T15:12:58-04:00</published>
+    <updated>2020-10-29T15:12:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tending-dandelions"/>
+    <title>Tending Dandelions</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/tending-dandelions.jpg?v=1604007350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><blockquote data-mce-fragment="1">"We all need to take a close look at the things we don't want to look at--the things lurking around in this place where love and addiction meet--so we're as strong as we can be. ---Sandra Swenson, author of<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Tending Dandelions</i>
+</blockquote>
+<p data-mce-fragment="1">In the shadows of our child's struggles with addiction, we find ourselves tending to a life for which we weren't prepared. These meditations continue the tradition of Hazelden's beloved meditation books by providing moments of recognition, confession, and healing for those who are realizing that recovery rarely follows a neat or comfortable path. Along the way, we plant beautiful roses only to be injured by their thorns, and we pull up unwanted dandelions that, at times, are our only source of wishes.</p>
+<p data-mce-fragment="1">By sharing the realities we never expected our families to face, mothers of addicted children support each other through experiences that can only be feared and imagined by others. From our shared struggles emerge opportunities for personal growth.<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Tending Dandelions</i><span data-mce-fragment="1"> </span>is a vital source of wisdom, support, and strength that helps us begin our own journey of recovery.</p>
+<p data-mce-fragment="1">Sandra Swenson is the mother of two sons--one of whom struggles with addiction. A voice for the loved ones of addicts, she first documented her experiences with her son's addiction in the critically-acclaimed book<span data-mce-fragment="1"> </span><i data-mce-fragment="1">The Joey Song</i>. An advocate for acceptance, education, healing, and recovery, Sandra can frequently be found sharing her story.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607565594689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>9781616497200</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607556190273</id>
+    <published>2020-10-29T14:39:16-04:00</published>
+    <updated>2020-10-29T14:39:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-help-for-helpers"/>
+    <title>Cornerstones</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/cornerstones.jpg?v=1604007343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We all need tools to help us fully embrace the new way of life made possible through recovery. Truly break the addiction cycle by uncovering the reasons for former dependencies and behaviors, discovering new perspectives, reshaping your sense of masculinity, and building the coping skills that support real physical and emotional sobriety.</p>
+<p data-mce-fragment="1"><i>Cornerstones</i><span> provide the foundation for growth and strength. This collection of daily readings was designed specifically for men who are new to recovery or are working to move beyond the internal roadblocks that prevent true personal evolution in recovery. Overall health and wellness are supported by the authors artful exploration of the common aspects and archetypes of masculinity we encounter in our lives.</span></p>
+<p> </p>
+<p data-mce-fragment="1"><span>Complementary to working a Twelve Step program or other recovery approaches, this latest addition to Hazelden's incomparable series of daily meditation books fosters reflection, motivation, change, mindfulness, personal growth, and new definitions of manhood. Offering guidance, inspiration, spirituality, affirmation, and new definitions of manhood upon which to build a new life free from substance use and process or other addictions, each meditation in this collection was crafted to support your journey of recovery to become your best possible self.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607556190273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607555928129</id>
+    <published>2020-10-29T14:37:27-04:00</published>
+    <updated>2020-10-29T14:37:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-day-by-day"/>
+    <title>Help for Helpers</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/help-for-helpers.jpg?v=1604007340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Written by addiction treatment center staff members from across the country, these daily meditations encourage, comfort, and challenge helpers to understand others and themselves.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607555928129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607555043393</id>
+    <published>2020-10-29T14:32:38-04:00</published>
+    <updated>2020-10-29T14:32:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/day-by-day"/>
+    <title>Day by Day</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/day-by-day.jpg?v=1604007337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">A collection of Hazelden Meditations written by people in recovery from opioid addiction for people looking<span data-mce-fragment="1"> </span><i data-mce-fragment="1">for</i><span data-mce-fragment="1"> </span>a daily reader designed to support their sobriety.</b></p>
+<p data-mce-fragment="1">During more than 40 years, more than a million people have relied on<span data-mce-fragment="1"> </span><i data-mce-fragment="1">Day by Day</i><span data-mce-fragment="1"> </span>as an essential source of inspiration, spirituality, and mindfulness for their ongoing health and wellness. Reinforcing the Twelve Step principles of Narcotics Anonymous, each thought of the day in this classic collection fosters the coping skills, insights, and spiritual growth that have helped people around the world find freedom from drug dependency and addiction.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607555043393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4607550062657</id>
+    <published>2020-10-29T14:24:27-04:00</published>
+    <updated>2020-10-29T14:24:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/today-i-will-do-one-thing"/>
+    <title>Today I Will Do One Thing</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/today-i-will-do-one-thing.jpg?v=1604007334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><i data-mce-fragment="1">Today I Will Do One Thing</i><span data-mce-fragment="1"> </span>is a ground breaking meditation book for people in addiction recovery who also have an emotional or psychiatric illness. This unique meditation format integrates addiction recovery with recovery from an emotional or psychiatric illness, develops self-awareness, and disorders. Readings also:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Provide practical demonstrations of effectively handling emotions, mild paranoia, and other difficulties</li>
+<li data-mce-fragment="1">State an affirmation and acknowledge a common problem</li>
+<li data-mce-fragment="1">Provide insight for positive change</li>
+<li data-mce-fragment="1">Offer motivation to complete one simple, concrete goal for the day</li>
+</ul>
+<p>Author: Tim Mc</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4607550062657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363107</id>
+    <published>2020-04-28T08:40:24-04:00</published>
+    <updated>2020-04-28T08:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/color-of-light-daily-meditations-for-all-of-us-living-with-aids-hazelden-meditation-series"/>
+    <title>Color of Light: Daily Meditations For All Of Us Living With Aids, Hazelden Meditation Series</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/color-of-light-daily-meditations-for-all-of-us-living-with-aids-hazelden-meditation-series.jpg?v=1585854813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 366 daily meditations were written for those of us who are living with our own or a loved one's HIV or AIDS diagnosis. The readings can enhance the healing process by helping us to accept, understand, and integrate our values with those offered through Twelve Step recovery; and provide positive thoughts to encourage us to focus on our priorities.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397361819</id>
+    <published>2020-04-28T08:40:23-04:00</published>
+    <updated>2020-04-28T08:40:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/daily-reflections-a-book-of-reflections-by-a-a-members-for-a-a-members-by-aa"/>
+    <title>Daily Reflections: A Book of Reflections by A.A. Members for A.A. Members, by AA</title>
+    <s:type>Books</s:type>
+    <s:vendor>AA World Service</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/daily-reflections-a-book-of-reflections-by-aa-members-for-aa-members-by-aa.jpg?v=1592970726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AA World Service<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A collection of 365 inspirational messages about living sober through the fellowship of Alcoholics Anonymous. <span>A.A.s reflect on favorite quotations from A.A. literature. A reading for each day of the year</span></p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/60afd040/background/helpers/prefilterHelper.js"></script>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/ae60e59e/background/helpers/prefilterHelper.js"></script>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/f84e19fc/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Literature</s:tag>
+    <s:tag>Books Featured</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/469825667</id>
+    <published>2020-04-28T08:37:40-04:00</published>
+    <updated>2020-04-28T08:37:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/believing-in-myself-self-esteem-daily-meditations-by-earnie-larsen"/>
+    <title>Believing In Myself: Self Esteem Daily Meditations, by Earnie Larsen</title>
+    <s:type>Books</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/believing-in-myself-self-esteem-daily-meditations-by-earnie-larsen.jpeg?v=1585855814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This enlightening book from a pioneer in the field of recovery presents a daily meditation for everyday of the year, complete with an inspirational quote and a thought-for-the-day.</span><br><br><i>Believing in Myself</i><span> is a must read for anyone struggling with self-esteem issues. A solid sense of self-worth is the single most important factor in determining our happiness in life and our success in work and relationships. With it, virtually all things are possible; without it, even victories can feel like defeats. Raising low self-esteem is an essential part of the healing process for those who are recovering from addictions and dependencies-€”and for anyone who still feels the pain of childhood traumas or other emotional wounds.</span><br><br><span>This book tackles important subjects such as: why self-esteem seems so fragile, how to define ourselves in terms of our own standards and values, why attitude is so important when we make mistakes, the difference between conceit and self-approval, how self-doubt triggers unattractive behaviors, and how self-esteem blooms when we have a sense of purpose in life.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/469825667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397362275</id>
+    <published>2020-04-28T08:37:12-04:00</published>
+    <updated>2020-04-28T08:37:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/answers-in-the-heart-daily-meditations-for-men-and-women-recovering-from-sex-addiction-hazelden-series"/>
+    <title>Answers in the Heart: Daily Meditations for Men and Women Recovering from Sex Addiction, Hazelden Series</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/answers-in-the-heart-daily-meditations-for-men-and-women-recovering-from-sex-addiction-hazelden-series_85f4d102-409d-46fb-8251-63ea73c33bfc.jpg?v=1604007292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These meditations guide us to the strength and courage within ourselves that is necessary to face the lingering shadows of sex addiction. With the inspiration and support unique to Hazelden meditation books, Answers in the Heart provides solace for the pain and inspiration for lasting recovery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397362275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397358119</id>
+    <published>2020-04-28T08:32:41-04:00</published>
+    <updated>2020-04-28T08:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/24-twenty-four-hours-a-day-hardcover-by-hazelden"/>
+    <title>24 Twenty-Four Hours a Day - Hardcover, by Hazelden</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/24-twenty-four-hours-a-day-hardcover-by-hazelden.jpg?v=1585855719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Since 1954, <em>Twenty-Four Hours a Day</em> has become a stable force in the recovery of many alcoholics throughout the world. With over nine million copies in print (the original text has been revised), this "little black book" offers daily thoughts, meditations, and prayers for living a clean and sober life. A spiritual resource with practical applications to fit our daily lives. "For yesterday is but a dream, and tomorrow is only a vision" is part of the Sanskrit proverb quoted at the beginning of the book which has become one of the basic building blocks for a life of sobriety. In addition to a thought, meditation and prayer for each day of the year, this handy, pocket-sized volume also contains the Serenity Prayer and the 12 Steps and 12 Traditions of Alcoholics Anonymous. It is a simple, yet effective way to help us relate the Twelve Steps to everyday life and helps us find the power not to take that first drink each day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books Featured</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397358119</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397358103</id>
+    <published>2020-04-28T08:32:41-04:00</published>
+    <updated>2020-04-28T08:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/24-twenty-four-hours-a-day-softcover-by-hazelden"/>
+    <title>24 Twenty-Four Hours A Day - Softcover, by Hazelden</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/24-twenty-four-hours-a-day-softcover-by-hazelden.jpeg?v=1585855719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Since 1954, <em>Twenty-Four Hours a Day</em> has become a stable force in the recovery of many alcoholics throughout the world. With over nine million copies in print (the original text has been revised), this "little black book" offers daily thoughts, meditations, and prayers for living a clean and sober life. A spiritual resource with practical applications to fit our daily lives. "For yesterday is but a dream, and tomorrow is only a vision" is part of the Sanskrit proverb quoted at the beginning of the book which has become one of the basic building blocks for a life of sobriety. In addition to a thought, meditation and prayer for each day of the year, this handy, pocket-sized volume also contains the Serenity Prayer and the 12 Steps and 12 Traditions of Alcoholics Anonymous. It is a simple, yet effective way to help us relate the Twelve Steps to everyday life and helps us find the power not to take that first drink each day.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397358103</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397357635</id>
+    <published>2020-04-28T08:32:40-04:00</published>
+    <updated>2020-04-28T08:32:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/12-step-prayer-book-by-bill-p-and-lisa-d"/>
+    <title>12 Step Prayer Book, by Bill P. and Lisa D.</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12-step-prayer-book-by-bill-p-and-lisa-d_d9a1a46d-412b-46f7-9aa6-fed3b8bf0324.jpg?v=1605036318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wherever you are on your recovery journey, and however you define your Higher Power, you will find spiritual support in this special collection of prayers and inspirational readings. This second edition of The 12 Step Prayer Book features 183 passages gleaned from Twelve Step meetings and adapted from common prayers and devotions. It includes 44 new prayers and readings A guide for daily reading traditional and best-loved recovery prayers, and Step and meeting prayers. This book is an excellent accompaniment to Easy Does It: A Book of Daily Twelve Step Meditations.
+<p>A Collection of Favorite 12 Step Prayers and Inspirational Readings</p>
+<p>The 12 Step Prayer Book A Collection Of Favorite 12 Step Prayers And Inspirational Readings Softcover, 128 pages.  </p>
+<p>Publisher: Hazelden<br><br></p>
+<p>Item #: 6236</p>
+<p>ISBN: 1-568-38376-2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397357635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356935</id>
+    <published>2020-04-28T08:32:40-04:00</published>
+    <updated>2020-04-28T08:32:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a-day-at-a-time-daily-reflections-for-recovering-people-by-anonymous"/>
+    <title>A Day at a Time: Daily Reflections for Recovering People, by Anonymous</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a-day-at-a-time-daily-reflections-for-recovering-people-by-anonymous_aeff01a3-851c-426a-af78-96de155d1bbd.jpg?v=1604007270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These daily reflections, prayers, and tags of memory-sticking phrases are intended to offer inspiration, comfort, and, above all, hope to those recovering from alcoholism, or from other forms of chemical dependency or compulsive behavior.</p>
+<p>The book is based on the solid spiritual foundation of Alcoholics Anonymous (AA), and upon the Twelve Steps and Twelve Traditions. It draws also upon the great body of accumulated human wisdom--from Civilization's Golden Age to our not-always-so-golden modern era from Socrates to Bill W., co-founder of AA. Here, in brief day-by-day messages are some of these available riches, the words of poets, scholars, philosophers, psychologists, which are the verbal sums of centuries of human experience. May those sums and sayings serve as guidelines--a day at a time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356935</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356767</id>
+    <published>2020-04-28T08:32:39-04:00</published>
+    <updated>2020-04-28T08:32:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/365-tao-daily-meditations-by-deng-ming-dao"/>
+    <title>365 TAO: Daily Meditations, by Deng Ming-Dao</title>
+    <s:type>Books</s:type>
+    <s:vendor>Harper One</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/365-tao-daily-meditations-by-deng-ming-dao.jpg?v=1585855729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harper One<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Place the word Tao- Into your heart.- Use no other words.</p>
+<p>The Tao is constantly moving, the path that all life and the whole universe takes. There is nothing that is not part of its harmonious living is to know and to move with the Tao It is a way of life, the natural order of things, a force that flows through all life.</p>
+<p>365 Tao is a contemporary book of meditations on what it means to be wholly a part of the Taoist way, and thus to be completely in harmony with oneself and the surrounding world.</p>
+<p>Deng Ming-Dao is the author of eight books, including The Living I Ching, Chronicles of Tao, Everyday Tao, and Scholar Warrior. His books have been translated into fifteen languages. He studied qigong, philosophy, meditation, and internal martial arts with Taoist master Kwan Saihung for thirteen years, and with two other masters before that.</p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/1c0ba88f/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/6bc5a458/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/ba2f1dba/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356767</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

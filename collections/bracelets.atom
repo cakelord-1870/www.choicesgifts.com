@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/bracelets.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-07-13T18:53:09-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575148564545</id>
+    <published>2021-07-13T18:53:09-04:00</published>
+    <updated>2021-07-13T18:53:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-hematite-crystal-bracelet"/>
+    <title>C01.  Hematite Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/41jitaQD0lL._AC_SX425.jpg?v=1626216724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet. Also available in elastic with silver feather charm. Elastic options also available. </p>
+<ul>
+<li><span>Hematite: Stone Inner Strength and Power</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575148564545</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575148564545</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575148564545</id>
+      <title>Elastic with Silver Feather Charm</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575146106945</id>
+    <published>2021-07-13T18:33:25-04:00</published>
+    <updated>2021-07-13T18:33:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-tigers-eye-crystal-bracelet"/>
+    <title>C01.  Tiger&apos;s Eye Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/61azIU7V8CL._AC_UL1200.jpg?v=1626215627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet. Also available in elastic with silver protection charm.</p>
+<ul>
+<li><span>Tiger's Eye: Stone of Good Luck</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575146106945</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575146106945</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575146106945</id>
+      <title>Elastic with Silver Protection Charm</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575145320513</id>
+    <published>2021-07-13T18:28:08-04:00</published>
+    <updated>2021-07-13T18:28:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-rose-quartz-crystal-bracelet"/>
+    <title>C01.  Rose Quartz Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/61YTPa_3QTL._AC_SY300_QL30.jpg?v=1626215214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li><span>Red Jasper: Stone of Energy and Vitality</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575145320513</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575145320513</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575145320513</id>
+      <title>Elastic</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575144861761</id>
+    <published>2021-07-13T18:24:02-04:00</published>
+    <updated>2021-07-13T18:24:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-red-jasper-crystal-bracelet"/>
+    <title>C01.  Red Jasper Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/61Rp3oNiltL._AC_SL1200.jpg?v=1626215030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet. Also available in elastic options.</p>
+<ul>
+<li><span>Red Jasper: Stone of Energy and Vitality</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575144861761</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575144861761</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575144861761</id>
+      <title>Elastic</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575144370241</id>
+    <published>2021-07-13T18:21:06-04:00</published>
+    <updated>2021-07-13T18:21:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-snowflake-obsidian-crystal-bracelet"/>
+    <title>C01.  Snowflake Obsidian Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/61_5g3io8IL._AC_UL320.jpg?v=1626214854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li><span>Snowflake Obsidian: Removing negative thought patterns, balancing the self</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575144370241</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575144370241</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575143616577</id>
+    <published>2021-07-13T18:18:42-04:00</published>
+    <updated>2021-07-13T18:18:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-blue-goldstone-crystal-bracelet"/>
+    <title>C01.  Blue Goldstone Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/81Q7SYtvduL._AC_SX466.jpg?v=1626214712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li><span>Blue Goldstone: Power, Love, Money, Protection</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575143616577</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575143616577</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575143452737</id>
+    <published>2021-07-13T18:13:48-04:00</published>
+    <updated>2021-07-13T18:13:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c01-lapis-lazuli-crystal-bracelet"/>
+    <title>C01.  Lapis Lazuli Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/81zTtdlf9kL._AC_UY695.jpg?v=1626215952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li><span>Lapis Lazuli: Good Luck Stone, Stone of Protection</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575143452737</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575143452737</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575130804289</id>
+    <published>2021-07-13T17:36:35-04:00</published>
+    <updated>2021-07-13T17:36:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-c01-black-onyx-crystal-bracelet-new-multiple-varieties"/>
+    <title>C01.  Black Onyx Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/oswii59_42a40f0f-fb2b-4518-8f36-c4b7b717ab67.jpg?v=1626211207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li>Black Onyx: Changing Bad Energies</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575130804289</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575130804289</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6575126151233</id>
+    <published>2021-07-13T17:02:30-04:00</published>
+    <updated>2021-07-13T17:02:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-c01-crystal-bracelet-new-multiple-varieties-1"/>
+    <title>C01.  Aquamarine Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/oswii191_0147c1cb-0e9e-477f-8c82-2f63543d4a2b.jpg?v=1626210215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet.</p>
+<ul>
+<li><span>Aquamarine: Stone of Courage</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575126151233</id>
+      <title>Larger Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6575126151233</id>
+      <title>Smaller Beads</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6566248841281</id>
+    <published>2021-07-13T15:19:03-04:00</published>
+    <updated>2021-07-13T15:19:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/crystal-bracelet-new"/>
+    <title>C01.  Amethyst Crystal Bracelet</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Other</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/61clilnnN5L._AC_UL320.jpg?v=1626215656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Other<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These crystal bracelets are durable and stylish. Simply pull the two strings to tighten or loosen the bracelet, or elastic options are available. Also available in elastic.</p>
+<ul>
+<li>Amethyst: Soothing Stone<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6566248841281</id>
+      <title>Larger Corded</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6566248841281</id>
+      <title>Smaller Corded</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6566248841281</id>
+      <title>Elastic</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562512273473</id>
+    <published>2021-05-31T16:19:47-04:00</published>
+    <updated>2021-05-31T16:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/your-special-day-calendar-crown-bracelet-on-double-loop-chain-with-swarovski-crystal"/>
+    <title>Z17. &quot;Your Special Day&quot; Calendar Crown Bracelet on Double Loop Chain with Swarovski crystal</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Daniella Darren Park</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/102CrownBRAntiqueSilver01JanCropped__87906.1575969312.jpg?v=1626207434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniella Darren Park<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a one of a kind bracelet to commemorate your amazing day.  </p>
+<p><strong><span>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you.</span> </strong></p>
+<p data-mce-fragment="1">What's your 'Special Day'? Your birthday? Anniversary? Engagement? Wedding? Recovery Day? Graduation? Birth of your child? The list is endless!</p>
+<p data-mce-fragment="1">The Not Just Any Old Day...It's Your Special Day® Calendar Crown Charm Bracelet features the month of your choice with a Swarovski crystal that marks your special day. Our Calendar Bracelet incorporates our popular signature calendar "Datesake™" charm into a hip, stylish accessory that is not only beautiful but is a lovely, sentimental addition to your bracelet collection. Choose between Antique Silver or Antique Brass. Our plated pewter charm measuring 3/4" x 1" has a hand antiqued finish. Presented in a satin bag.</p>
+<p data-mce-fragment="1"> </p>
+<p>* This is a special order product that ships separately.  </p>
+<p><span><strong>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jan - Garnet / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jan - Garnet / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Feb - Dark Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Feb - Dark Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Mar - Aquamarine / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Mar - Aquamarine / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Apr - Clear Crystal / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Apr - Clear Crystal / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>May - Emerald / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>May - Emerald / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jun - Light Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jun - Light Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jul - Ruby / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jul - Ruby / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Aug - Peridot / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Aug - Peridot / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Sept - Saphire / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Sept - Saphire / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Oct - Rose / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Oct - Rose / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Nov - Yellow Topaz / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Nov - Yellow Topaz / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Dec - Blue Zircon / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Dec - Blue Zircon / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/8690450307</id>
+    <published>2020-05-08T14:02:25-04:00</published>
+    <updated>2020-05-08T14:02:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z22-copper-magnetic-two-worlds-bracelet-unisex-size-large-b16"/>
+    <title>Z22. Copper Magnetic Two Worlds Bracelet (Unisex Size Large). B16</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Sergio Lub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bracelet-c5-copper-magnetic-two-worlds-bracelet-unisex-size-large-b16.jpg?v=1585854764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sergio Lub<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bracelet with pure copper and copper alloy. The white metal is German Silver, 65% copper + zinc + nickel + silver. Handmade in California. Band is<span> carefully annealed in a heat treating process to comfortably adjust to the wearer's wrist, providing a maximum skin-copper contact area and the silver inlaid on top.</span></p>
+<p>At the endpoints are two powerful rare earth neodymium magnets encapsulated in stainless steel and providing a permanent magnetic charge of 4,000 to 5,600 Gauss per bracelet. For precautionary reasons - if you are pregnant, have a pacemaker or other electrical implant - please consult your doctor before wearing magnets.</p>
+<p>In 1954, Dr. Linus Pauling, received a Nobel Prize for his discovery of the magnetic properties of hemoglobin. Pauling found that iron, and many electrolytic salts in our blood, circulate bio-magnetically. Therefore, the proximity of a magnetic field may result in an acceleration of circulation and the transfer of energy to all areas of the body.</p>
+<p>Chinese doctors have known for millennia that a magnetic field, when next to the body, could markedly increase the wearers vital life force, known as Chi. The observed benefits were found to increase with the magnets proximity to acupressure points. The magnets in these bracelets are positioned to cover the two important acupuncture points of the wrist.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/8690450307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>748L</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/8690438083</id>
+    <published>2020-05-08T14:02:25-04:00</published>
+    <updated>2020-05-08T14:02:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z20-copper-magnetic-embrace-bracelet-unisex-size-large-b15"/>
+    <title>Z20. Copper Magnetic Embrace Bracelet (Unisex Size Large). B15</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Sergio Lub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bracelet-c3-copper-magnetic-embrace-bracelet-unisex-size-large-b15.jpg?v=1585854762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sergio Lub<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bracelet with pure copper and copper alloy. The white metal is German Silver, 65% copper + zinc + nickel + silver. Handmade in California. Band is<span> carefully annealed in a heat treating process to comfortably adjust to the wearer's wrist. Providing a maximum skin-copper contact area. Playful design of copper hugging silver.</span></p>
+<p>At the endpoints are two powerful rare earth neodymium magnets encapsulated in stainless steel and providing a permanent magnetic charge of 4,000 to 5,600 Gauss per bracelet. For precautionary reasons - if you are pregnant, have a pacemaker or other electrical implant - please consult your doctor before wearing magnets.</p>
+<p>In 1954, Dr. Linus Pauling, received a Nobel Prize for his discovery of the magnetic properties of hemoglobin. Pauling found that iron, and many electrolytic salts in our blood, circulate bio-magnetically. Therefore, the proximity of a magnetic field may result in an acceleration of circulation and the transfer of energy to all areas of the body.</p>
+<p>Chinese doctors have known for millennia that a magnetic field, when next to the body, could markedly increase the wearers vital life force, known as Chi. The observed benefits were found to increase with the magnets proximity to acupressure points. The magnets in these bracelets are positioned to cover the two important acupuncture points of the wrist.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/8690438083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>820L</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/8690427523</id>
+    <published>2020-05-08T14:02:24-04:00</published>
+    <updated>2020-05-08T14:02:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z21-copper-magnetic-rainforest-bracelet-unisex-size-med-b14"/>
+    <title>Z21. Copper Magnetic Rainforest Bracelet (Unisex Size Med). B14</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Sergio Lub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bracelet-c4-copper-magnetic-rainforest-bracelet-unisex-size-med-b14.jpg?v=1585854763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sergio Lub<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bracelet with pure copper and rare earth magnets at endpoints, handmade in California. Band is<span> carefully annealed in a heat treating process to comfortably adjust to the wearer's wrist. Providing a maximum skin-copper contact area. This design is i<span>nspired by how vines grow in the jungle, embracing each other, so together they become stronger and can reach the light.</span></span></p>
+<p>At the endpoints are two powerful rare earth neodymium magnets encapsulated in stainless steel and providing a permanent magnetic charge of 4,000 to 5,600 Gauss per bracelet. For precautionary reasons - if you are pregnant, have a pacemaker or other electrical implant - please consult your doctor before wearing magnets.</p>
+<p>In 1954, Dr. Linus Pauling, received a Nobel Prize for his discovery of the magnetic properties of hemoglobin. Pauling found that iron, and many electrolytic salts in our blood, circulate bio-magnetically. Therefore, the proximity of a magnetic field may result in an acceleration of circulation and the transfer of energy to all areas of the body.</p>
+<p>Chinese doctors have known for millennia that a magnetic field, when next to the body, could markedly increase the wearers vital life force, known as Chi. The observed benefits were found to increase with the magnets proximity to acupressure points. The magnets in these bracelets are positioned to cover the two important acupuncture points of the wrist.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/8690427523</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>776M</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/8690411907</id>
+    <published>2020-05-08T14:02:23-04:00</published>
+    <updated>2020-05-08T14:02:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z19-copper-magnetic-bracelet-unisex-size-med-b13"/>
+    <title>Z19. Copper Magnetic Bracelet (Unisex Size Med.  B13</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Sergio Lub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bracelet-c2-copper-magnetic-bracelet-unisex-size-med-b13.jpg?v=1585854761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sergio Lub<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bracelet with pure copper and rare earth magnets at endpoints, handmade in California. Band is<span> carefully annealed in a heat treating process to comfortably adjust to the wearer's wrist. Providing a maximum skin-copper contact area. This light design is i<span>nspired by the traditional cross legged and straight back posture for meditation.</span></span></p>
+<p>At the endpoints are two powerful rare earth neodymium magnets encapsulated in stainless steel and providing a permanent magnetic charge of 4,000 to 5,600 Gauss per bracelet. For precautionary reasons - if you are pregnant, have a pacemaker or other electrical implant - please consult your doctor before wearing magnets.</p>
+<p>In 1954, Dr. Linus Pauling, received a Nobel Prize for his discovery of the magnetic properties of hemoglobin. Pauling found that iron, and many electrolytic salts in our blood, circulate bio-magnetically. Therefore, the proximity of a magnetic field may result in an acceleration of circulation and the transfer of energy to all areas of the body.</p>
+<p>Chinese doctors have known for millennia that a magnetic field, when next to the body, could markedly increase the wearers vital life force, known as Chi. The observed benefits were found to increase with the magnets proximity to acupressure points. The magnets in these bracelets are positioned to cover the two important acupuncture points of the wrist.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/8690411907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>854M</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/8685244291</id>
+    <published>2020-05-08T14:02:23-04:00</published>
+    <updated>2020-05-08T14:02:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z18-copper-magnetic-bracelet-unisex-size-large-b12"/>
+    <title>Z18. Copper Magnetic Bracelet (Unisex size Large).  B12</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Sergio Lub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bracelet-c1-copper-magnetic-bracelet-unisex-size-large-b12.jpg?v=1585854761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sergio Lub<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid pure copper with rare earth magnets at endpoints, handmade in California. Band is<span> carefully annealed in a heat treating process to comfortably adjust to the wearer's wrist. Providing a maximum skin-copper contact area. This light design is favored by active people and it offers maximum copper-skin contact.</span> </p>
+<p>Each one of these magnetic bracelets contains two powerful rare earth neodymium magnets encapsulated in stainless steel and providing a permanent magnetic charge of 4,000 to 5,600 Gauss per bracelet. For precautionary reasons - if you are pregnant, have a pacemaker or other electrical implant - please consult your doctor before wearing magnets.</p>
+<p>In 1954, Dr. Linus Pauling, received a Nobel Prize for his discovery of the magnetic properties of hemoglobin. Pauling found that iron, and many electrolytic salts in our blood, circulate bio-magnetically. Therefore, the proximity of a magnetic field may result in an acceleration of circulation and the transfer of energy to all areas of the body.</p>
+<p>Chinese doctors have known for millennia that a magnetic field, when next to the body, could markedly increase the wearers vital life force, known as Chi. The observed benefits were found to increase with the magnets proximity to acupressure points. The magnets in these bracelets are positioned to cover the two important acupuncture points of the wrist.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/8685244291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>5226</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>

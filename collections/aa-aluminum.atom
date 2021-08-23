@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/aa-aluminum.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-11-05T13:18:17-05:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4610968911937</id>
+    <published>2020-11-05T13:18:17-05:00</published>
+    <updated>2020-11-05T13:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa-aluminum-recovery-coins-24-hrs-1-11-months"/>
+    <title>AA Aluminum Recovery Coins (24 hrs, 1-11 months)</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/aa-aluminum-recovery-coins-24-hrs-1-11-months_8b272383-358f-48e3-9599-bfcf96a2829f.jpg?v=1604600374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Commemorate your journey with colorful aluminum coins, with Serenity Prayer on the back. Great for all meetings, friends and family. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Medallions</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>24 Hours</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>01 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>02 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>03 Months</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>04 Months</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>05 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>06 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>07 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>08 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>09 Months</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>10 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4610968911937</id>
+      <title>11 Month</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>ACC</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1063749353508</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c62a-vietnam-vet-aluminum-coin"/>
+    <title>C62. Vietnam Vet Aluminum Coin</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c62-vietnam-vet-aluminum-coin.png?v=1592973231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back: Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1063749353508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1062895943716</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c50-odat-world-one-day-at-a-time-aluminum-coin-dc78"/>
+    <title>C52. ODAT, World, Aluminum Coin.  DC78</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c52-odat-world-aluminum-coin-dc78.jpg?v=1606858542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1062895943716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1062850101284</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c55-recovery-is-discovery-aluminum-coin"/>
+    <title>C55. Recovery Is Discovery, Aluminum.</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c55-recovery-is-discovery-aluminum.jpeg?v=1606772333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1062850101284</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/908872876068</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c28-first-things-first-serenity-prayer-back-aluminum-coin-dc138"/>
+    <title>C28. First Things First, Serenity Prayer. DC138</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c28-first-things-first-serenity-prayer-dc138.jpeg?v=1606772309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/908872876068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632830722084</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c46-never-alone-again-sun-front-fellowship-is-meeting-after-back-aluminum-coin-dc141"/>
+    <title>C46. Never Alone Again, Fellowship is Meeting, Aluminum. DC141</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c46-never-alone-again-fellowship-is-meeting-aluminum-dc141.jpeg?v=1606772216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632830722084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632825872420</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c23-easy-does-it-serenity-prayer-back-aluminum-coin-dc139"/>
+    <title>C23. Easy Does It, Serenity Prayer, Aluminum Coin. DC139</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c23-easy-does-it-serenity-prayer-aluminum-coin-dc139.jpeg?v=1606772212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632825872420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632823054372</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c24-elevator-is-broken-take-the-steps-aluminum-coin-dc107"/>
+    <title>C24. Elevator is Broken, Take Steps, Aluminum. DC107</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c24-elevator-is-broken-take-steps-aluminum-dc107.jpeg?v=1606772207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632823054372</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632815845412</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c40-keep-coming-back-serenity-prayer-back-aluminum-coin-dc77"/>
+    <title>C40. Keep Coming Back, Serenity Prayer, Aluminum.  DC77</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c40-keep-coming-back-serenity-prayer-aluminum-dc77.jpeg?v=1606772203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632815845412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632811454500</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c60a-to-thine-own-self-serenity-prayer-back-aluminum-coin-dc74"/>
+    <title>C60a. To Thine Own Self, Aluminum. DC74</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c60a-to-thine-own-self-aluminum-dc74.jpeg?v=1606772199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632811454500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632809848868</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c42-keep-it-simple-serenity-prayer-back-aluminum-coin-dc73"/>
+    <title>C43. Keep It Simple, Serenity Prayer, Aluminum. DC73</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c43-keep-it-simple-serenity-prayer-aluminum-dc73.jpeg?v=1606772194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632809848868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632807915556</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c08-butterfly-serenity-prayer-back-aluminum-coin-dc6"/>
+    <title>C08. Butterfly, Serenity Prayer (back), Aluminum Coin. DC6</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c08-butterfly-serenity-prayer-back-aluminum-coin-dc6.jpeg?v=1592972648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632807915556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632806408228</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c66-women-in-recovery-serenity-prayer-back-aluminum-coin-dc4"/>
+    <title>C66. Women in Recovery, Serenity Prayer. DC4</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c66-women-in-recovery-serenity-prayer-dc4.jpeg?v=1606772190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632806408228</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632804966436</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c51-odat-teddy-bear-one-day-at-a-time-aluminum-coin-dc3"/>
+    <title>C51. ODAT, Teddy Bear, Aluminum Coin. DC3</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c51-odat-teddy-bear-aluminum-coin-dc3.jpeg?v=1606772186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632804966436</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/632804278308</id>
+    <published>2014-12-04T20:37:00-05:00</published>
+    <updated>2014-12-04T20:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c12-camel-one-day-at-a-time-serenity-prayer-back-aluminum-coin-dc2"/>
+    <title>C14. Camel ODAT, Serenity Prayer (back), Aluminum Coin DC2</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c14-camel-odat-serenity-prayer-back-aluminum-coin-dc2.jpeg?v=1606772181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back:  Serenity Prayer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>Inspirational Medallions</s:tag>
+    <s:tag>TEST2</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/632804278308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/908899975204</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/welcome-one-day-at-a-time-aluminum-dc86"/>
+    <title>C63. Welcome, One Day At A Time, Aluminum. DC86</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c63-welcome-one-day-at-a-time-aluminum-dc86.jpeg?v=1606772318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:tag>Misc. Medallions</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/908899975204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/908829130788</id>
+    <published>2014-11-18T21:01:00-05:00</published>
+    <updated>2014-11-18T21:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/c110-camel-desert-w-camel-story-on-back-aluminum-coin-dc47"/>
+    <title>C12. Camel Desert, w Camel Story on back, Aluminum Coin. DC47</title>
+    <s:type>Medallions</s:type>
+    <s:vendor>Wendells</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/c12-camel-desert-w-camel-story-on-back-aluminum-coin-dc47.jpeg?v=1592972996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wendells<br>
+        <strong>Type: </strong>Medallions<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Inspirational</s:tag>
+    <s:tag>inspirational medallions</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/908829130788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

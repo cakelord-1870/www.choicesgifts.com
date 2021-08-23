@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/narcotics-anonymous.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-03-25T10:15:24-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6543625027649</id>
+    <published>2021-03-25T10:15:24-04:00</published>
+    <updated>2021-03-25T10:15:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/an-introductory-guide-to-na"/>
+    <title>An Introductory Guide to Narcotics Anonymous</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/1200_1_1.png?v=1616681716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This pocket-sized softcover book contains the Basic Text's chapter on the Twelve Steps and  informational pamphlets designed for newcomers.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6543625027649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>1200</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356903</id>
+    <published>2017-01-23T12:45:00-05:00</published>
+    <updated>2017-01-23T12:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/narcotics-anonymous-basic-text-6th-edition-pocket-size"/>
+    <title>Narcotics Anonymous Basic Text 6th Edition - Pocket-size</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/narcotics-anonymous-basic-text-6th-edition-pocket-size.jpg?v=1585854910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> A mini version of the Basic Text, perfect for carrying around in your pocket and reading on the go.  Also a great gift for anyone in the program.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/9789199310</id>
+    <published>2014-10-30T15:12:00-04:00</published>
+    <updated>2014-10-30T15:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/guiding-principles-the-spirit-of-our-traditions"/>
+    <title>Guiding Principles, The Spirit of Our Traditions</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/guiding-principles-the-spirit-of-our-traditions.jpg?v=1585854849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is NA's newest fellowship approved book, which contains tools, text, and questions meant to facilitate the discussion and inspire action in groups, workshops and sponsorship.  This book is a collection of experience and ideas on how to work through issues together, using the principles embodied in the Traditions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/9789199310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356979</id>
+    <published>2014-10-30T15:12:00-04:00</published>
+    <updated>2014-10-30T15:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/it-works-how-and-why-hardcover"/>
+    <title>It Works: How and Why - Hardcover</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/it-works-how-and-why-hardcover.jpg?v=1585854858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>To the member: This book is a discussion of the Twelve Steps and Traditions of NA, meant to help you determine your own interpretation of the principles contained therein. We hope “that this book truly represents the therapeutic value of one addict helping another.”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356947</id>
+    <published>2014-10-30T15:12:00-04:00</published>
+    <updated>2014-10-30T15:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/narcotics-anonymous-step-working-guides"/>
+    <title>Narcotics Anonymous Step Working Guides</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/narcotics-anonymous-step-working-guides.jpeg?v=1585854911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku/>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356919</id>
+    <published>2014-10-30T15:12:00-04:00</published>
+    <updated>2014-10-30T15:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/it-works-how-and-why-softcover"/>
+    <title>It Works: How and Why - Softcover</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/it-works-how-and-why-softcover.jpg?v=1585854860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>To the member: This book is a discussion of the Twelve Steps and Traditions of NA, meant to help you determine your own interpretation of the principles contained therein. We hope “that this book truly represents the therapeutic value of one addict helping another.”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books Featured</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356919</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/5269119171</id>
+    <published>2014-10-30T15:11:00-04:00</published>
+    <updated>2014-10-30T15:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na-just-for-today-pocketsize-softcover"/>
+    <title>Just for Today - Pocket-size Softcover</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/just-for-today-pocket-size-softcover.jpg?v=1585854862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First published in August 1992, this book helps NA members focus on a new recovery principle every day. Each of the 366 daily entries opens with an NA quote, examines the day's topic, and closes with a focusing thought or affirmation. Includes subject index.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/5269119171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356843</id>
+    <published>2014-10-30T15:11:00-04:00</published>
+    <updated>2014-10-30T15:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na-living-clean-the-journey-continues"/>
+    <title>Living Clean: The Journey Continues (Hardcover)</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/living-clean-the-journey-continues.jpeg?v=1585854870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hard Cover Edition
+<p>- </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356827</id>
+    <published>2014-10-30T15:11:00-04:00</published>
+    <updated>2014-10-30T15:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na-just-for-today"/>
+    <title>Just for Today - Softcover</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/just-for-today-softcover.jpg?v=1585854863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First published in August 1992, this book helps NA members focus on a new recovery principle every day. Each of the 366 daily entries opens with an NA quote, examines the day's topic, and closes with a focusing thought or affirmation. Includes subject index.</p>
+<p>Size:   4.5 x 6.8 inches.    </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Books Featured</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397356811</id>
+    <published>2014-10-30T15:11:00-04:00</published>
+    <updated>2014-10-30T15:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/narcotics-anonymous-basic-text-6th-edition-soft-cover"/>
+    <title>Narcotics Anonymous Basic Text 6th Edition - Soft Cover</title>
+    <s:type>Books</s:type>
+    <s:vendor>NA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/narcotics-anonymous-basic-text-6th-edition-soft-cover.jpg?v=1585854911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> This is the basic text of Narcotics Anonymous fellowship.  Just as with alcoholism, there is no cure for narcotic addition, but recovery is possible through a program adapted from the "Twelve Steps and Twelve Traditions" of Alcoholics Anonymous.  This book, written by addicts, for addicts, about addicts, sets forth the spiritual principles of Narcotics Anonymous that hundreds of thousands of addicts have used in recovery.   Intended as a complete textbook for every addict seeking recovery, "Narcotics Anonymous" describes the N.A. program and how it works.  It includes the "N.A. Twelve Steps and Twelve Traditions", as well as many personal stories of men and women who have found freedom from addiction through Narcotics Anonymous.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>NA Literature</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397356811</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+</feed>

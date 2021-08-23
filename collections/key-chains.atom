@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/key-chains.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-22T21:19:29-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210714689</id>
+    <published>2021-05-22T21:19:29-04:00</published>
+    <updated>2021-05-22T21:19:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver-1"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_57482eb7-4da6-4fdf-ab46-31add7e7bf6a.jpg?v=1621732778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210681921</id>
+    <published>2021-05-22T21:18:31-04:00</published>
+    <updated>2021-05-22T21:18:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_7bb541d0-4f67-42a5-9427-45e4e8eb50ed.jpg?v=1621732726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210583617</id>
+    <published>2021-05-22T21:17:56-04:00</published>
+    <updated>2021-05-22T21:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63b-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63B. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/DBA2F25F-680E-4EB5-8244-2A5103029640_4_5005_c_643a2ed2-2d11-44e7-88d1-9a1ac5aeeb60.jpg?v=1621732754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210550849</id>
+    <published>2021-05-22T21:17:37-04:00</published>
+    <updated>2021-05-22T21:17:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63a-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63A. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/3B6FC666-D652-4419-8635-4E644D0ABF40_4_5005_c_95f2c442-747c-40d5-a0c7-c64aa05760bb.jpg?v=1621732659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210026561</id>
+    <published>2021-05-22T21:09:53-04:00</published>
+    <updated>2021-05-22T21:09:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/65c-money-clip-aa-na-leather-magnetic-money-clip-1"/>
+    <title>65C. Money Clip: AA &amp; NA Leather Magnetic Money Clip</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/828D09CD-9253-4EF4-A358-27C7A534D4F0_4_5005_c_c323c789-8f82-4dff-86e9-547a6e9a5dd2.jpg?v=1621732349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Leather Magnetic Money Clip to keep your dollars safe.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Sturdy clip can also be used as a large paper clip to keep your <br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">papers in one place.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Brown Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Gold</b><br></span>
+</div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Black Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Silver</b><br></span>
+</div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Measures: 2.5" x 4" </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Various Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>AA / AA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA Money Clip Brown w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>AA / AA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA MC Blk w Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>NA / NA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>NA / NA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560209993793</id>
+    <published>2021-05-22T21:09:32-04:00</published>
+    <updated>2021-05-22T21:09:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/65b-money-clip-aa-na-leather-magnetic-money-clip-1"/>
+    <title>65B. Money Clip: AA &amp; NA Leather Magnetic Money Clip</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/CBED35D8-936D-4B40-8A85-2D542E762440_4_5005_c_bc158933-12db-4744-ac20-ae1003a6f779.jpg?v=1621732334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Leather Magnetic Money Clip to keep your dollars safe.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Sturdy clip can also be used as a large paper clip to keep your <br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">papers in one place.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Brown Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Gold</b><br></span>
+</div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Black Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Silver</b><br></span>
+</div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Measures: 2.5" x 4" </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Various Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209993793</id>
+      <title>AA / AA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA Money Clip Brown w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209993793</id>
+      <title>AA / AA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA MC Blk w Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209993793</id>
+      <title>NA / NA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209993793</id>
+      <title>NA / NA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560209829953</id>
+    <published>2021-05-22T21:07:21-04:00</published>
+    <updated>2021-05-22T21:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/65a-money-clip-aa-na-leather-magnetic-money-clip"/>
+    <title>65A. Money Clip: AA &amp; NA Leather Magnetic Money Clip</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/4C2D05ED-9953-469E-B9ED-DB61CCA1F5AB_4_5005_c_6db7e767-b394-4a30-a080-430b2749466a.jpg?v=1621732329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Leather Magnetic Money Clip to keep your dollars safe.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Sturdy clip can also be used as a large paper clip to keep your <br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">papers in one place.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Brown Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Gold</b><br></span>
+</div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Black Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Silver</b><br></span>
+</div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Measures: 2.5" x 4" </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Various Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209829953</id>
+      <title>AA / AA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA Money Clip Brown w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209829953</id>
+      <title>AA / AA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA MC Blk w Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209829953</id>
+      <title>NA / NA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560209829953</id>
+      <title>NA / NA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4185848003</id>
+    <published>2021-05-21T14:19:46-04:00</published>
+    <updated>2021-05-21T14:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/47-k13-key-chain-metal-medallion-holder-shiny-or-brushed-tear-drop"/>
+    <title>47. K13. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/choiceskeychains-7.jpg?v=1623781513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in either Shiny Silver or Brushed Silver finishes. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4185848003</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM12S#K20. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4185848003</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K20. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/507606237220</id>
+    <published>2021-05-21T14:06:56-04:00</published>
+    <updated>2021-05-21T14:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/43k03-grateful-dead-key-chain-gold-or-silver-medallion-included"/>
+    <title>43K03. Grateful Dead Key Chain, Gold or Silver.  Medallion Included</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12_3500d631-61ac-4f87-9258-bed114de010e.png?v=1623775661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Grateful Dead Keychain medallion!  New!    Great gift item for your friends, sponsor or sponsee.  Comes in Gold or Silver lettering and velvet pouch.  </p>
+<p><span>This medallion is copyright protected by Choices ©2009.   All rights Reserved.  </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/507606237220</id>
+      <title>Silver</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey-Gold1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/507606237220</id>
+      <title>Gold</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey- Silver1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559917342785</id>
+    <published>2021-05-21T14:06:32-04:00</published>
+    <updated>2021-05-21T14:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/44k04-grateful-dead-key-chain-gold-or-silver-medallion-included"/>
+    <title>44K04. Grateful Dead Key Chain, Gold or Silver.  Medallion Included</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12.png?v=1623775519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Grateful Dead Keychain medallion!  New!    Great gift item for your friends, sponsor or sponsee.  Comes in Gold or Silver lettering and velvet pouch.  </p>
+<p><span>This medallion is copyright protected by Choices ©2009.   All rights Reserved.  </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559917342785</id>
+      <title>Silver</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey-Gold1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559917342785</id>
+      <title>Gold</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey- Silver1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1158700924964</id>
+    <published>2020-04-28T08:31:27-04:00</published>
+    <updated>2020-04-28T08:31:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/62-key-chain-serenity-prayer"/>
+    <title>62. Key Chain:  Serenity Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/35495394-C8C9-41B5-BF08-D1762552CEC3_4_5005_c.jpg?v=1621735388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1158700924964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>Serenity Key</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/409242730532</id>
+    <published>2020-04-28T08:31:25-04:00</published>
+    <updated>2020-04-28T08:31:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/71-money-clip-medallion-holder-shiny-silver-finish"/>
+    <title>71. Money Clip Medallion Holder Shiny Silver Finish</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k19-money-clip-medallion-holder-shiny-silver-finish.jpg?v=1608154686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful money clip can be used with any standard sized bronze or tricolored medallion.   It comes with sturdy, double sided tape for use with any coin.   </p>
+<p>Coin NOT included.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242730532</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242730532</id>
+      <title>Shiny Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Shiny Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242730532</id>
+      <title>Matte Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Matte Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/409242533924</id>
+    <published>2020-04-28T08:31:24-04:00</published>
+    <updated>2020-04-28T08:31:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/70-money-clip-medallion-holder-matte-gold-finish"/>
+    <title>70. Money Clip Medallion Holder Matte Gold Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k21-money-clip-medallion-holder-matte-gold-finish.jpg?v=1608154667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful money clip can be used with any standard sized bronze or tricolored medallion.   It comes with sturdy, double sided tape for use with any coin.   </p>
+<p>Coin NOT included.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242533924</id>
+      <title>Matte Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>k12 Matte Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242533924</id>
+      <title>Shiny Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>k12 Shiny Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409242533924</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>k12  Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/409241485348</id>
+    <published>2020-04-28T08:31:23-04:00</published>
+    <updated>2020-04-28T08:31:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/69-money-clip-medallion-holder-matte-gold-finish"/>
+    <title>69. Money Clip Medallion Holder Matte Gold Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k20-money-clip-medallion-holder-matte-gold-finish.jpg?v=1608154646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful money clip can be used with any standard sized bronze or tricolored medallion.   It comes with sturdy, double sided tape for use with any coin.   </p>
+<p>Coin NOT included.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409241485348</id>
+      <title>Shiny Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Shiny Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409241485348</id>
+      <title>Matte Gold</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Matte Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/409241485348</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MC1 Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11409719758</id>
+    <published>2020-03-14T15:09:51-04:00</published>
+    <updated>2020-03-14T15:09:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/72-money-clip-medallion-holder-gold-shiny-finish-with-swarovski-bling"/>
+    <title>72. Money Clip Medallion Holder. Gold Shiny Finish with Swarovski Bling.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k22-money-clip-medallion-holder-gold-shiny-finish-with-swarovski-bling.jpg?v=1608154623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful money clip can be used with any standard sized bronze or tricolored medallion. It comes with sturdy, double-sided tape for use with any coin.   </p>
+<p>Does NOT include Coin.   Shown with NA black bling coin.  </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11409719758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>#K18 Money Clip Medallion Holder. Gold Shiny Finish with Swarovski Bling.</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4971084483</id>
+    <published>2016-01-27T14:56:00-05:00</published>
+    <updated>2016-01-27T14:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/46-k12-key-chain-metal-medallion-holder-shiny-or-brushed-round"/>
+    <title>46. K12. Key Chain: Metal Medallion Holder, Shiny or Brushed, ROUND.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k12-key-chain-metal-medallion-holder-shiny-or-brushed-round.jpg?v=1608154610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in Silver only. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4971084483</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K19. Key Chain: Metal Medallion Holder, Shiny or Brushed, ROUND.</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4971084483</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K19. Key Chain: Metal Medallion Holder, Shiny or Brushed, ROUND.</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2303086659</id>
+    <published>2015-02-27T18:34:00-05:00</published>
+    <updated>2015-02-27T18:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/49-k15-key-chain-metal-medallion-holder-shiny-or-brushed-square"/>
+    <title>49. K15. Key Chain: Metal Medallion Holder, Shiny or Brushed, SQUARE.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/choiceskeychains-11.jpg?v=1623781784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in either Shiny Silver or Brushed Silver finishes. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2303086659</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM14S</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2303086659</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM14B</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/460366255</id>
+    <published>2015-02-27T18:34:00-05:00</published>
+    <updated>2015-02-27T18:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/48-k14-key-chain-metal-medallion-holder-shiny-or-brushed-shield"/>
+    <title>48. K14. Key Chain: Metal Medallion Holder, Shiny or Brushed, SHIELD.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/choiceskeychains-13.jpg?v=1623781728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in either Shiny Silver or Brushed Silver finishes. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/460366255</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM19B</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/460366255</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM19B</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/460365399</id>
+    <published>2015-02-27T18:29:00-05:00</published>
+    <updated>2015-02-27T18:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/45k11-key-chain-metal-medallion-holder-shiny-or-brushed-stop-sign"/>
+    <title>45K11. Key Chain: Metal Medallion Holder, Shiny or Brushed, STOP SIGN.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/choiceskeychains-1.jpg?v=1623776057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in either Shiny Silver or Brushed Silver finishes. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/460365399</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K18. Key Chain: Metal Medallion Holder, Shiny or Brushed, STOP SIGN.</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/460365399</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K18. Key Chain: Metal Medallion Holder, Shiny or Brushed, STOP SIGN.</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/430262011</id>
+    <published>2015-01-10T12:43:00-05:00</published>
+    <updated>2015-01-10T12:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/75-key-ring-hp-higher-power-touchstone"/>
+    <title>75. Key Ring: HP (Higher Power) Touchstone.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Global Motion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k42-key-ring-hp-higher-power-touchstone.jpg?v=1621735577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Motion<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>HP in Code of Braille. Stainless Steel with Marine hardware style clip. Multi-use as a Key Ring, Jean Jewelry, Bag Jewelry, Zipper Pull, Attach to Belts, or as a Pendant. Included in a silver pouch with description.</span></p>
+<p><span>With blind faith, I ask the Higher Power, to flow into my heart and help restore me to a sound mind.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keychains</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/430262011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KEYHP</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1156295262244</id>
+    <published>2015-01-02T18:04:00-05:00</published>
+    <updated>2015-01-02T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/57-k36-key-chain-powerless"/>
+    <title>57. K36. Key Chain: Powerless</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Pins N Gifts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k36-key-chain-powerless.jpeg?v=1585852820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pins N Gifts<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold plated key chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1156295262244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>#K16. Key Chain: Powerless</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1156293525540</id>
+    <published>2015-01-02T18:04:00-05:00</published>
+    <updated>2015-01-02T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/55-key-chain-expect-a-miracle"/>
+    <title>55. Key Chain: Expect a Miracle</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Pins N Gifts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k34-key-chain-expect-a-miracle.jpeg?v=1585852819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pins N Gifts<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold plated key chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1156293525540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>#K14. Key Chain: Expect a Miracle</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1156293328932</id>
+    <published>2015-01-02T18:04:00-05:00</published>
+    <updated>2015-01-02T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/54-k33-key-chain-easy-does-it-but-do-it"/>
+    <title>54. K33. Key Chain: Easy Does It But Do It</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Pins N Gifts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k33-key-chain-easy-does-it-but-do-it.jpeg?v=1585852818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pins N Gifts<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold plated key chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1156293328932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>#K13. Key Chain: Easy Does It But Do It</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1156289724452</id>
+    <published>2015-01-02T18:04:00-05:00</published>
+    <updated>2015-01-02T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/56-k35-key-chain-higher-powered"/>
+    <title>56. K35. Key Chain: Higher Powered</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Pins N Gifts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k35-key-chain-higher-powered.jpeg?v=1585852820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pins N Gifts<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold plated key chain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1156289724452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>#K15. Key Chain: Higher Powered</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/856975540260</id>
+    <published>2015-01-02T18:04:00-05:00</published>
+    <updated>2015-01-02T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/3C857519-3515-40C3-95D8-9E95052FF92A_4_5005_c.jpg?v=1621732739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/856975540260</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/856975540260</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/856975540260</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/856975540260</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

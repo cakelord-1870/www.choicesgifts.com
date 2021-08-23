@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/candles.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-05T17:56:17-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554741014593</id>
+    <published>2021-05-05T17:56:17-04:00</published>
+    <updated>2021-05-05T17:56:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a143-palo-santo"/>
+    <title>a143. Palo Santo</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Abbey Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/palo_santo__42189.1515726945.jpg?v=1621740816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abbey Press<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="_04xlpA direction-ltr align-center para-style-body"><strong><span class="JsGRdQ">Warmth | Love | Positive Energy<br></span></strong><span class="JsGRdQ">One stick of palo santo, </span><span class="JsGRdQ">~ 4 inches</span></p>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">Meaning 'holy wood' in Spanish, palo santo is used to purify and cleanse a space.</span><span class="JsGRdQ white-space-prewrap"> </span></p>
+<p class="_04xlpA direction-ltr align-center para-style-body"><span class="JsGRdQ">It's said to lift the mood, inspire creativity, reduce stress, and support the immune system. Palo santo will protect your space from negative energies.</span></p>
+<p>Burning palo santo: Open all windows and doorways if possible, and light the palo santo with a specific intention in mind. Let the smoke drift into every corner of the home. Palo santo will burn out on its own if left on a fire safe dish.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Palo Santo</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554741014593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554738655297</id>
+    <published>2021-05-05T17:30:19-04:00</published>
+    <updated>2021-05-05T17:30:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a142-essential-oils-echo-essential-oils"/>
+    <title>a142. Essential Oils: Echo Essential Oils</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Benjamin International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/echoessentialoils.jpg?v=1620249136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Benjamin International<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            9.95 - 29.95
+            <a href="https://www.choicesgifts.com/products/a142-essential-oils-echo-essential-oils">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PURE ESSENTIAL OILS</strong><br>100% pure essential oil | aromatherapy grade | 0.3 fl. oz.</p>
+<p>These essential oils are great to use as aromatherapy oil, massage oil, or perfume.<br><br>Aromatherapy: Place a drop of essential oil on an oil burner and heat it gently. Feel free to dilute with water as needed.</p>
+<p>Massage: Mix essential oil with a base oil such as avocado or grape seed oil to enhance massage.</p>
+<p>Perfume:<span> </span>Apply essential oil as is, or mix with a base oil or water to make it gentler on the senses. A drop of 100% essential oil goes a long way.</p>
+<p><span>Keep out of reach of children.  For external use only. Dilute properly. May irritate skin. If pregnant or nursing, please consult doctor before using.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Cedarwood</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Cinnamon</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Clary Sage</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Clove</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Eucalyptus</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Frankincense</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Geranium</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Grapefruit</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Lavender</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Lemon</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Lime</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Myrrh</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Orange</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Patchouli</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Rosemary</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Tea Tree</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554738655297</id>
+      <title>Ylang Ylang</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554728071233</id>
+    <published>2021-05-05T16:28:02-04:00</published>
+    <updated>2021-05-05T16:28:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a140-incense-organic-goodness-masala-incense-sticks"/>
+    <title>a140. Incense: Organic Goodness Masala Incense Sticks</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>R Expo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/Insence_Sticks_Group_800x_9e7c5785-796c-4b4c-9021-24d72c04ae82.jpg?v=1621740525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>R Expo<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ORGANIC INCENSE</strong><br>15g | contains ~15 sticks | 40-45 minute burn time per stick</p>
+<p>These hand-rolled masala incense sticks have been carefully prepared with natural wood powder and herbal essential oil extracts to enable a truly enriching experience.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Arabian Oudh</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Dragon&apos;s Blood</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Jasmine</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Nag Champa</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Rose</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>Sandalwood</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554728071233</id>
+      <title>White Sage</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/5812475395</id>
+    <published>2020-05-08T14:03:51-04:00</published>
+    <updated>2020-05-08T14:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a141-candle-mini-himalayan-salt-lamp-with-usb-plug"/>
+    <title>a141. Candle: Mini Himalayan Salt Lamp with USB Plug*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>WBM International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/candle-mini-himalayan-salt-lamp-with-usb-plug-2.jpg?v=1621740652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WBM International<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Unique salt lamp is made from Natural Himalayan salt crystals hand mined in the Himalayan Mountains Once lit the lamp will emit a calming Amber color and will switch color automatically between : Orange, Blue, Pink, Red, Green and Purple. Can be used on your desk connected to your USB port or by your side table plugged to the A/C. Heating the salt with the included LED bulb releases negative ions into the air, creating an effect similar to an ionizer, purifying the surrounding air. Due to the natural variation in Himalayan Crystal salt, weight, size, color and shape may vary.</span></p>
+<p><span>Includes: USB cable, LED Bulb &amp; AC adapter </span></p>
+<p><span>Material: Himalayan Crystal Salt , Neem wood base </span></p>
+<p><span>Finish: Natural </span></p>
+<p><span style="text-decoration: underline;"><strong>*This product ships via Fed Ex.</strong>  <meta charset="utf-8"> <strong data-mce-fragment="1">*Excluded from "FREE" shipping due to weight/packing requirements.  </strong></span></p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/a870c79d/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/6bc5a458/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/6bc5a458/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/e8077bab/background/helpers/prefilterHelper.js"></script> <script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/e8077bab/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/5812475395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku>Candle: Mini Himalayan Salt Lamp with USB Plug*</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/510765203492</id>
+    <published>2020-04-28T08:23:24-04:00</published>
+    <updated>2020-04-28T08:23:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a139-incense-satya-incense-sticks"/>
+    <title>a139. Incense: Satya Incense Sticks</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>R Expo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/incense-satya-nag-champra-incense-sticks-15gm.jpg?v=1620245806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>R Expo<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            2.95 - 3.95
+            <a href="https://www.choicesgifts.com/products/a139-incense-satya-incense-sticks">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<table align="center">
+<tbody>
+<tr>
+<td>
+<div id="ds_div">
+<div><span size="4" face="Verdana" color="#00429a" style="color: #00429a; font-family: Verdana; font-size: large;">SATYA INCENSE 15g Incense Sticks </span></div>
+<div>
+<span size="4" face="Verdana" color="#00429a" style="color: #00429a; font-family: Verdana; font-size: large;">Contains 10-15 Sticks, </span><span size="4" face="Verdana" color="#00429a" style="color: #00429a; font-family: Verdana; font-size: large;">One 15g package   </span>
+</div>
+<div><span size="4" face="Verdana" color="#00429a" style="color: #00429a; font-family: Verdana; font-size: large;"> </span></div>
+<div>
+<span face="Verdana" color="#00429a" style="color: #00429a; font-family: Verdana;">Satya incense are a hand-rolled blend of flowers, spices, and resins, and each stick burns for about 45 minutes. The natural ingredients, herbs, resins and masala are blended to perfection to create a soothing aroma.</span><span> </span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Ayurveda</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Blessings</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Bliss</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Californian White Sage</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-15</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Celestial</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Divine Temple</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-16</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Dragon&apos;s Blood</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-13</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Eastern Tantra</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Egyptian Musk</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-14</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Fortune</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Harmony</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>India Temple</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-12</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Jasmine Blossom</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-5</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Lavendar</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-19</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Meditation</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Midnight</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-6</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Money</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-23</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Money Matrix</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Mystic Yoga</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Nag Champa</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Namaste</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-17</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Nirvana</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Opium</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-18</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Palo Santo</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Patchouli Forest</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-7</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Rain Forest</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-8</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Reiki Power</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-20</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Romance</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-9</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Rose</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>incense-21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Sacred Ritual</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Sandalwood</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-10</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Seven Chakra</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Spiritual Aura</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-22</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Sunrise</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>incense-11</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/510765203492</id>
+      <title>Tree of Life</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/9222150542</id>
+    <published>2020-04-28T08:23:22-04:00</published>
+    <updated>2020-04-28T08:23:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a146-sage-small-medium-large"/>
+    <title>a146. Sage: Small, Medium, Large</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Abbey Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/8137uzy8YDL._AC_SL1500.jpg?v=1621741009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abbey Press<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            4.50 - 12.50
+            <a href="https://www.choicesgifts.com/products/a146-sage-small-medium-large">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Sage Bundle </p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Hand Picked, Hand Crafted, Dried, &amp; Wrapped with 100% Cotton String</span></li>
+<li><span class="a-list-item">Fresh California White Sage (Salvia apiana)</span></li>
+<li><span class="a-list-item">Used for Spirtual Cleansing and Purification</span></li>
+<li><span class="a-list-item">Great Scent, Soothing &amp; Robust Aroma</span></li>
+</ul>
+<p><span class="a-list-item">Small:  3.5-4 inches;  Medium 4.5-5.5 inches;   Large:  9 inches.  </span></p>
+<p> </p>
+<p><strong><u>Burning Sage</u></strong></p>
+<ul>
+<li>Plan your ritual. Decide what you are trying to accomplish by burning this sage. The practice of burning sage is ancient, rich, and steeped in cultural tradition.</li>
+<li>The power of intent is integral here. If you burn sage with the intention to cleanse your home of negative energy, then it is incredibly more likely to do so. Any effect of the plant must be rooted in your mind.</li>
+<li>Perhaps you want to cleanse your home of negative energy. Perhaps you wish to interact with an ancient herbal tradition and rekindle the ancient rites. Perhaps you simply want to burn incense and spruce up your home with a pleasing scent.</li>
+</ul>
+<p><strong><u>Understand what sage can do. </u></strong></p>
+<p>Many of the benefits are spiritual and psychological--but there is a physical component.</p>
+<ul>
+<li>On a spiritual level: Many people use sage burning and smudging to connect with ancestral tradition. It is a common belief that the strong scent of sage can purge the negative energy from a room, a home, and a heart.</li>
+<li>On a psychological level: The act of burning sage can mark a beginning, a resolution, a turning-over of a new leaf. When you accept the time-honored ritual and put your faith in the power of burnt sage, you can purge yourself of negativity and find true peace of mind.</li>
+<li>On a physical level: Sage releases negative ions into the air when it is burned, and research suggests that exposure to negative ions may correlate to lower rates of depression. The strength of this correlation is still unclear, but know that sage at least has not been shown to have any negative effect.</li>
+</ul>
+<p><span class="a-list-item"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/9222150542</id>
+      <title>Small</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>sageS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/9222150542</id>
+      <title>Medium</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>sageM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/9222150542</id>
+      <title>Large</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>sageL</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4450217754689</id>
+    <published>2020-04-26T19:08:29-04:00</published>
+    <updated>2020-04-26T19:08:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a136-candle-herbal-magic-votive-candle"/>
+    <title>a136. Candle: Herbal Magic Votive Candle*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>CRYSTAL JOURNEY CANDLES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/edited.jpg?v=1621740430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CRYSTAL JOURNEY CANDLES<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Each candle has been designed with a specific intention using a unique blend of essential oils. Each candle comes with an affirmation and inspirational message. </span></p>
+<ul>
+<li><span style="line-height: 1.5;">Abundance- Clove, Citronella, Lemon Balm, Cinnamon, Nutmeg. Use to attract prosperity, increase success and obtain material possessions.Use in combination with Problem Solving candle when starting a new business</span></li>
+<li>
+<span style="line-height: 1.5;">Angel's Influence- </span><span style="line-height: 1.5;">Honeysuckle, Sweet Heather, Rose, Peppermint. </span><span style="line-height: 1.5;">Use to honor and call upon our Angels. </span><span style="line-height: 1.5;">Use in combination with Ascended Master and Guides to know you're supported and loved.</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Creativity - Iris, Rose, Cinnamon. </span><span style="line-height: 1.5;">Use to free oneself from the burdens of the world in order to explore new dimensions, discover new thoughts, ideas and emotions.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Good Health - </span><span style="line-height: 1.5;">Clove, Nutmeg, Lemon Balm, Poppy Seed, Cedar, Honeysuckle, Juniper. </span><span style="line-height: 1.5;">Use to heal the physical body. </span><span style="line-height: 1.5;">Use in combination with Harmony candle to heal pets.</span>
+</li>
+<li><span style="line-height: 1.5;">Gratitude - Lavender, musk, clove, and cedar</span></li>
+<li>
+<span style="line-height: 1.5;"> Healing - </span><span style="line-height: 1.5;">Cedar, Ocean, Lemon Balm, Heather. </span><span style="line-height: 1.5;">Use to heal the body, mind and soul. </span><span style="line-height: 1.5;">Use in combination with Peace to heal Mother Earth, animals and 4 elements.</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Joy - Plumeria, Jasmine, Sandalwood. </span><span style="line-height: 1.5;">Use to discover true joy within one's being.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Love - </span><span style="line-height: 1.5;">Olive Oil, Patchouli, Rose, Clove, Lavender, Dragon's Blood. </span><span style="line-height: 1.5;">Use to attract someone to you. </span><span style="line-height: 1.5;">Use in combination with Harmony to find a compatible roommate. </span><span style="line-height: 1.5;">Use in combination with Abundance candle to attract clients to your business.</span>
+</li>
+<li><span style="line-height: 1.5;">Manifest a Miracle - Magnolia, Honeysuckle, Rose. Use to aid and enhance your love and desire. Use in combination with Angle Influence candle to manifest a miracle!!</span></li>
+<li>
+<span style="line-height: 1.5;"> Money - </span><span style="line-height: 1.5;">Clove, Cinnamon, Nutmeg, Myrrh, Citronella, Rain. </span><span style="line-height: 1.5;">Use to attract lotteries, raises and cash. </span><span style="line-height: 1.5;">Use in combination with Abundance for business moves, career moves or starting new projects.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Mother - </span><span style="line-height: 1.5;">Orange blossom, chamomile, and vanilla.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Peace - </span><span style="line-height: 1.5;">Vanilla, Clove, Myrrh, Ginger Root, Caraway Seed. </span><span style="line-height: 1.5;">Use to create tranquil environment and quiet the mind. </span><span style="line-height: 1.5;">Use in combination with Harmony candle to create a loving home environment.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Positive Energy - </span><span style="line-height: 1.5;">Frankincense, Dragon's Blood, Sandalwood, Saffron. </span><span style="line-height: 1.5;">Use to attract positive energy into your life. </span><span style="line-height: 1.5;">Use in combination with Good Health candle to correct nerve or muscular problems.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Protection - </span><span style="line-height: 1.5;">Frankincense, Sandalwood, Rosemary, Clove. </span><span style="line-height: 1.5;">Use as protection from outside forces. </span><span style="line-height: 1.5;">Use for protection prior to a journey to ensure a safe trip. </span><span style="line-height: 1.5;">Use in combination with Problem Solving candle to find where negative energy is coming from in your life.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Seduction - </span><span style="line-height: 1.5;">Musk, Patchouli, Pine, Cedar, Juniper. </span><span style="line-height: 1.5;">Use to attract a lusty relationship. </span><span style="line-height: 1.5;">Use in combination with Love candle to put a spark back into a tired relationship</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Spirit - Sage, Lemon, Clove. </span><span style="line-height: 1.5;">Use to assist your focus on the spiritual side of life.Use </span><span style="line-height: 1.5;">in combination with Positive Energy to create success in the new millennium</span>
+</li>
+</ul>
+<p> </p>
+<p><span style="line-height: 1.5;"><meta charset="utf-8">
+<strong><span style="text-decoration: underline;">*Excluded from "FREE" shipping due to weight/packing requirements.</span>  </strong></span></p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/4bc599fe/background/helpers/prefilterHelper.js"></script>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/e8077bab/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle Featured</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Abundance</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Angel&apos;s Influence</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Ascended Masters &amp; Guides</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Astral Journey</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Black Cat</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Cleansing</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Compassion</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Confidence</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Courage</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Creativity</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Dreams</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Friendship</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Good Health</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Gratitude</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Harmony</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Healing</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Housewarming</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Joy</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Laughter</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Love</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Manifest a Miracle</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Money</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Mother</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Motivation</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Peace</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Positive Energy</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Power</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Problem Solving</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Protection</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Spirit</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Seduction</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4450217754689</id>
+      <title>Wisdom</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397361403</id>
+    <published>2020-04-24T12:37:33-04:00</published>
+    <updated>2020-04-24T12:37:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a137-candle-herbal-magic-pillars"/>
+    <title>a137. Candle: Herbal Magic Pillars*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>CRYSTAL JOURNEY CANDLES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/crystal-journey-candles.jpg?v=1621739276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CRYSTAL JOURNEY CANDLES<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When the time is right to visit your sacred space, allow us to enlighten the journey. Each of our magic candles has been designed with a specific intention using a unique blend of essential oils.  1 1/2" x 7".</p>
+<p><br></p>
+<p><meta charset="utf-8"><strong><span style="text-decoration: underline;">*Excluded from "FREE" shipping due to weight/packing requirements. </span> </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle Featured</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Abundance: Green</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>Candle: Herbal Magic Pillars</s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Angels Influence: Aqua</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Ascended Masters</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Astral Journey</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Compassion</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Confidence</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Courage</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Creativity</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Dreams</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Friendship</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Good Health</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Gratitude</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Harmony</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Healing</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Housewarming</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Joy</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Laughter</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Love</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Manifest</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Money</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Mother</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Motivation</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Peace</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Positive Energy</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Power</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Problem Solving</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Protection</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Seduction</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Spirit</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361403</id>
+      <title>Wisdom</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397361379</id>
+    <published>2020-04-24T12:37:29-04:00</published>
+    <updated>2020-04-24T12:37:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a135-candle-herbal-magic-large-pillars"/>
+    <title>a135. Candle: Herbal Magic Large Pillars*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>CRYSTAL JOURNEY CANDLES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/candle-herbal-magic-large-pillars.jpg?v=1585854787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CRYSTAL JOURNEY CANDLES<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Each candle has been designed with a specific intention using a unique blend of essential oils. Each candle comes with an affirmation and inspirational message. 3x6 Herbal Pillar Candles.</span></p>
+<ul>
+<li><span style="line-height: 1.5;">Abundance- Clove, Citronella, Lemon Balm, Cinnamon, Nutmeg. Use to attract prosperity, increase success and obtain material possessions.Use in combination with Problem Solving candle when starting a new business</span></li>
+<li>
+<span style="line-height: 1.5;">Angel's Influence- </span><span style="line-height: 1.5;">Honeysuckle, Sweet Heather, Rose, Peppermint. </span><span style="line-height: 1.5;">Use to honor and call upon our Angels. </span><span style="line-height: 1.5;">Use in combination with Ascended Master and Guides to know you're supported and loved.</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Creativity - Iris, Rose, Cinnamon. </span><span style="line-height: 1.5;">Use to free oneself from the burdens of the world in order to explore new dimensions, discover new thoughts, ideas and emotions.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Good Health - </span><span style="line-height: 1.5;">Clove, Nutmeg, Lemon Balm, Poppy Seed, Cedar, Honeysuckle, Juniper. </span><span style="line-height: 1.5;">Use to heal the physical body. </span><span style="line-height: 1.5;">Use in combination with Harmony candle to heal pets.</span>
+</li>
+<li><span style="line-height: 1.5;">Gratitude - Lavender, musk, clove, and cedar</span></li>
+<li>
+<span style="line-height: 1.5;"> Healing - </span><span style="line-height: 1.5;">Cedar, Ocean, Lemon Balm, Heather. </span><span style="line-height: 1.5;">Use to heal the body, mind and soul. </span><span style="line-height: 1.5;">Use in combination with Peace to heal Mother Earth, animals and 4 elements.</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Joy - Plumeria, Jasmine, Sandalwood. </span><span style="line-height: 1.5;">Use to discover true joy within one's being.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Love - </span><span style="line-height: 1.5;">Olive Oil, Patchouli, Rose, Clove, Lavender, Dragon's Blood. </span><span style="line-height: 1.5;">Use to attract someone to you. </span><span style="line-height: 1.5;">Use in combination with Harmony to find a compatible roommate. </span><span style="line-height: 1.5;">Use in combination with Abundance candle to attract clients to your business.</span>
+</li>
+<li><span style="line-height: 1.5;">Manifest a Miracle - Magnolia, Honeysuckle, Rose. Use to aid and enhance your love and desire. Use in combination with Angle Influence candle to manifest a miracle!!</span></li>
+<li>
+<span style="line-height: 1.5;"> Money - </span><span style="line-height: 1.5;">Clove, Cinnamon, Nutmeg, Myrrh, Citronella, Rain. </span><span style="line-height: 1.5;">Use to attract lotteries, raises and cash. </span><span style="line-height: 1.5;">Use in combination with Abundance for business moves, career moves or starting new projects.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Mother - </span><span style="line-height: 1.5;">Orange blossom, chamomile, and vanilla.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Peace - </span><span style="line-height: 1.5;">Vanilla, Clove, Myrrh, Ginger Root, Caraway Seed. </span><span style="line-height: 1.5;">Use to create tranquil environment and quiet the mind. </span><span style="line-height: 1.5;">Use in combination with Harmony candle to create a loving home environment.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Positive Energy - </span><span style="line-height: 1.5;">Frankincense, Dragon's Blood, Sandalwood, Saffron. </span><span style="line-height: 1.5;">Use to attract positive energy into your life. </span><span style="line-height: 1.5;">Use in combination with Good Health candle to correct nerve or muscular problems.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Protection - </span><span style="line-height: 1.5;">Frankincense, Sandalwood, Rosemary, Clove. </span><span style="line-height: 1.5;">Use as protection from outside forces. </span><span style="line-height: 1.5;">Use for protection prior to a journey to ensure a safe trip. </span><span style="line-height: 1.5;">Use in combination with Problem Solving candle to find where negative energy is coming from in your life.</span>
+</li>
+<li>
+<span style="line-height: 1.5;"> Seduction - </span><span style="line-height: 1.5;">Musk, Patchouli, Pine, Cedar, Juniper. </span><span style="line-height: 1.5;">Use to attract a lusty relationship. </span><span style="line-height: 1.5;">Use in combination with Love candle to put a spark back into a tired relationship</span>
+</li>
+<li>
+<span style="line-height: 1.5;">Spirit - Sage, Lemon, Clove. </span><span style="line-height: 1.5;">Use to assist your focus on the spiritual side of life.Use </span><span style="line-height: 1.5;">in combination with Positive Energy to create success in the new millennium</span>
+</li>
+</ul>
+<p> </p>
+<p><span style="line-height: 1.5;"><meta charset="utf-8">
+<span style="text-decoration: underline;"><strong>*Excluded from "FREE" shipping due to weight/packing requirements.  </strong></span></span></p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/4bc599fe/background/helpers/prefilterHelper.js"></script>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/e8077bab/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle Featured</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Positive Energy - Yellow</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Joy - Orange</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Gratitude - Dark Blue</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Mother - Peach</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Spirit - White</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Seduction - Red</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Creativity - Purple</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Love - Pink</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Abundance - Light Green</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Angel&apos;s Influence - Emerald</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Healing - Plum</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Manifest a Miracle - Light Pink</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Money - Dark Green</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Peace - Hunter Green</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Protection - Onyx</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361379</id>
+      <title>Good Health - Royal Blue</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4358210388033</id>
+    <published>2020-04-24T12:37:26-04:00</published>
+    <updated>2020-04-24T12:37:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a138-candle-crystal-candles"/>
+    <title>a138. Candle: Crystal Candles*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Jax Kelly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/C549447D-C1B1-4EE3-A20C-D8DFDB445276.jpg?v=1621739209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jax Kelly<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hidden inside each candle is a crystal.  Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to balance and heal your energy.</p>
+<p>Hand-poured and made with 100% American farmed soy wax, the natural essential + fragrance oil blend features notes of soothing lavender.</p>
+<p>Standard 9 oz <br>50 Hour Burn Time </p>
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>*Excluded from "FREE" shipping due to weight/packing requirements.  </strong></span></p>
+<p><em>Description provided about crystals is for information purposes only and not intended to diagnose, treat, cure, or prevent any diseases.</em></p>
+<p>Amethyst Quartz crystal that enhances wellness, healing, &amp; spiritual growth.</p>
+<meta charset="utf-8">
+<p><span>Blue Chalcedony that radiates calming energy. Once your candle has burned retrieve your tumbled stone and carry it with you, or place it in a special space to manifest feelings of serenity.</span></p>
+<p><span>Citrine Quartz that radiates vibes of positivity and success. Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to manifest success in all areas of life.</span></p>
+<meta charset="utf-8">
+<p><span>Dalmatian Jasper known to help keep you grounded and balanced. Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to enhance your abilities to plan, strengthen friendships and family bonds.</span></p>
+<meta charset="utf-8">
+<p><span>Moonstone that increases your intuition and connects you to the moon's energy to inspire new beginnings. Once your candle has burned retrieve your crystal and carry it with you, or place it in a sacred space to bring good fortune within the flow of your life. </span></p>
+<meta charset="utf-8">
+<p>Obsidian crystal that blocks negative energy. Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to shield you from negativity.<br></p>
+<p><span>Peach Quartz that radiates peaceful vibes, so you may evoke your spiritual calm. Once your candle has burned </span><span>retrieve your tumbled crystal and carry it with you, or place it in a special space to manifest inner peace. </span></p>
+<p>Rose Quartz crystal that radiates vibes of unconditional love. Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to manifest feelings of love.<br></p>
+<meta charset="utf-8">
+<p><span>Sea Opal crystal that helps center your mind and raise your vibrations. Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to help manifest peaceful energy for your mind, body, and soul.</span><br></p>
+<p>Tigers Eye that radiates powerful vibes to release fear and anxiety . Once your candle has burned retrieve your crystal and carry it with you, or place it in a special space to empower your self confidence.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle Featured</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Amethyst</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Blue Chalcedony</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Citrine</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Dalmatian Jasper</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Moonstone</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Obsidian</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Peach Quartz</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Rose Quartz</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Sea Opal</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4358210388033</id>
+      <title>Tigers Eye</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397361355</id>
+    <published>2020-04-24T12:35:59-04:00</published>
+    <updated>2020-04-24T12:35:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a132-candle-chakra-tapers"/>
+    <title>a132. Candle: Chakra Tapers*</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>CRYSTAL JOURNEY CANDLES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/candle-chakra-tapers.jpg?v=1585854783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CRYSTAL JOURNEY CANDLES<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These 3x6 Herbal Pillar candles are ideal for use in meditation, chakra rebalancing, relaxing to music, or sitting in your sacred space.</span></p>
+<p><meta charset="utf-8"><span style="text-decoration: underline;"><strong>*Excluded from "FREE" shipping due to weight/packing requirements.  </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candle Featured</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Yellow - Solar Plexus</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Yellow - Solar Plexus</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Green: Heart Chakra   Chakra Anahata - Love</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Green: Heart Chakra   Chakra Anahata - Love</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Red: Root Chakra</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Red: Root Chakra</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Orange:  Sacral Chakra: Svadisthana - Creativity</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Orange:  Sacral Chakra: Svadisthana - Creativity</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Blue: Third Eye Chakra:  Ajna - Intuition</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Blue: Third Eye Chakra:  Ajna - Intuition</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Purple: Crown Chakra:  Sahasrara - Bliss</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Purple: Crown Chakra:  Sahasrara - Bliss</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397361355</id>
+      <title>Light Blue: Throat Chakra:  Vishudda - Expression</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>Light Blue: Throat Chakra:  Vishudda - Expression</s:sku>
+      <s:grams>595</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1248097075236</id>
+    <published>2019-04-04T18:07:41-04:00</published>
+    <updated>2019-04-04T18:07:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a138a-pinch-me-therapy-dough"/>
+    <title>a138a: Pinch Me Therapy Dough</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/pinch-me-therapy-dough_bcabd7b5-f5e2-4898-b8c8-5a32f779f233.jpg?v=1592973536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            12.95 - 20.95
+            <a href="https://www.choicesgifts.com/products/a138a-pinch-me-therapy-dough">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A squishable compound that’s designed to channel relief through the senses, naturally. This placating putty was developed using the proven scientific methodology of color and scent as they relate to relaxation-all in the convenience of a portable tin. Think of it as a handy little mood-shifter.</p>
+<p>While it can’t take away all that ails you, it<span> </span><em>can</em><span> </span>help get you back to center so you’re able to face your stressors with the clarity that comes from renewed focus. </p>
+<p>Please note, product images may not correlate to the size - they are to convey style.  Please see main product image to view actual size of 3oz and 10 oz jars.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candles &amp; Aromas</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Beach - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Bumbleberry - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Chill - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Citrus - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Grapefruit - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Melon - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Ocean - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Refresh - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Spa - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Sun - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Surf - 3oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Tropics - 3 oz.</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Beach - 10 oz</title>
+      <s:price currency="USD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Ocean - 10 oz</title>
+      <s:price currency="USD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Spa - 10 oz</title>
+      <s:price currency="USD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1248097075236</id>
+      <title>Refresh - 10 oz</title>
+      <s:price currency="USD">20.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

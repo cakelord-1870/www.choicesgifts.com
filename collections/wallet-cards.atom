@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/wallet-cards.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-05-08T14:05:16-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457879950</id>
+    <published>2020-05-08T14:05:16-04:00</published>
+    <updated>2020-05-08T14:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-serenity-prayer-2"/>
+    <title>Wallet card:  Serenity Prayer 2</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-serenity-prayer-2.jpg?v=1585854693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457879950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Serenity Prayer 2</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457878990</id>
+    <published>2020-05-08T14:05:15-04:00</published>
+    <updated>2020-05-08T14:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-serenity-prayer"/>
+    <title>Wallet card:  Serenity Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-serenity-prayer.jpg?v=1585854692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457878990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Serenity Prayer</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457878606</id>
+    <published>2020-05-08T14:05:14-04:00</published>
+    <updated>2020-05-08T14:05:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-prayer-of-st-francis"/>
+    <title>Wallet card:  Prayer of St. Francis</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-prayer-of-st-francis.jpg?v=1585854690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457878606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Prayer of St. Francis</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457877838</id>
+    <published>2020-05-08T14:05:13-04:00</published>
+    <updated>2020-05-08T14:05:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-the-lords-prayer"/>
+    <title>Wallet card:  Lord&apos;s Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-lords-prayer.jpg?v=1585854689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457877838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Lord&apos;s Prayer</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457876878</id>
+    <published>2020-05-08T14:05:12-04:00</published>
+    <updated>2020-05-08T14:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-just-for-today"/>
+    <title>Wallet card:  Just For Today</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-just-for-today.jpg?v=1585854689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457876878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Wallet card:  Just For Today</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457875662</id>
+    <published>2020-05-08T14:05:11-04:00</published>
+    <updated>2020-05-08T14:05:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-humility-prayer"/>
+    <title>Wallet card:  Humility Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-humility-prayer.jpg?v=1585854688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457875662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Humility Prayer</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457874318</id>
+    <published>2020-05-08T14:05:11-04:00</published>
+    <updated>2020-05-08T14:05:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-gratitude"/>
+    <title>Wallet card:  Gratitude</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-gratitude.jpg?v=1585854687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457874318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Gratitude</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457872142</id>
+    <published>2020-05-08T14:05:10-04:00</published>
+    <updated>2020-05-08T14:05:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-wallet-card-my-daily-moral-inventory"/>
+    <title>Wallet card:  My Daily Moral Inventory</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-my-daily-moral-inventory.jpg?v=1585854690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457872142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  My Daily Moral Inventory</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457862926</id>
+    <published>2020-05-08T14:05:09-04:00</published>
+    <updated>2020-05-08T14:05:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-wallet-card-fourth-step-prayer"/>
+    <title>Wallet card:  Fourth Step Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-fourth-step-prayer.jpg?v=1585854687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457862926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Fourth Step Prayer</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/723371843</id>
+    <published>2020-05-08T14:05:08-04:00</published>
+    <updated>2020-05-08T14:05:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/promises-wallet-card"/>
+    <title>Wallet card:  Promises Wallet Card</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-promises-wallet-card.jpg?v=1585854691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"If we are painstaking about this phase of our development we will be amazed before we are halfway through. We are going to know a new freedom and a new happiness. We will not regret the past nor wish to shut the door on it. We will comprehend the word serenity and we will know peace. No matter how far down the scale we have gone, we will see how our experience can benefit others. That feeling of uselessness and self-pity will disappear. We will lose interest in selfish things and gain interest in our fellows. Self-seeking will slip away. Our whole attitude and outlook upon life will change. Fear of people and economic insecurity will leave us. We will intuitively know how to handle situations which used to baffle us. We will suddenly realize that God is doing for us what we could not do for ourselves. Are these extravagant Promises? We think not. They are being fulfilled among us - sometimes quickly, sometimes slowly. They will always materialize if we work for them."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/723371843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>W1</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457873614</id>
+    <published>2020-05-08T14:04:58-04:00</published>
+    <updated>2020-05-08T14:04:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-wallet-card-the-four-absolutes"/>
+    <title>Wallet card:  Four Absolutes</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-four-absolutes.jpg?v=1585854686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457873614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Four Absolutes</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457872974</id>
+    <published>2020-05-08T14:04:57-04:00</published>
+    <updated>2020-05-08T14:04:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/cwallet-card-desiderata"/>
+    <title>Wallet card:  Desiderata</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-desiderata.jpg?v=1585854685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457872974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Desiderata</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457870350</id>
+    <published>2020-05-08T14:04:56-04:00</published>
+    <updated>2020-05-08T14:04:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-wallet-card-big-book-guide"/>
+    <title>Wallet card:  Big Book Guide</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-big-book-guide.jpg?v=1585854684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457870350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Big Book Guide</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/724093059</id>
+    <published>2020-05-08T14:04:55-04:00</published>
+    <updated>2020-05-08T14:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/footprints-wallet-card"/>
+    <title>Wallet card:  Footprints</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-footprints.jpg?v=1585854685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wallet card: Footprints</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/724093059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>w1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/723296899</id>
+    <published>2020-05-08T14:04:55-04:00</published>
+    <updated>2020-05-08T14:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-acceptance"/>
+    <title>Wallet card:  Acceptance</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-acceptance.jpg?v=1585854683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acceptance Prayer:  </p>
+<p>"And acceptance is the answer to all my problems today. When I am disturbed, it is because I find some person, place, thing or situation “some fact of my life“ unacceptable to me and I can find no serenity until I accept that person, place, thing or situation as being exactly the way it is supposed- to be at this moment. Nothing, absolutely nothing happens in God's world by mistake..."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/723296899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>W1</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457869646</id>
+    <published>2020-05-08T14:04:39-04:00</published>
+    <updated>2020-05-08T14:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-aa-preamble"/>
+    <title>Wallet card:  A.A. Preamble</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-aa-preamble.jpg?v=1585854683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457869646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  A.A. Preamble</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/11457867854</id>
+    <published>2020-05-08T14:04:38-04:00</published>
+    <updated>2020-05-08T14:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-copy-of-wallet-card-seventh-step-prayer"/>
+    <title>Wallet card:  7th Step Prayer</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-7th-step-prayer.jpg?v=1585854682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/11457867854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>Wallet card:  Seventh Step Prayer</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/723644547</id>
+    <published>2020-05-08T14:04:37-04:00</published>
+    <updated>2020-05-08T14:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-cards-3rd-7th-step"/>
+    <title>Wallet card:  3rd &amp; 7th Step</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-3rd-7th-step.jpg?v=1585854681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Wallet Card includes both the 3rd and 7th Step Prayers found in the Big Book of Alcoholics Anonymous.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/723644547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>w1</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/456229447</id>
+    <published>2020-05-08T14:04:37-04:00</published>
+    <updated>2020-05-08T14:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/wallet-card-20-prayers-found-in-the-big-book-of-alcoholics-anonymous"/>
+    <title>Wallet card:  20 Prayers found in The Big Book of Alcoholics Anonymous</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Love Unlimited</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/wallet-card-20-prayers-found-in-the-big-book-of-alcoholics-anonymous.jpg?v=1585854680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Unlimited<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Twenty (20) individual easy to read plastic wallet cards with unique colorful backgrounds; with the twenty prayers found in the first 164 pages of the Big Book of Alcoholics Anonymous. All twenty wallet cards come shrink wrapped, packaged together. Make wonderful gifts for old timers and newcomers alike!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Wallet Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/456229447</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BB-001</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

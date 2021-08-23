@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/yearly-cards.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2019-11-27T16:37:11-05:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4344321146945</id>
+    <published>2019-11-27T16:37:11-05:00</published>
+    <updated>2019-11-27T16:37:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/02-new-countdown-fireworks-card-1-30-years-a02"/>
+    <title>02. New Countdown Fireworks Card (1-50 Years). A02</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/02-new-countdown-fireworks-card-1-30-years-a02.png?v=1592974248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside: </p>
+<meta charset="utf-8">
+<p><span>May you keep coming back for the many wonders that await you!</span><br></p>
+<p><span>Happy Anniversary!  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Featured</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>A02, FW1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>2 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>3 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>4 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>5 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>6 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>7 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>8 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>9 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>10 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>11 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>12 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>13 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>14 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>15 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>16 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>17 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>18 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>19 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>20 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>21 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>22 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>23 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>24 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>25 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>26 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>27 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>28 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>29 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>30 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>31 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>32 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>33 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>34 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>35 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>36 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>37 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>38 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>39 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>40 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>41 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>42 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>43 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>44 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>45 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>46 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>47 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>48 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>49 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344321146945</id>
+      <title>50 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4344312758337</id>
+    <published>2019-11-27T16:20:01-05:00</published>
+    <updated>2019-11-27T16:20:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/01-confetti-yearly-cards-1-30-years-a01"/>
+    <title>01. Confetti Yearly Cards (1 -30 Years). A01</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/01-confetti-yearly-cards-1-30-years-a01.png?v=1592974239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great for an anniversary celebration in any 12 step program.</p>
+<p>Available in years 1-40</p>
+<p>Front: The anniversary year and the words: "Amazing Difficult Fantastic Frightening Happy Sad Miraculous Year"</p>
+<p>Inside: "Congratulations!"</p>
+<p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Featured</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>A01, LT1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>2 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>3 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>4 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>5 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>6 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>7 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>8 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>9 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>10 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>11 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>12 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>13 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>14 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>15 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>16 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>17 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>18 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>19 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>20 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>21 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>22 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>23 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>24 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>25 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>26 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>27 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>28 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>29 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4344312758337</id>
+      <title>30 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/400979419</id>
+    <published>2015-01-10T20:57:00-05:00</published>
+    <updated>2015-01-10T20:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/05-fireworks-card-1-60-years-a07"/>
+    <title>05. Fireworks Card (1-60 Years). A07</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Holly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/05-fireworks-card-1-60-years-a07.png?v=1592970903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Holly<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside each of the yearly cards is a message similar to the one below:   </p>
+<p>Congratulations!!  Its amazing to see you grow and flourish.   You're doing great!</p>
+<table width="125">
+<tbody>
+<tr>
+<td style="width: 538.264px;">01 Year- BRAVO! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">01 Year- DA BOMB!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">01 Year- HOORAY.  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">02 Years- FLOURISH!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">03 Years- MIRACULOUS. </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">04 Years- MAGNIFICENT.  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">05 Years- EXEMPLARY.  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">06 Years- SWEET! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">07  Day 90- YAH!.  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">07 Years- BEAUTIFUL! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;"></td>
+</tr>
+<tr>
+<td style="width: 538.264px;">08 Years- SPLENDID! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">09 Years- DAZZLING! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">11 Years- BEAUTEOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">12 Years- SPARKLE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">13 Years- OUTSTANDING!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">14 Years- AMAZING!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">15 Years- PHENOMENAL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">16 Years- TERRIFIC!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">17 Years- SPECTACULAR!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">18 Years- OUT of this WORLD!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">19 Years- WONDROUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">21 Years- KUDOS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">22 Years- FABULOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">23 Years- MONUMENTAL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">24 Years- CELEBRATE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">25 Years- MOST EXCELLENT!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">26 Years- SUPER!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">27 Years- FANTASTIC! </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">28 Years- APPLAUSE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">29 Years- TREMENDOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">31 Years- AWE-INSPIRING!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">32 Years- JOYOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">33 Years- MARVELOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">34 Years- SHINE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">36 Years- REJOICE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">37 Years- DELIGHTFUL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">38 Years- POWERFUL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">39 Years- DIVINE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">41 Years- WONDERFUL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">42 Years- FREEDOM!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">43 Years- CELESTIAL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">44 Years- GRRREAT!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">45 Years- GRRREAT!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">46 Years- GLOWING!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">47 Years- UPLIFTING!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">48 Years- REMARKABLE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">49 Years- MOMENTOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">51 Years- IMPRESSIVE!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">52 Years- UNIMAGINABLE  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">53 Years- ASTRONOMICAL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">54 Years- GIGANTIC!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">55 Years- MASTERFUL!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">56 Years- FAR OUT!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">57 Years- RADIANT!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">58 Years- STUPENDOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">59 Years- LUMINOUS!  </td>
+</tr>
+<tr>
+<td style="width: 538.264px;">60 Years- COLOSSAL!  </td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>30 Day</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>A04, HP</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>60 Day</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>90 Day</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>2  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>3  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>4  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>5  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>6  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>7  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>8  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>9  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>10  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>11  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>12  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>13  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>14  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>15  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>16  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>17  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>18  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>19  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>20  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>21  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>22  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>23  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>24  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>25  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>26  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>27  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>28  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>29  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>30  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>31  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>32  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>33  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>34  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>35  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>36  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>37  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>38  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>39  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>40  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>41  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>42  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>43  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>44  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>45  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>46  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>47  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>48  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>49  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>50  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>51  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>52  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>53  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>54  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>55  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>56  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>57  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>58  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>59  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/400979419</id>
+      <title>60  Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359939</id>
+    <published>2014-10-30T15:17:00-04:00</published>
+    <updated>2014-10-30T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/06-aa-fireworks-triangle-card-1-10-years-a05"/>
+    <title>06. AA Fireworks Triangle Card (1-10 Years). A05</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Valley Graphics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/06-aa-fireworks-triangle-card-1-10-years-a05.png?v=1592970696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valley Graphics<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 15.1999998092651px; line-height: 16.7999992370605px;">Great to celebrate an AA Anniversary Available in years 1-9.</span></p>
+<p>Front: The anniversary year and the AA logo.</p>
+<p>Inside: (varies by Year)</p>
+<ul>
+<li>1 Year "Congratulations! t works if you work it and you sure have! Keep coming back."</li>
+<li>2 Years - "Congratulations! Keep coming back- You are a miracle!"</li>
+<li>3 Years - "Congratulations! May all the promises come true for you."</li>
+<li>4 Years - "Congratulations! May all your dreams come true for you."</li>
+<li>5 Years - "Congratulations! Keep coming back- It works if you work it."</li>
+<li>6 Years - "Congratulations! Wishing you a year filled with new adventures."</li>
+<li>7 Years - "Congratulations! May your days be full of happiness."</li>
+<li>8 Years - "Congratulations! May all your dreams come true."</li>
+<li>9 Years - "Congratulations! Wishing you a year filled with happiness."</li>
+<li>10 Years - "Congratulations! <span>Wishing you a year filled with serenity, courage and wisdom."</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>A05, VG1</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>2 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>3 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>4 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>5 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>6 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>7 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>8 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>9 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359939</id>
+      <title>10 Year</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359903</id>
+    <published>2014-10-30T15:17:00-04:00</published>
+    <updated>2014-10-30T15:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/07-anniversary-balloon-card-days-months"/>
+    <title>07. Anniversary Balloon Card (Days &amp; Months)</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Valley Graphics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/07-anniversary-balloon-card-days-months.png?v=1592970692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valley Graphics<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Front: Displays various milestones in recovery (30 Days, 60 Days, 90 Days, 6 Months, or 9 Months)</p>
+<p>Inside: (varies by milestone)</p>
+<p>30 Days "Congratulations! Keep coming back - it works if you work it, one day at a time."</p>
+<p>60 Days "Congratulations! How does it feel to be a miracle? Keep coming back."</p>
+<p>90 Days "Congratulations! Keep coming back -- the fun has just begun."</p>
+<p>6 Months "<span>Congratulations! Keep coming back - you are a miracle!"</span></p>
+<p><span>9 Months "Congratulations! Keep coming back - it works, it really does, one day at a time."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359903</id>
+      <title>30 Days</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>A06, VG2</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359903</id>
+      <title>60 Days</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359903</id>
+      <title>90 Days</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359903</id>
+      <title>6 Months</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359903</id>
+      <title>9 Months</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/823823695908</id>
+    <published>2014-10-30T15:16:00-04:00</published>
+    <updated>2014-10-30T15:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/03-sun-countdown-card-1-20-years-a03"/>
+    <title>03. Sun Countdown Card (1-20 Years.) A03</title>
+    <s:type>Cards</s:type>
+    <s:vendor>New Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/03-sun-countdown-card-1-20-years-a03.png?v=1592972959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Inside:</p>
+<p>"Congratulations on this wonderful achievement. May you continue to take life one day at a time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:tag>Yearlys</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>A07, SYEAR1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>2 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>3 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>4 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>5 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>6 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>7 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>8 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>9 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>10 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>11 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>12 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>13 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>14 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>15 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>16 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>17 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>18 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>19 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/823823695908</id>
+      <title>20 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359623</id>
+    <published>2014-10-30T15:16:00-04:00</published>
+    <updated>2014-10-30T15:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/08-amazing-cards-1-40-years-a08"/>
+    <title>08. Amazing Cards (1-40 Years.) A08</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/08-amazing-cards-1-40-years-a08.png?v=1592970652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great for an anniversary celebration in any 12 step program. Available in years 1-40</p>
+<p>Front: The anniversary year and the words: "Amazing Difficult Fantastic Frightening Happy Sad Miraculous Year"</p>
+<p>Inside: "Congratulations!"</p>
+<p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>1 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>A07, AMZN1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>2 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>3 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>4 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>5 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>6 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>7 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>8 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>9 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>10 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>11 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>12 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>13 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>14 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>15 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>16 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>17 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>18 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>19 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>20 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>21 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>22 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>23 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>24 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>25 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>26 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>27 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>28 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>29 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>30 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>31 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>32 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>33 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>34 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>35 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>36 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>37 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>38 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>39 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359623</id>
+      <title>40 Year</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359483</id>
+    <published>2014-10-30T15:16:00-04:00</published>
+    <updated>2014-10-30T15:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/04-countdown-card-1-65-years-a05"/>
+    <title>04. Countdown Card (1-65 Years.) A05</title>
+    <s:type>Cards</s:type>
+    <s:vendor>New Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/04-countdown-card-1-65-years-a05.png?v=1592970633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Inside: "Congratulations on this wonderful achievement. May you continue to take life one day at a time."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anniversary</s:tag>
+    <s:tag>Yearly</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>1 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>A03, CYEAR1</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>2 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>3 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>4 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>5 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>6 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>7 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>8 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>9 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>10 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>11 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>12 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>13 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>14 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>15 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>16 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>17 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>18 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>19 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>20 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>21 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>22 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>23 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>24 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>25 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>26 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>27 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>28 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>29 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>30 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>31 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>32 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>33 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>34 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>35 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>36 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>37 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>38 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>39 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>40 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>41 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>42 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>43 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>44 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>45 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>46 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>47 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>48 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>49 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>50 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>51 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>52 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>53 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>54 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>55 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>56 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>57 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>58 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>59 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>60 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>61 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>62 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>63 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>64 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359483</id>
+      <title>65 Year</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku/>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

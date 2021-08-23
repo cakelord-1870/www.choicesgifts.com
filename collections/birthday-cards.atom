@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/birthday-cards.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2019-07-02T16:14:56-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1447771602980</id>
+    <published>2019-07-02T16:14:56-04:00</published>
+    <updated>2019-07-02T16:14:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a224-happy-birthday-balloons"/>
+    <title>a224. Happy Birthday, Balloons.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a141-happy-birthday-balloons.png?v=1602797782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inside: </p>
+<meta charset="utf-8">
+<p><span>May this day be filled with happiness and all things wonderful!</span><span class="white-space-prewrap"> </span></p>
+<meta charset="utf-8">
+<p><span class="white-space-prewrap"><span>Happy Birthday</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Happy Birthday</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1447771602980</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>zBox. CBG49</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1447769833508</id>
+    <published>2019-07-02T16:13:04-04:00</published>
+    <updated>2019-07-02T16:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a225-happy-birthday-gorgeous-top-of-rack"/>
+    <title>a225. Happy Birthday, Gorgeous. (Top of Rack)</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/a142-happy-birthday-gorgeous-top-of-rack.jpg?v=1602797777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body">Inside:</p>
+<p class="direction-ltr align-center para-style-body">Wishing you everything wonderful on this special day.</p>
+<p class="direction-ltr align-center para-style-body"><span>You deserve it!</span></p>
+<meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"><span>Happy Birthday!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Happy Birthday</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1447769833508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>zBox. CBG48</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

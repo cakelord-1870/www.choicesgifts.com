@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/earrings.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-23T01:19:23-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559714836545</id>
+    <published>2021-05-23T01:19:23-04:00</published>
+    <updated>2021-05-23T01:19:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na35-na-earrings-14kt-gold"/>
+    <title>NA35.  NA Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/327_20k-1000x1000_470x_7a0e1525-da14-4f62-9530-494b18bbae59.jpg?v=1621543864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small "NA" Initials Stud Earrings</span><br><span>5/16" Wide by 5/16" Tall 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559714836545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>327-13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559714771009</id>
+    <published>2021-05-23T01:19:23-04:00</published>
+    <updated>2021-05-23T01:19:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na34-na-earrings-14kt-gold"/>
+    <title>NA34.  NA Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/130_20k-1000x1000_470x_a5076b9b-f8aa-49d4-9db0-22d45f735174.jpg?v=1621543821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small "NA" Initials Stud Earrings</span><br><span>7/16" Wide by 7/16" Tall</span><br><span>Earrings and Post are 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559714771009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>130-13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559390138433</id>
+    <published>2021-05-23T01:19:15-04:00</published>
+    <updated>2021-05-23T01:19:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa22-earrings-14kt-gold"/>
+    <title>AA22.  Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/129-6_2014K_20copy-1000x1000_470x_ee8e59e8-4eee-4d36-8b84-3b53fb376d9b.jpg?v=1621462479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small Alcoholics Anonymous Symbol Stud Earrings</span><br><span>3/8" Wide by 3/8" Tall</span><br><span>Earrings and Post are 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390138433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>129-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559388172353</id>
+    <published>2021-05-23T01:19:14-04:00</published>
+    <updated>2021-05-23T01:19:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa23-earrings-14kt-gold"/>
+    <title>AA24. Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/281_20k-1000x1000_470x_dc010806-2c5a-4a43-a54e-259fdd0a7a06.jpg?v=1621462014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Very Small Stud Earrings with Diamond Cut Circle</span><br><span>Stone Finished Solid Triangle</span><br><span>5/16" Wide by 5/16" Tall</span><br><span>Earrings and Post 14k Gold</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559388172353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>281-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2241881987</id>
+    <published>2021-05-23T01:19:13-04:00</published>
+    <updated>2021-05-23T01:19:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa23-earrings-x14kt-gold"/>
+    <title>AA23.  Earrings. x14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/550_20k-1000x1000_470x_dc5bfdd9-af2e-47f9-adb1-05b7a99d338f.jpg?v=1621461902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small Circle Triangle Stud Earrings</span><br><span>3/16" Wide by 3/16" Tall</span><br><span>Earrings and Posts are 14k Gold</span><br><span>High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2241881987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>550-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559714607169</id>
+    <published>2021-05-23T01:18:54-04:00</published>
+    <updated>2021-05-23T01:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na36-na-symbol-small-stud-earrings-14kt-gold"/>
+    <title>NA36.  NA Symbol Small Stud Earrings.   14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/756-13_2014k-1000x1000_470x_7da8cdbd-3259-486e-a5ff-dba6c855a79a.jpg?v=1621543766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Narcotics Anonymous Symbol Earrings</span><br><span>5/16" Wide by 5/16" Tall</span><br><span>Earrings and Posts are 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559714607169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>756-13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559713787969</id>
+    <published>2021-05-23T01:18:53-04:00</published>
+    <updated>2021-05-23T01:18:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/na37-na-symbol-small-stud-earrings-14kt-gold"/>
+    <title>NA37. NA Symbol Small Stud Earrings.   14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/373_20k-1000x1000_470x_326e82a6-2459-45ba-a533-20e73b32a805.jpg?v=1621543704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p>Narcotics Anonymous Symbol Earrings<br>3/8" Wide by 3/8" Tall<br>Earrings and Posts are 14k Gold<br>Hand Finished, High Polished</p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559713787969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>373-13</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559390957633</id>
+    <published>2021-05-23T01:18:25-04:00</published>
+    <updated>2021-05-23T01:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa20-birthstone-earrings-14kt-gold"/>
+    <title>AA20. Birthstone Earrings.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/127_2014K_20jan_20copy_470x_58f7bffa-9fc9-4ba4-8429-ccc380c1e2a6.jpg?v=1621462630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Flat Style Circle with 5mm Triangle Birthstone</span><br><span>3/8" Wide by 3/8" Tall</span><br><span>Earrings and Post are 14k Gold</span><br><span>Available in all Birthstone Colors</span><br><span>Choose your Birthstone Color</span><br><span>Stones are man made CZ's and Crystals,</span><br><span>their may be color variations due to the size</span><br><span>of the stones and the different suppliers.</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>January - Garnet Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>February - Amethyst Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>March - Aquamarine Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>April - Diamond Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>May - Emerald Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>June - Alexandrite Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>July - Ruby Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>August - Peridot Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>September - Sapphire Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>October - Pink Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>November - Yellow Topaz Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390957633</id>
+      <title>December - Blue Zircon Color</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559390662721</id>
+    <published>2021-05-23T01:18:24-04:00</published>
+    <updated>2021-05-23T01:18:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa21-stud-earrings-14kt-gold"/>
+    <title>AA21.  Stud Earrings.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/340-6_2014k_20copy-1000x1000_470x_e21e1383-6bbd-43c1-974c-306052a409bd.jpg?v=1621462556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Very Small Twist Wire Circle Earrings</span><br><span>1/4" Wide by 1/4" Tall</span><br><span>Earrings and Post are 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390662721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>340-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

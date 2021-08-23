@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/all-gifts.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-07-13T15:24:10-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562517844033</id>
+    <published>2021-07-13T15:24:10-04:00</published>
+    <updated>2021-07-13T15:24:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/this-too-shall-pass-racerbank-tank-top-womens"/>
+    <title>THIS TOO SHALL PASS RACERBANK TANK TOP (WOMEN&apos;S)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/RACERBACKTANK.jpg?v=1622494237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<div id="yui_3_16_0_1_1445744730845_5592">
+<span>This racerback tank is soft, lightweight, and form-fitting with a flattering cut and raw edge seams for an edgy touch.</span><br><br><span>• 50% polyester, 25% combed ring-spun cotton, 25% rayon</span><br><span>• 32 singles</span><br><span>• Fabric is laundered to reduce shrinkage</span><br><span>• Raw edge seams</span><br><span>• Blank product sourced from Haiti or Nicaragua</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / HEATHER WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / VENETIAN GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / HEATHER GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / VINTAGE RED</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / PURPLE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / TURQUOISE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XS / GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / HEATHER WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / VENETIAN GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / HEATHER GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / VINTAGE RED</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / PURPLE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / TURQUOISE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>S / GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / HEATHER WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / VENETIAN GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / HEATHER GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / VINTAGE RED</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / PURPLE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / TURQUOISE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>M / GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / HEATHER WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / VENETIAN GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / HEATHER GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / VINTAGE RED</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / PURPLE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / TURQUOISE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>L / GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / HEATHER WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / VENETIAN GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / HEATHER GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / VINTAGE RED</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / PURPLE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / TURQUOISE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562517844033</id>
+      <title>XL / GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562516238401</id>
+    <published>2021-07-13T15:24:09-04:00</published>
+    <updated>2021-07-13T15:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/thankful-t-shirt-womens"/>
+    <title>THANKFUL T-SHIRT (WOMEN&apos;S)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/THANKFULDISSHIRT2.jpg?v=1622493095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<div id="yui_3_16_0_1_1445744730845_5592"><span id="yui_3_16_0_1_1445744730845_5636">Mens Alstyle Apparel</span></div>
+<div id="yui_3_16_0_1_1445744730845_5591">
+<span id="yui_3_16_0_1_1445744730845_5590">6.0 ounce (10.0 oz/ly, 203 g) 100% cotton jersey </span><br><br><span id="yui_3_16_0_1_1445744730845_5638">Set-in rib collar with shoulder-to-shoulder taping</span><br><span id="yui_3_16_0_1_1445744730845_5639">Double needle sleeve and bottom hems</span><br><span><span id="yui_3_16_0_1_1445744730845_5643">Preshrunk to minimize shrinkage</span></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516238401</id>
+      <title>S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516238401</id>
+      <title>M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516238401</id>
+      <title>L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516238401</id>
+      <title>XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516238401</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562515943489</id>
+    <published>2021-07-13T15:24:09-04:00</published>
+    <updated>2021-07-13T15:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/rule-62-t-shirt-unisex"/>
+    <title>THANKFUL T-SHIRT (MEN&apos;S)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/THANKFULDISSHIRT.jpg?v=1622493022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<div id="yui_3_16_0_1_1445744730845_5592"><span id="yui_3_16_0_1_1445744730845_5636">Mens Alstyle Apparel</span></div>
+<div id="yui_3_16_0_1_1445744730845_5591">
+<span id="yui_3_16_0_1_1445744730845_5590">6.0 ounce (10.0 oz/ly, 203 g) 100% cotton jersey </span><br><br><span id="yui_3_16_0_1_1445744730845_5638">Set-in rib collar with shoulder-to-shoulder taping</span><br><span id="yui_3_16_0_1_1445744730845_5639">Double needle sleeve and bottom hems</span><br><span><span id="yui_3_16_0_1_1445744730845_5643">Preshrunk to minimize shrinkage</span></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515943489</id>
+      <title>S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515943489</id>
+      <title>M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515943489</id>
+      <title>L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515943489</id>
+      <title>XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515943489</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562515353665</id>
+    <published>2021-07-13T15:24:08-04:00</published>
+    <updated>2021-07-13T15:24:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/out-of-the-ashes-t-shirt-unisex"/>
+    <title>RULE 62 T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/ROUTE66.jpg?v=1622492657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<p><span>RULE 62: </span><span>C'MON NOW, DON'T TAKE YOURSELF SO DAMN SERIOUSLY!</span></p>
+<p><span></span><span>Rule 62 means don't take yourself too seriously- or anything else for that matter! Lighten up; remember to have fun. </span></p>
+<p><span>UNISEX BLACK COTTON T-SHIRT - MEN'S ALLSTYLE APPAREL AND WOMEN'S SOFT ANVIL AS SHOWN ABOVE</span></p>
+<p><span>WHITE VINYL</span></p>
+<p><span>WEAR YOUR PASSION ~ WEAR YOUR RECOVERY</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562515353665</id>
+      <title>XXXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562512175169</id>
+    <published>2021-07-13T15:24:07-04:00</published>
+    <updated>2021-07-13T15:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/recovery-revolution-t-shirt-unisex"/>
+    <title>RECOVERY REVOLUTION T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/RRSHIRTDISBLACK.jpg?v=1622491902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>NEW!! This t-shirt makes for a great staple piece in any wardrobe! It has a classic fit with thick cotton fabric.<br data-mce-fragment="1"><br data-mce-fragment="1">• 100% cotton<br data-mce-fragment="1">• Pre-shrunk<br data-mce-fragment="1">• Boxy fit<br data-mce-fragment="1">• Shoulder-to-shoulder taping<br data-mce-fragment="1">• Seamless double-needle 7⁄8″ (2.2 cm) collar<br data-mce-fragment="1">• Double-needle stitched sleeves and bottom hem<br data-mce-fragment="1">• Quarter-turned to avoid crease down the middle<br data-mce-fragment="1">• Blank product sourced from Honduras, Dominican Republic, El Salvador, Nicaragua, Haiti, or Mexico</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>S / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>S / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>S / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>S / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>S / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>M / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>M / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>M / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>M / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>M / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>L / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>L / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>L / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>L / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>L / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XL / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XL / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XL / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXL / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXL / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXL / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXXL / MAROON</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXXL / FOREST GREEN</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXXL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512175169</id>
+      <title>XXXL / NATURAL CREAM</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562509029441</id>
+    <published>2021-07-13T15:24:06-04:00</published>
+    <updated>2021-07-13T15:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/t-shirt"/>
+    <title>OUT OF THE ASHES T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/OUTOFASHESDISTEE.png?v=1622490502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>NEW!! This super-soft, baby-knit t-shirt looks great on both men and women – it fits like a well-loved favorite. Made from 100% cotton, except for heather colors, which contain polyester. • 100% ring-spun cotton (heather colors contain polyester) • Baby-knit jersey • Shoulder-to-shoulder taping • Cover stitched and hemmed sleeves • Side-seamed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>XXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562509029441</id>
+      <title>XXXL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562522857537</id>
+    <published>2021-07-13T15:19:02-04:00</published>
+    <updated>2021-07-13T15:19:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/buddha-graphic-t-shirt-unisex"/>
+    <title>BUDDHA GRAPHIC T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BLACKBUDDHASHIRTFRONT.jpg?v=1622496470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>NEW!! This super-soft, baby-knit t-shirt looks great on both men and women – it fits like a well-loved favorite. Made from 100% cotton, except for heather colors, which contain polyester. • 100% ring-spun cotton (heather colors contain polyester) • Baby-knit jersey • Shoulder-to-shoulder taping • Cover stitched and hemmed sleeves • Side-seamed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>S / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>S / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>M / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>M / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>L / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>L / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XL / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XXL / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XXXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562522857537</id>
+      <title>XXXL / NAVY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562520694849</id>
+    <published>2021-07-13T15:19:01-04:00</published>
+    <updated>2021-07-13T15:19:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a-tree-with-strong-roots-t-shirt-unisex"/>
+    <title>A TREE WITH STRONG ROOTS T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/TREESHIRT.png?v=1622495436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<div id="yui_3_16_0_1_1445744730845_5592"><span>You've now found the staple t-shirt of your wardrobe. It's made of a thicker, heavier cotton, but it's still soft and comfy. And the double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ringspun cotton • Pre-shrunk • Shoulder-to-shoulder taping • Quarter-turned to avoid crease down the centeriti, or Nicaragua</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>S / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>S / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>S / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>M / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>M / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>M / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>L / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>L / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>L / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XL / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXL / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXXL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXXL / BLACK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520694849</id>
+      <title>XXXL / GREY</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562516566081</id>
+    <published>2021-07-13T15:19:01-04:00</published>
+    <updated>2021-07-13T15:19:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/bee-humble-t-shirt-womens"/>
+    <title>TShirt:  &quot;BEE&quot; HUMBLE T-SHIRT (WOMEN&apos;S)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/WHITE.jpg?v=1622493310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95 - 24.95
+            <a href="https://www.choicesgifts.com/products/bee-humble-t-shirt-womens">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>NEW!!</span></span>
+<div id="yui_3_16_0_1_1445744730845_5592">
+<span>Your typical 100% cotton t-shirt. Pre-shrunk to make sure your size is maintained throughout several washes, and a classic fit.</span><br><br><span>• 100% combed ring-spun cotton</span><br><span>• 30 singles</span><br><span>• Classic semi-contoured silhouette with side seam</span><br><span>• Tear-away label</span><br><span>• Shoulder-to-shoulder taping</span><br><span>• Seamed collarette</span><br><span>• Double-needle stitched sleeves and bottom hem</span><br><span>• Blank product sourced from Honduras, Haiti, or Nicaragua</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>S / WHITE</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>S / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>S / YELLOW</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>M / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>M / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>M / YELLOW</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>L / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>L / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>L / YELLOW</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XL / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XL / YELLOW</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XXL / WHITE</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XXL / PINK</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516566081</id>
+      <title>XXL / YELLOW</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6570995449921</id>
+    <published>2021-06-30T13:48:17-04:00</published>
+    <updated>2021-06-30T13:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-a169-dreamcatcher-tree-of-life"/>
+    <title>a170. Dreamcatcher: Lunar Phases, Blue</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>DZI Handmade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/401035000-blue_1.jpg?v=1625075194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DZI Handmade<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dreamcatchers protect against nightmares by trapping bad dreams in their web, while good dreams are able to pass through with ease. Each part of the dreamcatcher represents a different phase of the moon.</span></p>
+<p><span data-mce-fragment="1">These are great for people who may want to improve the quality and restfulness of their sleep, while also being beautiful decor items for any home. </span></p>
+<p><span data-mce-fragment="1">Handwoven in Nepal at a woman-owned production center and made from locally sourced cane, sustainably harvested yarns, natural cotton, and webbed with wax thread to be long-lasting. Approximately 40"h x 12"w. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dreamcatcher</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6570995449921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6570994073665</id>
+    <published>2021-06-30T13:43:27-04:00</published>
+    <updated>2021-06-30T13:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a169-dreamcatcher-tree-of-life"/>
+    <title>a169. Dreamcatcher: Tree of Life</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>DZI Handmade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/401015000-blue_1.jpg?v=1625075095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DZI Handmade<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dreamcatchers protect against nightmares by trapping bad dreams in their web, while good dreams are able to pass through with ease. Each part of the dreamcatcher represents a different phase of the moon.</span></p>
+<p><span data-mce-fragment="1">These are great for people who may want to improve the quality and restfulness of their sleep, while also being beautiful decor items for any home. </span></p>
+<p><span data-mce-fragment="1">Handwoven in Nepal at a woman-owned production center and made from locally sourced cane, sustainably harvested yarns, natural cotton, and webbed with wax thread to be long-lasting. Approximately 36"h x 14"w. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dreamcatcher</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6570994073665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564906008641</id>
+    <published>2021-06-09T18:18:21-04:00</published>
+    <updated>2021-06-09T18:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-blessing-cards"/>
+    <title>Tarot: Blessing Cards</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/img_9780965903288.png?v=1623277045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Blessing Cards are a dynamic tool for self-development, transformation and opening to the power of the universe. There are 210 unique affirmations contained in this card deck. Each one expresses an energy, an attitude, an aspiration or a power of life. By drawing the card and allowing your energy to attune itself to the power expressed by that card, you align yourself with the forces of growth and progress that can help to transform your life, your family and your world.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564906008641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564905123905</id>
+    <published>2021-06-09T18:16:13-04:00</published>
+    <updated>2021-06-09T18:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-the-100-plastic-rider-tarot-deck"/>
+    <title>Tarot: The 100% Plastic Rider Tarot Deck®</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/RW-plastic-box-flat.jpg?v=1623276938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            25.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% plastic tarot cards are durable, resistant to bending, easy to shuffle and can last up to 50 times longer than paper cards.</p>
+<p>The original and only authorized edition of the famous 78-card Tarot Deck designed by Pamela Colman Smith under the direction of Arthur Edward Waite.</p>
+<p>Complete with instruction booklet by Arthur Edward Waite with foreword by Stuart R. Kaplan.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564905123905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564904960065</id>
+    <published>2021-06-09T18:14:06-04:00</published>
+    <updated>2021-06-09T18:14:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/copy-of-tarot-rider-waite-tarot-miniature-edition"/>
+    <title>Tarot: Rider-Waite® Tarot Miniature Edition</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/MR78_box.jpg?v=1623276769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This classic deck has long been a favorite of beginners as well as tarot enthusiasts. Includes 78 cards sized 1.75" x 2.875"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564904960065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564904730689</id>
+    <published>2021-06-09T18:11:36-04:00</published>
+    <updated>2021-06-09T18:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-rider-waite-tarot-pocket-edition"/>
+    <title>Tarot: Rider-Waite® Tarot Pocket Edition</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/PWR78_box.jpg?v=1623276647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>With full pictorial scenes on every card of the Major and Minor </span><span data-scaytid="1" data-scayt_word="Arcana">Arcana</span><span>, Rider-Waite Tarot set the standard for hundreds of other tarot decks around the world. First created in 1909 by Pamela </span><span data-scaytid="2" data-scayt_word="Colman">Colman</span><span> Smith, under the direction of Arthur Edward Waite, the vibrant drawings of Rider-Waite Tarot hold timeless appeal. The deck’s enduring popularity stems from the universality of the symbolism captured in every card of the 78-card deck. Pocket Rider-Waite Tarot includes an instruction booklet with upright and reversed meanings, keywords, and an introduction by tarot expert, Stuart R. Kaplan. This is a deck that is beloved by tarot beginners and experienced readers alike. Rider-Waite Tarot belongs in every tarot collection.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564904730689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564904206401</id>
+    <published>2021-06-09T18:07:59-04:00</published>
+    <updated>2021-06-09T18:07:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-reading-fortune-telling-cards-deck-book-set"/>
+    <title>Tarot: Reading Fortune Telling Cards Deck &amp; Book Set</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/RFTS99_Reading-Fortune-Telling-Cards-box.jpg?v=1623276409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This unique set includes the new 128-page illustrated book Reading Fortune Telling Cards: A Romani Approach and the popular 55-card deck Gypsy Witch® Fortune Telling Playing Cards. The comprehensive book traces the fascinating history of the Romani cartomancy tradition. Detailed instruction is given for simple and complex spreads, including the Grand Tableau. Together the deck and book provide a wealth of information for all levels of readers.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564904206401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564903026753</id>
+    <published>2021-06-09T18:02:12-04:00</published>
+    <updated>2021-06-09T18:02:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-the-harmony-tarot"/>
+    <title>Tarot: The Harmony Tarot</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/HNT78_Hamony_Nice_Box.jpg?v=1623275915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by her affinity for nature, internationally popular millennial witch Harmony Nice created this tarot deck as a spiritual tool to provide guidance, encouragement and inspiration for personal growth and healing. The Major Arcana in this unique Wiccan deck are represented by elements from both the natural and the magical realms. The botanically inspired Minor Arcana also follows themes of nature, with each suit associated with a season. The 148-page guidebook includes tarot meanings as well as instructions on how to read your cards for insight and help in achieving personal goals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564903026753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6564896964673</id>
+    <published>2021-06-09T17:57:26-04:00</published>
+    <updated>2021-06-09T17:57:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-rider-tarot-deck-1"/>
+    <title>Tarot: Reflective Tarot Featuring the Radiant Rider-Waite Tarot (Pocket Size)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/REF78_cover.jpg?v=1623275517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Printed on luminescent holographic cards, this shimmering tarot deck accentuates the vibrant colors of the Radiant Rider-Waite</span><sup>®</sup><span> for dynamic readings. Includes 78-cards and 60-page booklet of traditional tarot meanings in a handy</span><span> </span><span>small size that packs a big punch.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:tag>Tarot Featured</s:tag>
+    <s:tag>wholesale 15</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6564896964673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560549666881</id>
+    <published>2021-05-24T15:58:57-04:00</published>
+    <updated>2021-05-24T15:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/97a-grateful-im-not-dead-t-shirt"/>
+    <title>97a. GRATEFUL I&apos;M NOT DEAD T-SHIRT (UNISEX)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/gdeadtshirt.jpg?v=1621886421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            19.95 - 24.95
+            <a href="https://www.choicesgifts.com/products/97a-grateful-im-not-dead-t-shirt">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>NEW!! Soft, warm and classic. Our new Grateful I'm not dead sweatshirt is sure to keep you comfy while making a statement. This classic rocker style is lined with fleece on the inside and made from heavyweight cotton and polyester. Keep warm while celebrating your life journey in this new piece.</span></p>
+<p><meta charset="utf-8"><span>*Note, this item may ship separately if your size is not in stock. If you are in a rush or that is a problem, please leave a comment in the "ORDER NOTES" section at checkout, or give us a call:  212 794 3859.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560549666881</id>
+      <title>S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>Sm Tshirt</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560549666881</id>
+      <title>M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>Med Tshirt</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560549666881</id>
+      <title>L</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>LG Tshirt</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560549666881</id>
+      <title>XL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>XL Tshirt</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560549666881</id>
+      <title>XXL</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>XXL Tshirt</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4538840744001</id>
+    <published>2021-05-23T01:19:13-04:00</published>
+    <updated>2021-05-23T01:19:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/tarot-yoga-dogs-deck-book-set-44-cards-and-full-96-page-guidebook"/>
+    <title>Tarot: Yoga Dogs Deck &amp; Book Set 44 cards and Full 96-page Guidebook</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>U.S. GAMES SYSTEMS, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/yoga-dogs-deck-book-set-44-cards-and-full-96-page-guidebook.jpg?v=1598997864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>U.S. GAMES SYSTEMS, INC<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yoga Dogs Deck &amp; Book Set features the delightful animal photography and clever digital craft of Dan Borris. The set includes 44 cards and a full color 96-page guidebook that explains the yoga poses and their benefits, with step-by-step instructions for practicing each yoga pose.<br>Yoga Dogs includes some pups that are playful and others that are pensive, yet each one shares a message of yoga wisdom to guide you through these fun yoga challenges. This warm and fuzzy deck may inspire you to sit, stretch and roll over!<br>Alison DeNicola is a yoga teacher, energy healer and author of Mudras For Awakening the Energy Body and Mudras for Awakening the Five Elements.<br>Dan Borris, the creative mind behind Yoga Dogs and Yoga Cats, has worked as a photographer in the advertising and music industries, including Sony and Atlantic Records. His photographs have appeared in Vanity Fair, Rolling Stone, Smithsonian and The New York Times among many others. He currently resides in San Miguel de Allende, Mexico with his wife, Alejandra Diaz-Berrio.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tarot Cards</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4538840744001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210714689</id>
+    <published>2021-05-22T21:19:29-04:00</published>
+    <updated>2021-05-22T21:19:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver-1"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_57482eb7-4da6-4fdf-ab46-31add7e7bf6a.jpg?v=1621732778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210681921</id>
+    <published>2021-05-22T21:18:31-04:00</published>
+    <updated>2021-05-22T21:18:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_7bb541d0-4f67-42a5-9427-45e4e8eb50ed.jpg?v=1621732726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210583617</id>
+    <published>2021-05-22T21:17:56-04:00</published>
+    <updated>2021-05-22T21:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63b-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63B. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/DBA2F25F-680E-4EB5-8244-2A5103029640_4_5005_c_643a2ed2-2d11-44e7-88d1-9a1ac5aeeb60.jpg?v=1621732754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210550849</id>
+    <published>2021-05-22T21:17:37-04:00</published>
+    <updated>2021-05-22T21:17:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63a-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63A. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/3B6FC666-D652-4419-8635-4E644D0ABF40_4_5005_c_95f2c442-747c-40d5-a0c7-c64aa05760bb.jpg?v=1621732659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210026561</id>
+    <published>2021-05-22T21:09:53-04:00</published>
+    <updated>2021-05-22T21:09:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/65c-money-clip-aa-na-leather-magnetic-money-clip-1"/>
+    <title>65C. Money Clip: AA &amp; NA Leather Magnetic Money Clip</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Recovery Accents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/828D09CD-9253-4EF4-A358-27C7A534D4F0_4_5005_c_c323c789-8f82-4dff-86e9-547a6e9a5dd2.jpg?v=1621732349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Recovery Accents<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Leather Magnetic Money Clip to keep your dollars safe.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Sturdy clip can also be used as a large paper clip to keep your <br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">papers in one place.<br></span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Brown Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Gold</b><br></span>
+</div>
+<div align="left">
+<span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b>Black Leather </b></span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;">with</span><span face="Arial, Helvetica, sans-serif" color="#9E0704" class="size10 Arial10" style="color: #9e0704; font-family: Arial, Helvetica, sans-serif;"><b> Silver</b><br></span>
+</div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;"> </span></div>
+<div align="left"><span face="Arial, Helvetica, sans-serif" color="#2B1500" class="size10 Arial10" style="color: #2b1500; font-family: Arial, Helvetica, sans-serif;">Measures: 2.5" x 4" </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Money Clip</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:tag>Various Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>AA / AA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA Money Clip Brown w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>AA / AA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AA MC Blk w Silver</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>NA / NA Brown w Gold</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210026561</id>
+      <title>NA / NA Black w Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>NA MC Brw w Gold</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

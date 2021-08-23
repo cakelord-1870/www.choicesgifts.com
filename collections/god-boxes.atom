@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/god-boxes.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-05-08T14:07:17-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1087935610916</id>
+    <published>2020-05-08T14:07:17-04:00</published>
+    <updated>2020-05-08T14:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/29-medallion-box-wood-na-symbol-mahogany-natural-finish"/>
+    <title>29. Medallion Box: Wood, NA Symbol, Mahogany Natural Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k36-medallion-box-na-mahogany-natural-finish.png?v=1610746481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood Natural Wood Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>"Just For Today" on the inside.  </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1087935610916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1087921291300</id>
+    <published>2020-05-08T14:07:16-04:00</published>
+    <updated>2020-05-08T14:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/30-medallion-box-aa-mahogany-natural-finish"/>
+    <title>30. Medallion Box: AA, Mahogany Natural Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k31-medallion-box-aa-mahogany-natural-finish.png?v=1610746473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>Hand-rubbed mirror finish with circle/triangle logo on outside. </span></p>
+<p><span>"One Day At A Time" printed inside and a removable coin holder. </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1087921291300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/434558499</id>
+    <published>2020-05-08T14:07:16-04:00</published>
+    <updated>2020-05-08T14:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/27-medallion-box-na-burgundy-high-gloss"/>
+    <title>27. Medallion Box: NA,  Burgundy, High Gloss.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k35-medallion-box-na-burgundy-high-gloss.jpg?v=1610746405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating.</span></p>
+<p>"Just for Today" printed inside and a removable coin holder.</p>
+<p>(Medallion NOT Included).</p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/3e32901d/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/c45d55c0/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/c45d55c0/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/434558499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>NACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/434542379</id>
+    <published>2020-05-08T14:07:15-04:00</published>
+    <updated>2020-05-08T14:07:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/28-aa-tweak-wood-jewelry-box"/>
+    <title>28. AA Tweak Wood Jewelry Box.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/god-box-teak-wood-jewelry-box-g3.jpg?v=1585854837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b><a name="Part%20AA%20Jewelry%20Box%20-%20Teakwood%20Jewelry%20Box%20w/%20AA%20Symbol%20and%20Serenity%20Pouch"></a>AA Jewelry Box - Teakwood Jewelry Box w/ AA Symbol and Serenity Pouch</b><br><span>Beautiful Solid Teakwood Jewelry Box - Lacquered, with AA Symbol on outside of box. Inside is finished with soft Tan cloth, including a small pouch w/ a draw string and Serenity Pouch printed on surface. Size: 4 1/2 by 3 1/2 by 1 1/2 inches. </span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/434542379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.95</s:price>
+      <s:sku>TeakGod</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/434540183</id>
+    <published>2020-05-08T14:07:14-04:00</published>
+    <updated>2020-05-08T14:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/26-medallion-box-aa-burgundy-high-gloss"/>
+    <title>26. Medallion Box: AA, Burgundy, High Gloss.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k30-medallion-box-aa-burgundy-high-gloss.jpg?v=1610746400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>Hand-rubbed mirror finish with circle/triangle logo on outside. </span></p>
+<p><span>"One Day At A Time" printed inside and a removable coin holder. </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/434540183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397364883</id>
+    <published>2020-05-08T14:07:14-04:00</published>
+    <updated>2020-05-08T14:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/31-god-box-teakwood-with-serenity-prayer-on-inside-cover-g6"/>
+    <title>31. God Box: Teakwood with Serenity Prayer on Inside Cover.  G6</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/god-box-teakwood-with-serenity-prayer-on-inside-cover-g6.jpg?v=1621716062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A unique and unusual God box for all of those special letters, thoughts, questions and notes to your personal higher power.</p>
+<p>Box size is approximately 7" x 4 3/4" x 2 3/4" and is hand constructed of solid teakwood, hand coated and rubbed to a high gloss finish. Box is lined with supple, soft leather-like material. Serenity Prayer is screened on the inside cover. 'One Day at a Time' is screened on the included removable, draw-string leather-like pouch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397364883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>God Box: Teakwood with Serenity Prayer on Inside Cover.  G6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/5341040003</id>
+    <published>2020-04-28T08:41:08-04:00</published>
+    <updated>2020-04-28T08:41:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/26-god-box-wood-two-tone-w-serenity-prayer"/>
+    <title>26. God Box: Wood Two Tone w Serenity Prayer.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Mikutowski Woodworking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/god-box-wood-two-tone-with-serenity-prayer-new-g15.jpg?v=1585854838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mikutowski Woodworking<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a personal, hand painted, one of a kind box.   Blonde wood on the top, darker wood on the bottom.  </p>
+<p>Put all your troubles in your God Box:  Help requests, resentments, people, places or things written on a piece of paper and place it in this box, knowing they will all be handled by God.  Look back in months/years and see how much has changed.   </p>
+<meta charset="utf-8">
+<p><span>Dimensions:    5.5 inch x 3 inch x 1 inch.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/5341040003</id>
+      <title>2 Tone Serenity</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>God Box: Wood Two Tone with &quot;Serenity Prayer&quot;.  NEW!. G15</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/5340699459</id>
+    <published>2020-04-28T08:41:08-04:00</published>
+    <updated>2020-04-28T08:41:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/25-god-box-handcrafted-two-tone-boxes"/>
+    <title>25. God Box: Handcrafted Two Tone Boxes</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Mikutowski Woodworking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/god-box-handcrafted-two-tone-boxes.jpg?v=1592971469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mikutowski Woodworking<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a personal, hand painted, one of a kind box.   Blonde wood on the top, darker wood on the bottom.  </p>
+<p>Put all your troubles in your God Box:  Help requests, resentments, people, places or things written on a piece of paper and place it in this box, knowing they will all be handled by God.  Look back in months/years and see how much has changed.   </p>
+<p>Dimensions:    5.5 inch x 3 inch x 1 inch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/5340699459</id>
+      <title>2 Tone</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>God Box: Wood Two Tone with &quot;God Box&quot;.  NEW! G14</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397365731</id>
+    <published>2020-04-28T08:41:07-04:00</published>
+    <updated>2020-04-28T08:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/33-god-box-wood-black-serenity-prayer-box-g17"/>
+    <title>33. God Box: Wood, Black Serenity Prayer Box. G17</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Abbey Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/god-box-wood-black-serenity-prayer-box-g17.jpg?v=1585854838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Abbey Press<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Store precious possessions or write notes to God and place them in this gorgeous black box. The gold engraved Serenity Prayer on the lid will lend class to any vanity or desk. Smooth black finish makes for a great gift for men or women.</span></p>
+<p>God box features a contemporary black finish, engraved lid and a soft, protective lining. Comes with a matching 5 1/2" x 3 1/2" gift card. Serenity Box measures 6" x 4 3/8" x 2". Cross not included.</p>
+<p> </p>
+<p> </p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/5e84694b/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/5e84694b/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/27122e4e/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/27122e4e/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/27122e4e/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397365731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>God Box: Wood, Black Serenity Prayer Box</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1116042788900</id>
+    <published>2015-01-15T15:18:00-05:00</published>
+    <updated>2015-01-15T15:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/41-medallion-box-inspirational-wooden-box"/>
+    <title>41. Medallion Box: Inspirational Wooden Box</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Heartwood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k34-medallion-box-inspirational-wooden-box.jpg?v=1610746561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heartwood<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wooden Coin Holder in Cherry and Light Tan </p>
+<p>Wooden boxes hold up to 2 coins each and come laser engraved with one of five inspirational words!</p>
+<p>Faith, Hope, Love, Serenity and Courage</p>
+<p>Fabulous gift item.  </p>
+<p>Does not include the coin </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Courage</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Faith</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Hope</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Love</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Serenity</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Cherry / Miracles</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Courage</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Faith</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Hope</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Love</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Serenity</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1116042788900</id>
+      <title>Light Tan / Miracles</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

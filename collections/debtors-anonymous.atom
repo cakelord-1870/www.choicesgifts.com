@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/debtors-anonymous.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-04-28T08:40:25-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363971</id>
+    <published>2020-04-28T08:40:25-04:00</published>
+    <updated>2020-04-28T08:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/currency-of-hope-by-debtors-anonymous"/>
+    <title>Currency of Hope, by Debtors Anonymous</title>
+    <s:type>Books</s:type>
+    <s:vendor>Debtors Anonymous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/currency-of-hope-by-debtors-anonymous.jpg?v=1585854815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Debtors Anonymous<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Debtors Anonymous acts as it's own publisher, so the voice of the Fellowship can best explain the purpose, meaning, and message of A Currency of Hope. This is the second edition of the book, where "stories that strayed from our primary purpose were to be replaced by the Recovery Stories from the Debtors Anonymous website."- </p>
+<p>"The Twelve-Step program of Debtors Anonymous helps those around the world who suffer from the illness of compulsive debting. It offers still-suffering debtors a simple program of recovery through which they can arrest this serious malady. The program rests on the solid foundation of the Twelve Steps, Twelve Traditions, and Twelve Tools of Debtors Anonymous. This book, 'A Currency of Hope,' is the first to describe the Debtors Anonymous program of recovery. It discusses the basic items of compulsive debting and describes the D.A. Steps, Traditions, and Tools. Then it shares the inspirational experiences of thirty-eight D.A. members who have found the answer to their illness by living the Twelve-Step way of life."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Debtors Anonymous</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363971</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/451000463</id>
+    <published>2015-02-03T14:31:00-05:00</published>
+    <updated>2015-02-03T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/overcoming-underearning-a-five-step-plan-to-a-richer-life-by-barbara-stanny"/>
+    <title>Overcoming Underearning: A Five-Step Plan to a Richer Life by Barbara Stanny</title>
+    <s:type>Books</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/overcoming-underearning-a-five-step-plan-to-a-richer-life-by-barbara-stanny.jpg?v=1585854604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><blockquote>
+<p>When it comes to money, are you controlled by fear? <br>Do you underestimate your worth? <br>Are you ready to go to the next level, but can't seem to get there?</p>
+</blockquote>
+<p>If you answered yes to any of these questions, you may be an underearner. Underearners are self-saboteurs who don't live up to their earnings potential, says Barbara Stanny, a financial educator, motivational speaker, and career counselor. Whether they make $10 an hour or six figures a year, they tend to live paycheck to paycheck, are often in debt, and have a high tolerance for low pay. Ironically, many work incredibly hard. The good news is that underearning is a self-imposed condition. By focusing on overcoming it, underearners will not only earn what they deserve, but live a richer life. With techniques and exercises that have helped thousands of people, Stanny teaches five essential steps to financial independence and brings a message of empowerment to all those who chronically undervalue themselves.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Debtors Anonymous</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/451000463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/450993999</id>
+    <published>2015-02-03T14:24:00-05:00</published>
+    <updated>2015-02-03T14:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/earn-what-you-deserve-how-to-stop-underearning-and-start-thriving-by-jerrold-mundis"/>
+    <title>Earn What You Deserve: How to Stop Underearning and Start Thriving by Jerrold Mundis</title>
+    <s:type>Books</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/earn-what-you-deserve-how-to-stop-underearning-and-start-thriving-by-jerrold-mundis.jpg?v=1585854823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>In </span><i>Earn What You Deserve: How to Stop Underearning and Start Thriving</i><span> financial therapist and bestselling author Jerrold Mundis presents a revolutionary new system that shows you exactly how to bring more money into your life - starting right now.</span><br><span>- </span><br><span>No matter who you are. Or what your circumstances are like.</span><br><span>- </span><br><span>For as long as you wish</span><br><span>- </span><br><span>Step-by-step, Mundis leads you through these groundbreaking concepts and techniques into a life in which there is enough. More than enough. And where you never have to underearn again. Ever.</span><br><span>- </span><br><span>And he shows you how to do this humanely - without having to work 60 hours a week or drive yourself like a crazed taskmaster.-  How to do it even with some ease, and pleasure.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Debtors Anonymous</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/450993999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363259</id>
+    <published>2014-10-30T15:21:00-04:00</published>
+    <updated>2014-10-30T15:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/how-to-get-out-of-debt-stay-out-of-debt-and-live-prosperously-by-jerrold-mundis"/>
+    <title>How To Get Out Of Debt, Stay Out Of Debt, And Live Prosperously, by Jerrold Mundis</title>
+    <s:type>Books</s:type>
+    <s:vendor>Ingram Book Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/how-to-get-out-of-debt-stay-out-of-debt-and-live-prosperously-by-jerrold-mundis.jpg?v=1585854855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ingram Book Company<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>-‰"A must read for anyone wanting to get their head above water.-‰"- <i>The Wall Street Journal</i></b><br><b>- </b><br><span>THE CLASSIC GUIDE, REVISED WITH UP-TO-THE-MINUTE INFORMATION</span><br><span>- </span><br><b>OUT OF THE RED</b><br>
+<ul>
+<li><span style="line-height: 1.5;">-‰Do this month's bills pile up before you've paid last month's?</span></li>
+<li><span style="line-height: 1.5;">-‰Do you regularly receive past-due notices?</span></li>
+<li><span style="line-height: 1.5;">Do you get letters threatening legal action if immediate payment is not made?</span></li>
+<li><span style="line-height: 1.5;">-‰Do the total amounts of your revolving charge accounts keep rising?</span></li>
+</ul>
+<span>- </span><br><b>INTO THE BLACK</b><br><span>Whether you are currently in debt or fear you're falling into debt, you are not alone. Sixty million Americans-‰ from doctors to secretaries, from executives to the unemployed-‰ face the same problem and live under the same daily stress. Based on the proven techniques of the national Debtors Anonymous program, here is the first complete, step-by-step guide to getting out of debt once and for all. You'll learn</span><br><span>- </span><br>
+<ul>
+<li><span style="line-height: 1.5;">-‰how to recognize the warning signs of serious debt</span></li>
+<li><span style="line-height: 1.5;">-‰how to negotiate with angry creditors, collection agencies, and the IRS</span></li>
+<li><span style="line-height: 1.5;">-‰how to design a realistic and painless payback schedule</span></li>
+<li><span style="line-height: 1.5;">-‰how to identify your spending blind spots</span></li>
+<li><span style="line-height: 1.5;">-‰how to cope with the anxiety and daily pressures of owing money</span></li>
+<li><span style="line-height: 1.5;">-‰plus the three cardinal rules for staying out of debt forever, and much more!</span></li>
+</ul>
+<span>- </span><br><span>This book is neither sponsored nor endorsed by Debtors Anonymous. A recovered debtor, the author is intimately familiar with the success of the Debtors Anonymous program.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Debtors Anonymous</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397362171</id>
+    <published>2014-10-30T15:20:00-04:00</published>
+    <updated>2014-10-30T15:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/letting-go-of-debt-growing-richer-one-day-at-a-time-by-karen-casanova"/>
+    <title>Letting Go of Debt: Growing Richer One Day at a Time, by Karen Casanova</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/letting-go-of-debt-growing-richer-one-day-at-a-time-by-karen-casanova.jpg?v=1585854866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Written by the former wife of a compulsive gambler, these meditations hold a universal message of hope for anyone seeking the courage to live wisely with trying circumstances-one day at a time.</p>
+<p>Chronic debt takes a terrible toll on a life. Finances stagger, the spirit flags, family and friends feel the strain. For those who wake each day facing such a burden, this inspiring book of daily meditations offers respite, hope, and practical advice. Simple and positive, each days message helps put seemingly unmanageable debt in the proper perspective-and reminds us of our deepest debt to ourselves: to take heart and find strength in the daily struggle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Debtors Anonymous</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397362171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/aa-jewelry.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-31T17:07:12-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562520563777</id>
+    <published>2021-05-31T17:07:12-04:00</published>
+    <updated>2021-05-31T17:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z01-your-special-day-fleur-de-lis-calendar-ring-adjustable"/>
+    <title>AA31A. &quot;Your Special Day&quot; Fleur de Lis Calendar Ring - Adjustable</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Daniella Darren Park</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/calendar-ring-3__36429.1575969273.jpg?v=1622495302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniella Darren Park<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a one of a kind ring to commemorate your amazing day.  </p>
+<p><strong><span>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you.</span> </strong></p>
+<p data-mce-fragment="1">What's your 'Special Day'? Your birthday? Anniversary? Engagement? Wedding? Recovery Day? Graduation? Birth of your child? The list is endless!</p>
+<p data-mce-fragment="1">The Not Just Any Old Day...It's Your Special Day® Calendar Crown Charm Bracelet features the month of your choice with a Swarovski crystal that marks your special day. Our Calendar Bracelet incorporates our popular signature calendar "Datesake™" charm into a hip, stylish accessory that is not only beautiful but is a lovely, sentimental addition to your bracelet collection. Choose between Antique Silver or Antique Brass. Our plated pewter charm measuring 3/4" x 1" has a hand antiqued finish. Presented in a satin bag.</p>
+<p data-mce-fragment="1"> </p>
+<p>* This is a special order product that ships separately.  </p>
+<p><span><strong>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jan - Garnet / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jan - Garnet / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Feb - Dark Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Feb - Dark Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Mar - Aquamarine / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Mar - Aquamarine / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Apr - Clear Crystal / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Apr - Clear Crystal / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>May - Emerald / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>May - Emerald / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jun - Light Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jun - Light Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jul - Ruby / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Jul - Ruby / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Aug - Peridot / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Aug - Peridot / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Sept - Saphire / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Sept - Saphire / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Oct - Rose / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Oct - Rose / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Nov - Yellow Topaz / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Nov - Yellow Topaz / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Dec - Blue Zircon / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562520563777</id>
+      <title>Dec - Blue Zircon / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562516860993</id>
+    <published>2021-05-31T16:39:58-04:00</published>
+    <updated>2021-05-31T16:39:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/z01-your-special-day-crown-calendar-charm-ball-chain-included"/>
+    <title>aa48. &quot;Your Special Day&quot; Crown Calendar Charm (Ball chain included)</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Daniella Darren Park</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/102CRWNBBAntiqueSilver001__52374.1575969241.jpg?v=1622493785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniella Darren Park<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a one of a kind necklace to commemorate your amazing day.  </p>
+<p><strong><span>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you.</span> </strong></p>
+<p data-mce-fragment="1">What's your 'Special Day'? Your birthday? Anniversary? Engagement? Wedding? Recovery Day? Graduation? Birth of your child? The list is endless!</p>
+<p data-mce-fragment="1">The Not Just Any Old Day...It's Your Special Day® Calendar Crown Charm Bracelet features the month of your choice with a Swarovski crystal that marks your special day. Our Calendar Bracelet incorporates our popular signature calendar "Datesake™" charm into a hip, stylish accessory that is not only beautiful but is a lovely, sentimental addition to your bracelet collection. Choose between Antique Silver or Antique Brass. Our plated pewter charm measuring 3/4" x 1" has a hand antiqued finish. Presented in a satin bag.</p>
+<p data-mce-fragment="1"> </p>
+<p>* This is a special order product that ships separately.  </p>
+<p><span><strong>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jan - Garnet / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jan - Garnet / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Feb - Dark Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Feb - Dark Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Mar - Aquamarine / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Mar - Aquamarine / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Apr - Clear Crystal / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Apr - Clear Crystal / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>May - Emerald / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>May - Emerald / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jun - Light Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jun - Light Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jul - Ruby / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Jul - Ruby / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Aug - Peridot / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Aug - Peridot / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Sept - Saphire / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Sept - Saphire / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Oct - Rose / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Oct - Rose / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Nov - Yellow Topaz / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Nov - Yellow Topaz / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Dec - Blue Zircon / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562516860993</id>
+      <title>Dec - Blue Zircon / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku/>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6562512273473</id>
+    <published>2021-05-31T16:19:47-04:00</published>
+    <updated>2021-05-31T16:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/your-special-day-calendar-crown-bracelet-on-double-loop-chain-with-swarovski-crystal"/>
+    <title>Z17. &quot;Your Special Day&quot; Calendar Crown Bracelet on Double Loop Chain with Swarovski crystal</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Daniella Darren Park</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/102CrownBRAntiqueSilver01JanCropped__87906.1575969312.jpg?v=1626207434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniella Darren Park<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a one of a kind bracelet to commemorate your amazing day.  </p>
+<p><strong><span>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you.</span> </strong></p>
+<p data-mce-fragment="1">What's your 'Special Day'? Your birthday? Anniversary? Engagement? Wedding? Recovery Day? Graduation? Birth of your child? The list is endless!</p>
+<p data-mce-fragment="1">The Not Just Any Old Day...It's Your Special Day® Calendar Crown Charm Bracelet features the month of your choice with a Swarovski crystal that marks your special day. Our Calendar Bracelet incorporates our popular signature calendar "Datesake™" charm into a hip, stylish accessory that is not only beautiful but is a lovely, sentimental addition to your bracelet collection. Choose between Antique Silver or Antique Brass. Our plated pewter charm measuring 3/4" x 1" has a hand antiqued finish. Presented in a satin bag.</p>
+<p data-mce-fragment="1"> </p>
+<p>* This is a special order product that ships separately.  </p>
+<p><span><strong>**In the notes section of cart page, please tell us the DAY of the month you want to celebrate, so we can add the stone to the calendar for you. </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Bracelets</s:tag>
+    <s:tag>NA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jan - Garnet / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jan - Garnet / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Feb - Dark Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Feb - Dark Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Mar - Aquamarine / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Mar - Aquamarine / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Apr - Clear Crystal / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Apr - Clear Crystal / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>May - Emerald / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>May - Emerald / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jun - Light Amethyst / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jun - Light Amethyst / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jul - Ruby / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Jul - Ruby / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Aug - Peridot / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Aug - Peridot / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Sept - Saphire / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Sept - Saphire / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Oct - Rose / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Oct - Rose / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Nov - Yellow Topaz / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Nov - Yellow Topaz / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Dec - Blue Zircon / Antique Brass</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6562512273473</id>
+      <title>Dec - Blue Zircon / Antique Silver</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398625345</id>
+    <published>2021-05-23T01:45:19-04:00</published>
+    <updated>2021-05-23T01:45:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa05-aa-pendant-14kt-gold"/>
+    <title>AA05. AA Pendant. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/18-4_2014k_20copy-1000x1000_a08f974c-da00-4c0c-a1c3-26aa96f6ebac_470x_1.jpg?v=1621464748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Alcoholics Anonymous Symbol with Praying Hands in a Diamond Cut Circle</span><br><span>Medium Size, Diamond Cut Accents</span><br><span>11/16" Wide by 15/16" Tall with Loop &amp; Jump-ring</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398625345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>18-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559712018497</id>
+    <published>2021-05-23T01:19:22-04:00</published>
+    <updated>2021-05-23T01:19:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa25-aa-rope-ring-14kt-gold"/>
+    <title>AA25. AA Rope Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/106_20k_470x_d5322f20-d273-435c-8036-dd5a7e425763.jpg?v=1621543558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Alcoholics Anonymous Symbol Circle Triangle on a Open Rope Style Band</span><br><span>The Ring is 3/8" Wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stocked Quantities Available</span><br><span>All other sizes available for special order only</span><br><span>Price Varies For special ordered Sizes</span><br><span>Please contact us for time and cost</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559712018497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku>106-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559711756353</id>
+    <published>2021-05-23T01:19:21-04:00</published>
+    <updated>2021-05-23T01:19:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa31-aa-symbol-ring-14kt-gold"/>
+    <title>AA31. AA Symbol Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/521_20angle_20k-1000x1000_600x_3281d267-5c1d-4264-8730-d806e8460229.jpg?v=1621543468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Continuous Alcoholics Anonymous Symbol Circle Triangle</span><br><span>on a Narrow Style Band</span><br><span>Versatile for both Men and Women</span><br><span>The Ring is 3/16" Wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stock Quantities Available</span><br><span>All other sizes available for special order only</span><br><span>Please contact us for time and cost.</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559711756353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>521-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559710904385</id>
+    <published>2021-05-23T01:19:20-04:00</published>
+    <updated>2021-05-23T01:19:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa30-aa-frog-ring-14kt-gold"/>
+    <title>AA30. AA Frog Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/871_20front_20k-1000x1000_600x_128b94b0-d934-4379-b432-b00245eeeeb5.jpg?v=1621543275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Frog with Alcoholics Anonymous Symbol Circle Triangle</span><br><span>Versatile for both Men and Women</span><br><span>Ring is approx 9/16" wide</span><br><span>High Polished, 14k Yellow Gold</span><br><span>Limited Stock Quantities Available</span><br><span>All Other Sizes are available for Special Order Only</span><br><span>Please contact us for approximate time and cost.</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559710904385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku>871-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559710576705</id>
+    <published>2021-05-23T01:19:19-04:00</published>
+    <updated>2021-05-23T01:19:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa27-aa-ring-14kt-gold"/>
+    <title>AA27. AA Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/315_20front_20k-1000x1000_600x_ba8f024d-dce4-447b-9b7a-19d2d9da39a6.jpg?v=1621543109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Alcoholics Anonymous Symbol Circle Triangle Ring</span><br><span>Versatile for both Men and Women</span><br><span>Ring is approx 1/2" wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stock Quantities are Available</span><br><span>All other Sizes available for special Order</span><br><span>Price varies for special ordered sizes</span><br><span>Please contact us for approximate time and cost</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559710576705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>315-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559710478401</id>
+    <published>2021-05-23T01:19:18-04:00</published>
+    <updated>2021-05-23T01:19:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa29-aa-ring-14kt-gold"/>
+    <title>AA29. AA Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/781_20k_470x_2ee4c95b-4e92-4f78-a415-5516ef7238b9.jpg?v=1621543039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            710.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Alcoholics Anonymous Symbol Ring, Deco Signet Symbol Style</span><br><span>The Ring is 7/16" Wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stock Quantities are Available</span><br><span>All other sizes Available for special order only</span><br><span>Price Varies For Different Sizes</span><br><span>Please contact us for time and cost</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559710478401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">710.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559706808385</id>
+    <published>2021-05-23T01:19:18-04:00</published>
+    <updated>2021-05-23T01:19:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa26"/>
+    <title>AA26. AA Chunk Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/321_2014K_20top_470x_4a97683b-8ad2-4342-883b-91c3765c6d0c.jpg?v=1621541722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Ring with Alcoholics Anonymous Symbol in Twist Wire Circle</span><br><span>Versatile for both Men and Women</span><br><span>Ring is approx 3/8" wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stock Quantities are Available</span><br><span>All other Sizes available for special Order</span><br><span>Price varies for special ordered sizes</span><br><span>Please contact us for approximate time and cost</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559706808385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>321-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559706480705</id>
+    <published>2021-05-23T01:19:17-04:00</published>
+    <updated>2021-05-23T01:19:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa28-aa-ring-14kt-gold"/>
+    <title>AA28. AA Ring. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/91_2014k_20top-1000x1000_470x_dd4a4a1b-6bec-45b8-a140-1e43cc11bb06.jpg?v=1621541494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Ring with Alcoholics Anonymous Symbol in Diamond Cut Circle</span><br><span>The Ring is 5/8" Wide</span><br><span>High Polished, 14k Gold</span><br><span>Limited Stock Quantities Available</span><br><span>All other sizes available for special order only</span><br><span>Please contact us for approximate time and cost.</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Rings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559706480705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku>91-7</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398821953</id>
+    <published>2021-05-23T01:19:16-04:00</published>
+    <updated>2021-05-23T01:19:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa09-aa-twist-wire-style-pendant-14kt-gold"/>
+    <title>AA09.  AA Twist Wire Style Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/896-2_2014K_20copy-1000x1000_470x_2ca73ee3-874c-4552-81f9-041e5285db9e.jpg?v=1621464796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Medium Size Twist Wire Circle Pendant</span><br><span>11/16" Wide by 15/16" Tall with loop &amp; Jump-ring</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398821953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>896-2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559390138433</id>
+    <published>2021-05-23T01:19:15-04:00</published>
+    <updated>2021-05-23T01:19:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa22-earrings-14kt-gold"/>
+    <title>AA22.  Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/129-6_2014K_20copy-1000x1000_470x_ee8e59e8-4eee-4d36-8b84-3b53fb376d9b.jpg?v=1621462479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small Alcoholics Anonymous Symbol Stud Earrings</span><br><span>3/8" Wide by 3/8" Tall</span><br><span>Earrings and Post are 14k Gold</span><br><span>Hand Finished, High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559390138433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>129-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559388172353</id>
+    <published>2021-05-23T01:19:14-04:00</published>
+    <updated>2021-05-23T01:19:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa23-earrings-14kt-gold"/>
+    <title>AA24. Earrings. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/281_20k-1000x1000_470x_dc010806-2c5a-4a43-a54e-259fdd0a7a06.jpg?v=1621462014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Very Small Stud Earrings with Diamond Cut Circle</span><br><span>Stone Finished Solid Triangle</span><br><span>5/16" Wide by 5/16" Tall</span><br><span>Earrings and Post 14k Gold</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559388172353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>281-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2241881987</id>
+    <published>2021-05-23T01:19:13-04:00</published>
+    <updated>2021-05-23T01:19:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa23-earrings-x14kt-gold"/>
+    <title>AA23.  Earrings. x14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/550_20k-1000x1000_470x_dc5bfdd9-af2e-47f9-adb1-05b7a99d338f.jpg?v=1621461902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<p><span>Small Circle Triangle Stud Earrings</span><br><span>3/16" Wide by 3/16" Tall</span><br><span>Earrings and Posts are 14k Gold</span><br><span>High Polished</span></p>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2241881987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>550-6</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559399182401</id>
+    <published>2021-05-23T01:18:43-04:00</published>
+    <updated>2021-05-23T01:18:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa07-aa-moon-and-star-pendant-14kt-gold"/>
+    <title>AA07. AA Moon and Star Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/399-3_2014K_20copy-1000x1000_470x_0e2235ff-5235-4bfb-8e26-5ca07ad586dd.jpg?v=1621464913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Moon and Star Pendant with Alcoholics Anonymous Symbol</span><br><span>11/16" Wide by 15/16" Tall with Loop &amp; Jump-ring</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559399182401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>399-3</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398887489</id>
+    <published>2021-05-23T01:18:43-04:00</published>
+    <updated>2021-05-23T01:18:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa02-aa-rope-style-circle-pendant-14kt-gold"/>
+    <title>AA02. AA Rope Style Circle Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/307-2_2014K_20copy-1000x1000_470x_cd846337-84c2-4b43-94dd-8870b0e39f10.jpg?v=1621464842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            395.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Alcoholics Anonymous Symbol in Rope Style Circle</span><br><span>7/8" Wide by 1-1/4" Tall with Loop &amp; Bail</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>AA Pendants</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398887489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>307-2</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398330433</id>
+    <published>2021-05-23T01:18:41-04:00</published>
+    <updated>2021-05-23T01:18:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa05-aa-in-a-scroll-style-circle-pendant-14kt-gold"/>
+    <title>AA05. AA in a Scroll Style Circle Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/834-3_2014k_20copy-1000x1000_470x_7e8a857d-80e8-4f03-ad39-02ac61366651.jpg?v=1621464663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Alcoholics Anonymous Symbol in a Scroll Style Circle</span><br><span>7/8" Wide by 1-1/8" Tall with Bail</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398330433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398199361</id>
+    <published>2021-05-23T01:18:40-04:00</published>
+    <updated>2021-05-23T01:18:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa06-aa-moon-and-star-pendant-14kt-gold"/>
+    <title>AA06. AA Moon and Star Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/888-3_2014k_20copy-1000x1000_470x_1b9e6ab0-52a1-40fa-83d8-bc28ee565444.jpg?v=1621464552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Moon and Star Pendant with Alcoholics Anonymous Symbol</span><br><span>9/16" Wide by 5/8" Tall with Loop &amp; Jump-ring</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398199361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>888-3</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559398068289</id>
+    <published>2021-05-23T01:18:39-04:00</published>
+    <updated>2021-05-23T01:18:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa03-aa-small-twist-wire-circle-heart-pendant-14kt-gold"/>
+    <title>AA03. AA Small Twist Wire Circle Heart Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/393-4_2014k_20copy-1000x1000_470x_539fb48f-93c7-4f65-ab6e-2d342ae72f37.jpg?v=1621464498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>
+<span>Alcoholics Anonymous Symbol in a Small Twist Wire Circle</span><br><span>in a Lovely Open Heart</span><br><span>3/4" Wide by 13/16" Tall with Loop &amp; Jump-ring</span><br><span>High Polished, Hand Finished</span>
+</div>
+<div><span></span></div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559398068289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>393-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559397806145</id>
+    <published>2021-05-23T01:18:38-04:00</published>
+    <updated>2021-05-23T01:18:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa04-aa-in-a-open-heart-pendant-14kt-gold"/>
+    <title>AA04. AA in a Open Heart Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/398-4_2014k_20copy-1000x1000_470x_895a1be1-bac4-471d-8a1d-286091f2b77d.jpg?v=1621464433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<div>Alcoholics Anonymous Symbol in an Open Heart, Medium Size<br>13/16" Wide by 15/16" Tall with Loop &amp; Jump-ring<br>Hand Finished, High Polished</div>
+<div>Weight: 3.1 grams</div>
+<div>*Gift box Included*</div>
+<div><strong></strong></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559397806145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>398-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559397609537</id>
+    <published>2021-05-23T01:18:38-04:00</published>
+    <updated>2021-05-23T01:18:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa18-aa-in-a-jewish-star-pendant-14kt-gold"/>
+    <title>AA18. AA in a Jewish Star Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/518-4_2014k_20copy-1000x1000_470x_de8b9603-7deb-4990-b680-76836cb45de1.jpg?v=1621464340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div><span>Alcoholics Anonymous Symbol in a Jewish Star<br data-mce-fragment="1">3/4" (W) by 1-1/16" (H) with Loop &amp; Jump-ring<br data-mce-fragment="1">Hand Finished, High Polished</span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559397609537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>518-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559397445697</id>
+    <published>2021-05-23T01:18:37-04:00</published>
+    <updated>2021-05-23T01:18:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa08-aa-w-dolphin-pendant-14kt-gold"/>
+    <title>AA08. AA w Dolphin Pendant. 14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/557-4_2014k_20copy-1000x1000_470x_a880fdb5-cec4-40fc-9967-940323001e9c.jpg?v=1621464273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<span>Alcoholics Anonymous Recovery Symbol with a Dolphin</span><br><span>13/16" Wide by 1-1/16" Tall with Loop &amp; Jump-ring</span><br><span>Hand Finished, Hand Polished</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559397445697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>557-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559397216321</id>
+    <published>2021-05-23T01:18:36-04:00</published>
+    <updated>2021-05-23T01:18:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa17-aa-cross-pendant-14kt-gold"/>
+    <title>AA17. AA Cross Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/887-4_2014k_20copy-1000x1000_470x_1fc5121a-c71d-47c1-a0e9-dfb03be557f1.jpg?v=1621464216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<span>Alcoholics Anonymous Recovery Symbol on a Small Lovely Cross</span><br><span>1/2" Wide by 7/8" Tall with Loop &amp; Jump-ring</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559397216321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>887-4</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559396888641</id>
+    <published>2021-05-23T01:18:35-04:00</published>
+    <updated>2021-05-23T01:18:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/aa13a-aa-with-a-beautiful-tree-of-life-pendant-14kt-gold"/>
+    <title>AA13A. AA with a Beautiful Tree of Life Pendant.  14KT Gold.</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>12 Step Gold by Jonathan Friedman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/462-5_2014k_20copy-1000x1000_470x_134492ef-c6ee-46d9-9382-ff19d48c6c40.jpg?v=1621464152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>12 Step Gold by Jonathan Friedman<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div>
+<span>Alcoholics Anonymous Recovery Symbol with a Beautiful Tree of Life</span><br><span>11/16" Wide by 13/16" Tall with Loop &amp; Jump-ring</span><br><span>Hand Finished, High Polished</span>
+</div>
+<div><span></span></div>
+<div></div>
+<div><strong></strong></div>
+<p><meta charset="utf-8"><span>Please note, these items may be sent directly from manufacturer - which means they may </span><span>arrive </span><span>separately from other items in your order and can take 3 -5 business days to arrive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Jewelry</s:tag>
+    <s:tag>Necklaces</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559396888641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>462-5</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

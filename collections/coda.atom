@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/coda.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-07-29T12:48:43-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4554400858177</id>
+    <published>2020-07-29T12:48:43-04:00</published>
+    <updated>2020-07-29T12:48:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/coda-book"/>
+    <title>CoDA Book</title>
+    <s:type>Books</s:type>
+    <s:vendor>CoDA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/coda-book.png?v=1598997920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CoDA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>In-depth readings on recovery Steps and Traditions, our Fellowship, common questions, and personal stories from codependents.</span></p>
+<p>Weight 1.625 lbs<br>Dimensions 8.5 × 5.5 × 1.25 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4554400858177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>9780964710504</s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4554399645761</id>
+    <published>2020-07-29T12:45:52-04:00</published>
+    <updated>2020-07-29T12:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/twelve-steps-twelve-traditions-workbook-of-co-dependents-anonymous"/>
+    <title>Twelve Steps &amp; Twelve Traditions Workbook of Co-Dependents Anonymous</title>
+    <s:type>Books</s:type>
+    <s:vendor>CoDA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/twelve-steps-twelve-traditions-workbook-of-co-dependents-anonymous.png?v=1598997917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CoDA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Takes the reader through the Steps &amp; Traditions with a brief explanation followed by a series of questions.  For individual or group study.  Now spiral bound.</span></p>
+<p><span>Weight 1 lbs<br>Dimensions 11.0 × 8.5 × 0.375 in</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4554399645761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359399</id>
+    <published>2020-04-28T08:40:22-04:00</published>
+    <updated>2020-04-28T08:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/codependents-guide-to-the-twelve-steps-by-melody-beattie"/>
+    <title>Codependents&apos; Guide to the Twelve Steps, by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/codependents-guide-to-the-twelve-steps-by-melody-beattie.jpg?v=1585854812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The- </span><i>New York Times</i><span>- bestselling self-help book that offers advice on how to find and choose the recovery program for you, as well as a directory of the wide range of Twelve Step programs, including AA, Codependents Anonymous, Codependents of Sex Addicts, Adult Children of Alcoholics, and more.</span><br><br><span>Millions identified with Melody Beattie in- </span><i>Codependent No More</i><span>- and gained inspiration from her in- </span><i>Beyond Codependency.</i><span>- Now she-‰?s back to help you discover how recovery programs work and to help you find the right one for you. Interpreting the famous Alcoholics Anonymous Twelve Steps specifically for codependent issues for the very first time, this groundbreaking book combines Melody-‰?s expertise with the experience of other people to:- </span><br><br><span>-‰? Explain each step and how you can apply it to your particular issues- </span><br><span>-‰? Offer specific exercises and activities to use both in group settings and on your own- </span><br><span>-‰? Provide a directory of the wide range of Twelve Step programs-‰Ã“including Al-Anon, Codependents Anonymous, Codependents of Sex Addicts, Adult Children of Alcoholics, and more- </span><br><br><span>The uniquely warm and compassionate voice of Melody Beattie will inspire you to turn your life around-‰Ã“one step at a time.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359399</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397359375</id>
+    <published>2020-04-28T08:40:22-04:00</published>
+    <updated>2020-04-28T08:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/codependent-no-more-workbook-by-melody-beattie"/>
+    <title>Codependent No More Workbook, by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/codependent-no-more-workbook-by-melody-beattie.jpg?v=1585854811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This highly anticipated workbook will help readers put the principles from Melody Beattie's international best seller- </span><i>Codependent No More</i><span>- into action in their own lives.</span>
+<p>The- <i>Codependent No More Workbook</i>- was designed for Beattie fans spanning the generations, as well as for those who may not yet even understand the meaning and impact of their codependency. In this accessible and engaging workbook, Beattie uses her trademark down-to-earth style to offer readers a Twelve Step, interactive program to stop obsessing about others by developing the insight, strength, and resilience to start taking care of themselves.</p>
+<p>Through hands-on guided journaling, exercises, and self-tests, readers will learn to integrate the time-tested concepts outlined in- <i>Codependent No More</i>- into their daily lives by setting and enforcing healthy limits developing a support system through healthy relationships with others and a higher power experiencing genuine love and forgiveness letting go and detaching from others' harmful behaviors</p>
+<p>Whether fixated on a loved one with depression, an addiction, an eating disorder, or other self-destructive behaviors, or someone who makes unhealthy decisions, this book offers the practical means to plot a comprehensive, personalized path to hope, healing, and the freedom to be your own best self.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397359375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397362583</id>
+    <published>2020-04-28T08:37:12-04:00</published>
+    <updated>2020-04-28T08:37:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/beyond-codependency-and-getting-better-all-the-time-by-melody-beattie"/>
+    <title>Beyond Codependency And Getting Better All the Time, by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/beyond-codependency-and-getting-better-all-the-time-by-melody-beattie.jpg?v=1585855816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You're learning to let go, to live your life free of the grip of someone else's problems. And yet you find you've just started on the long journey of recovery. Let Melody Beattie, author of the classic- </span><i>Codependent No More</i><span>, help you along your way. A guided tour past the pitfalls of recovery,- </span><i>Beyond Codependency- </i><span>is dedicated to those struggling to master the art of self-care. It is a book about what to do once the pain has stopped and you've begun to suspect that you have a life to live. It is about what happens next.</span>
+<p>In simple, straightforward terms, Beattie takes you into the territory beyond codependency, into the realm of recovery and relapse, family-of-origin work and relationships, surrender and spirituality. With personal stories, hard-won insights, and activities, her book teaches the lessons of dealing with shame, growing in self-esteem, overcoming deprivation, and getting past fatal attractions long enough to find relationships that work.</p>
+<p>"Melody Beattie is an American phenomenon . . . She connects with age-old quests for self-improvement and rebirth. . . [And she] understands being overboard, which helps her throw best-selling lifelines to those still adrift."- <i>Time</i></p>
+<p>"[This book] goes beyond how we hurt to how we heal." Veronica Ray, author of- <i>Choosing Happiness</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397362583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363147</id>
+    <published>2014-10-30T15:21:00-04:00</published>
+    <updated>2014-10-30T15:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/gratitude-inspirations-by-melody-beattie"/>
+    <title>Gratitude: Inspirations by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/gratitude-inspirations-by-melody-beattie.jpg?v=1585854847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melody Beattie's <em>Gratitude</em> is an antidote to today's harried lifestyle. Beautifully illustrated and ideal for gift-giving, <em>Gratitude</em> encourages readers to reconnect with what's truly important in life, the everyday blessings that are ever-present and ever-sustaining.</p>
+<p>Featuring stirring passages from <em>More Language of Letting Go</em>, Beattie's best-selling book of daily affirmations, <em>Gratitude</em> inspires readers to be thankful for everything in their lives-‰Ã“whether they feel grateful or not.<br><br>An attitude of gratitude transforms everyday disappointments and frustrations, Beattie explains. A sense of gratitude provides valuable perspective when facing problems. And above all else, a sense of gratitude helps us truly recognize the presence of a Higher Power in our lives.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363127</id>
+    <published>2014-10-30T15:21:00-04:00</published>
+    <updated>2014-10-30T15:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/the-language-of-letting-go-daily-meditations-for-codependents-hazelden-meditation-series-paperback-by-melody-beattie"/>
+    <title>Language of Letting Go: Daily Meditations for Codependents, by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/language-of-letting-go-daily-meditations-for-codependents-by-melody-beattie.jpg?v=1585854865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Melody Beattie integrates her own life experiences and fundamental recovery reflections in this unique daily meditation book written especially for those of us who struggle with the issue of codependency.</p>
+<p>Problems are made to be solved, Melody reminds us, and the best thing we can do is take responsibility for our own pain and self-care. In this daily inspirational book, Melody provides us with a thought to guide us through the day and she encourages us to remember that each day is an opportunity for growth and renewal.</p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/74984ff6/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/f84e19fc/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/5e84694b/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397362683</id>
+    <published>2014-10-30T15:20:00-04:00</published>
+    <updated>2014-10-30T15:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/journey-to-the-heart-daily-meditations-on-the-path-to-freeing-your-soul-by-melody-beattie"/>
+    <title>Journey to the Heart: Daily Meditations on the Path to Freeing Your Soul, by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>Hazelden</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/journey-to-the-heart-daily-meditations-on-the-path-to-freeing-your-soul-by-melody-beattie.jpg?v=1585854862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hazelden<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Journey to the Heart</em>- by- <em>New York Times</em>- bestselling author of- <em>Codependent No More,</em>- <em>Beyond Codependency</em>, and- <em>Lessons of Love</em>, contains 365 insightful daily meditations that inspire readers to unlock their personal creativity and discover their divine purposes in life.</p>
+<p>-‰Melody Beattie gives you the tools to discover the magnificence and splendor of your being.-‰? -‰Ã’Deepak Chopra, author of- <em>Jesus- </em>and- <em>Buddha</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coda</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397362683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397362555</id>
+    <published>2014-10-30T15:20:00-04:00</published>
+    <updated>2014-10-30T15:20:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/more-language-of-letting-go-366-new-daily-meditations-hazelden-meditation-series-by-melody-beattie"/>
+    <title>More Language of Letting Go: 366 New Daily Meditations, Hazelden Meditation Series by Melody Beattie</title>
+    <s:type>Books</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/more-language-of-letting-go-366-new-daily-meditations-hazelden-meditation-series-by-melody-beattie.jpg?v=1585854888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This new volume of meditations offers clients ongoing wisdom and guidance about relationship issues. An excellent enhancement to therapy, daily thoughts provide clients with ongoing insights into issues such as surrendering, the damaging effects of manipulation, and healthy communication.<br><br>This book shares unsentimental, direct help for clients recovering from chemical dependency, healing from relationships and family issues, and exploring personal growth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coda</s:tag>
+    <s:tag>Daily Meditation Readers</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397362555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku/>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/funny-cards.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-08-19T16:10:31-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6589371220033</id>
+    <published>2021-08-19T16:10:31-04:00</published>
+    <updated>2021-08-19T16:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a116b-huge-congrats"/>
+    <title>a116b. Huge Congrats.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/hugecongratsminicard_958b1e05-ba3d-4e1f-84ec-86e81fc7e1cd.jpg?v=1629403836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6589371220033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559894143041</id>
+    <published>2021-05-21T12:00:25-04:00</published>
+    <updated>2021-05-21T12:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m12-mini-card-balloons"/>
+    <title>M12. Mini Card, Balloons .</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BalloonsMiniCard_337cf667-5d88-4305-a0e8-24208faa083a.jpg?v=1621612826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559894143041</id>
+      <title>Mini</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559888769089</id>
+    <published>2021-05-21T11:34:33-04:00</published>
+    <updated>2021-05-21T11:34:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m14-mini-cards-pink-tulips"/>
+    <title>M14. Mini Cards, Pink Tulips.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/PinkTulipsMiniCard_79a0a2a0-998d-4bbe-88bd-a468ff104e0c.jpg?v=1621616627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559888769089</id>
+      <title>Mini</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559887917121</id>
+    <published>2021-05-21T11:29:28-04:00</published>
+    <updated>2021-05-21T11:29:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m03-mini-card-balloons"/>
+    <title>M03. Mini Card, Balloons .</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BalloonsMiniCard_62178076-0d74-4c50-9ad7-b498ba7134f2.jpg?v=1621610970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559887917121</id>
+      <title>Mini</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559887556673</id>
+    <published>2021-05-21T11:27:35-04:00</published>
+    <updated>2021-05-21T11:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m16-mini-card-bravo"/>
+    <title>M16. Mini Card, Bravo.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bravo-congratulations-card_c19bb64c-b1af-43e5-badb-53f78f38b1ab.jpg?v=1621610858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559887556673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554679377985</id>
+    <published>2021-05-05T13:12:22-04:00</published>
+    <updated>2021-05-05T13:12:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a117841-pink-sunset-d41"/>
+    <title>A117841. Pink sunset. D41</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/CD11379-sunset-over-water-blank-note-card.jpg?v=1620234706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554679377985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>D41 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554679083073</id>
+    <published>2021-05-05T13:07:18-04:00</published>
+    <updated>2021-05-05T13:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a1198140-flower-collage-c32"/>
+    <title>A1198140. Flower collage. C32</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/cd17617-flower-collage-blank-note-card.jpg?v=1620234417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554679083073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C32 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554678755393</id>
+    <published>2021-05-05T13:05:55-04:00</published>
+    <updated>2021-05-05T13:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a1176bcd839-thinking-of-you-pink-flowers-d44"/>
+    <title>A1176bcd839. Thinking of you, pink flowers. D44</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/cd11895-pink-ranunculus-flower-support-card.jpg?v=1620234338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554678755393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>D44 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554678394945</id>
+    <published>2021-05-05T13:04:12-04:00</published>
+    <updated>2021-05-05T13:04:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a11838-field-of-wheat-d41"/>
+    <title>A11838. Field of wheat. D41</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/cd11566-wheat-field-support-card.jpg?v=1620234231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Inside: Thinking of you</p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554678394945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>D41 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554675118145</id>
+    <published>2021-05-05T12:59:09-04:00</published>
+    <updated>2021-05-05T12:59:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/46a-bravo-roses-d14"/>
+    <title>46a. Bravo Roses. D14</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/bravo-congratulations-card.jpg?v=1620233902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Inside: I can't stop clapping! Congratulations</p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">4.75 in x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554675118145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>D14 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554166329409</id>
+    <published>2021-05-03T18:38:00-04:00</published>
+    <updated>2021-05-03T18:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m07-mini-card-pink-flower"/>
+    <title>M07. Mini Card, Pink Flower</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/PinkFlowerminicard.jpg?v=1620081451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554166329409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554165968961</id>
+    <published>2021-05-03T18:35:28-04:00</published>
+    <updated>2021-05-03T18:35:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m13-mini-card-cat-rainbow"/>
+    <title>M13. Mini Card, Cat Rainbow.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/rainbowcat_fec38ae5-1f5b-4842-ab14-c5699df94f52.jpg?v=1621616883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554165968961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554165837889</id>
+    <published>2021-05-03T18:34:02-04:00</published>
+    <updated>2021-05-03T18:34:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m02-mini-card-huge-congrats"/>
+    <title>M02. Mini Card, Huge Congrats.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/hugecongratsminicard.jpg?v=1620081235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554165837889</id>
+      <title>Mini</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554164559937</id>
+    <published>2021-05-03T18:24:07-04:00</published>
+    <updated>2021-05-03T18:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m12-mini-card-kittens"/>
+    <title>M12. Mini Card, Kittens.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/KittensFlowersMiniCard.jpg?v=1620080603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554164559937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554163970113</id>
+    <published>2021-05-03T18:16:49-04:00</published>
+    <updated>2021-05-03T18:16:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/a15017-balloons-in-the-sky-card-d43"/>
+    <title>A15017. Balloons in the Sky Card. D43</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/BalloonsMiniCard.jpg?v=1620080199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">Regular: 4.75 x 6.5 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554163970113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>D43 - AV</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554163609665</id>
+    <published>2021-05-03T18:13:34-04:00</published>
+    <updated>2021-05-03T18:13:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m05-mini-card-thanks"/>
+    <title>M05. Mini Card, Thanks!</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/ThanksMiniCard.jpg?v=1620079973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554163609665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554163314753</id>
+    <published>2021-05-03T18:11:26-04:00</published>
+    <updated>2021-05-03T18:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m15-mini-card-sunflower-field"/>
+    <title>M15. Mini Card, Sunflower Field.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/SunflowerFieldMiniCard.jpg?v=1620079804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554163314753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554163019841</id>
+    <published>2021-05-03T18:07:26-04:00</published>
+    <updated>2021-05-03T18:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m06-mini-card-thank-you-cupcake"/>
+    <title>M06. Mini Card, Thank You Cupcake</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/CupcakeMiniCard.jpg?v=1620079543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554163019841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554162823233</id>
+    <published>2021-05-03T18:04:22-04:00</published>
+    <updated>2021-05-03T18:04:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m08-mini-card-floral"/>
+    <title>M08. Mini Card, Floral.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/FloralMiniCard.jpg?v=1620079413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554162823233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554162266177</id>
+    <published>2021-05-03T18:01:54-04:00</published>
+    <updated>2021-05-03T18:01:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m01-mini-card-you-got-this"/>
+    <title>M01. Mini Card, You Got This!</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/YouGotThisMiniCard.jpg?v=1620079265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554162266177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554160365633</id>
+    <published>2021-05-03T17:57:04-04:00</published>
+    <updated>2021-05-03T17:57:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m04-mini-card-thank-you-flags"/>
+    <title>M04. Mini Card, Thank You Flags.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/ThankUFlagMiniCard.jpg?v=1620078683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside: </p>
+<p class="direction-ltr align-center para-style-body">Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554160365633</id>
+      <title>Mini</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554159677505</id>
+    <published>2021-05-03T17:49:43-04:00</published>
+    <updated>2021-05-03T17:49:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m10-mini-card-sunflower"/>
+    <title>M10. Mini Card, Sunflower.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/SunflowerFarmMiniCard.jpg?v=1620078523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554159677505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554157744193</id>
+    <published>2021-05-03T17:43:38-04:00</published>
+    <updated>2021-05-03T17:43:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m09-mini-card-sand-dollars"/>
+    <title>M09. Mini Card, Sand Dollars.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/SandDollarMiniCard.jpg?v=1620078140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554157744193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6554155515969</id>
+    <published>2021-05-03T17:39:23-04:00</published>
+    <updated>2021-05-03T17:39:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/m11-mini-card-french-bulldog"/>
+    <title>M11. Mini Card, French Bulldog.</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Avanti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/FrenchieMiniCard.jpg?v=1620077588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Avanti<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="direction-ltr align-center para-style-body">Blank Inside. Comes with envelope.</p>
+<p class="direction-ltr align-center para-style-body">2.5 in x 3.75 in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6554155515969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>Mini Card</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4511189499969</id>
+    <published>2020-06-11T16:38:51-04:00</published>
+    <updated>2020-06-11T16:38:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/47-back-to-the-future-c05"/>
+    <title>47. Back to the Future. C05</title>
+    <s:type>Cards</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/47a-back-to-the-future-d20.jpg?v=1598997539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Cards<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Inside:  Keep workin' it   <meta charset="utf-8">
+<p class="direction-ltr align-center para-style-body"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured</s:tag>
+    <s:tag>Funny</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4511189499969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>C05. CBG96</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+</feed>

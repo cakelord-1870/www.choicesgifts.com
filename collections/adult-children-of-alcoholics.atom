@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/adult-children-of-alcoholics.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2020-07-29T12:33:21-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4554393321537</id>
+    <published>2020-07-29T12:33:21-04:00</published>
+    <updated>2020-07-29T12:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/strengthening-my-recovery"/>
+    <title>Strengthening My Recovery</title>
+    <s:type>Books</s:type>
+    <s:vendor>ACOA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/strengthening-my-recovery.jpg?v=1598997913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACOA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><em>Strengthening My Recovery</em></strong><span> is written by and for the Adult Children of Alcoholics/Dysfunctional Families Fellowship. With 365 daily shares, each paired with a meaningful quotation from the ACA Fellowship Text, this meditation book will inspire its readers.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Children of Alcoholics</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4554393321537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku/>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4554390306881</id>
+    <published>2020-07-29T12:25:17-04:00</published>
+    <updated>2020-07-29T12:25:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/the-laundry-list-workbook-hardcover-spiral-bound"/>
+    <title>The Laundry List Workbook (Hardcover Spiral Bound)</title>
+    <s:type>Books</s:type>
+    <s:vendor>ACOA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/the-laundry-list-workbook-hardcover-spiral-bound.jpg?v=1598997910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACOA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This workbook expands the Fellowship Text's brief description of the "Other" or Opposite Laundry List (BRB, p. 8). It contains concise questions to guide the recovering adult child in reliving actual episodes that produced feelings of inferiority, shame, guilt, and anger (emotional intoxication). This workbook outlines a recovery process for healing the injury and conflict caused by childhood trauma and its continued reenactment, and for withdrawing from emotional intoxication. (BRB p. 626). </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Children of Alcoholics</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4554390306881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>9780996504911</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4554389225537</id>
+    <published>2020-07-29T12:22:01-04:00</published>
+    <updated>2020-07-29T12:22:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/twelve-steps-of-adult-children-spiral-bound-steps-workbook"/>
+    <title>Twelve Steps of Adult Children (Spiral Bound) - Steps Workbook</title>
+    <s:type>Books</s:type>
+    <s:vendor>ACOA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/twelve-steps-of-adult-children-spiral-bound-steps-workbook.jpg?v=1598997906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACOA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Twelve Steps of Adult Children Workbook provides members with a detailed series of exercises and questionnaires that can be used by individuals either in a one-on-one Fellow Traveler (Sponsorship) or in group studies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Children of Alcoholics</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4554389225537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>9780978979713</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363943</id>
+    <published>2020-04-28T08:36:03-04:00</published>
+    <updated>2020-04-28T08:36:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/adult-children-of-alcoholics-by-janet-g-woititz"/>
+    <title>Adult Children of Alcoholics, by Janet G. Woititz</title>
+    <s:type>Books</s:type>
+    <s:vendor>Health Communications</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/adult-children-of-alcoholics-by-janet-g-woititz.jpg?v=1585855806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Health Communications<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ten years ago, Janet Woititz broke new ground in our understanding of what it is to be an Adult Child of an Alcoholic. Today she re-examines the movement and it's inclusion of Adult Children from various dysfunctional family backgrounds who share the same characteristics. After more than ten years of working with ACoAs she shares the recovery hints that she has found to work. Read Adult Children of Alcoholics to see where the journey began and for ideas on where to go from here.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Children of Alcoholics</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku/>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397363887</id>
+    <published>2020-04-28T08:36:02-04:00</published>
+    <updated>2020-04-28T08:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/adult-children-of-alcoholics-basic-text-soft-cover"/>
+    <title>Adult Children of Alcoholics - Basic Text (Soft Cover)</title>
+    <s:type>Books</s:type>
+    <s:vendor>ACOA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/adult-children-of-alcoholics-basic-text.jpg?v=1598996068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ACOA<br>
+        <strong>Type: </strong>Books<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Author:</strong> Janet Geringer Woititz<br><strong>Publisher:</strong> Health Communications<br><strong>Date of Publication:</strong> 1990</p>
+<p>ACA Fellowship Text was written by anonymous ACA members providing guidance on working the 12 Step ACA program leading to recovery from the effects of growing up in an alcoholic or otherwise dysfunctional family. The book is now often referred to as the "Big Red Book" , or "BRB". This soft cover edition is also intended for use in those facilities where a Hard Cover book is inappropriate or not allowed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Children of Alcoholics</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397363887</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+</feed>

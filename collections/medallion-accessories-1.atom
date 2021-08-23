@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.choicesgifts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.choicesgifts.com/collections/medallion-accessories-1.atom"/>
+  <title>Choices Books &amp; Gifts</title>
+  <updated>2021-05-22T21:19:29-04:00</updated>
+  <author>
+    <name>Choices Books &amp; Gifts</name>
+  </author>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210714689</id>
+    <published>2021-05-22T21:19:29-04:00</published>
+    <updated>2021-05-22T21:19:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver-1"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_57482eb7-4da6-4fdf-ab46-31add7e7bf6a.jpg?v=1621732778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210714689</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210681921</id>
+    <published>2021-05-22T21:18:31-04:00</published>
+    <updated>2021-05-22T21:18:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63c-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63C. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/B0016765-EA1F-4BD0-9DBC-3AE8244C3688_4_5005_c_7bb541d0-4f67-42a5-9427-45e4e8eb50ed.jpg?v=1621732726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210681921</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210583617</id>
+    <published>2021-05-22T21:17:56-04:00</published>
+    <updated>2021-05-22T21:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63b-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63B. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/DBA2F25F-680E-4EB5-8244-2A5103029640_4_5005_c_643a2ed2-2d11-44e7-88d1-9a1ac5aeeb60.jpg?v=1621732754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210583617</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6560210550849</id>
+    <published>2021-05-22T21:17:37-04:00</published>
+    <updated>2021-05-22T21:17:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/63a-key-chain-medallion-holder-leather-aa-or-na-gold-or-silver"/>
+    <title>63A. Key Chain: Medallion Holder Leather, AA or NA, Gold or Silver</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/3B6FC666-D652-4419-8635-4E644D0ABF40_4_5005_c_95f2c442-747c-40d5-a0c7-c64aa05760bb.jpg?v=1621732659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medallion key chain, black, medallion visible on front and back.  </p>
+<p> *Medallion not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK AA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK AA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Gold Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Gold Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6560210550849</id>
+      <title>BLACK NA w Silver Fixtures</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>BLACK NA lthr key w Silver Fixtures</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4185848003</id>
+    <published>2021-05-21T14:19:46-04:00</published>
+    <updated>2021-05-21T14:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/47-k13-key-chain-metal-medallion-holder-shiny-or-brushed-tear-drop"/>
+    <title>47. K13. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Cascade 7</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/choiceskeychains-7.jpg?v=1623781513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade 7<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Comes in either Shiny Silver or Brushed Silver finishes. Coin or medallion sold separately. This key chain fits any recovery medallion or bronze coin of your choosing and beautifully displays both sides of the coin. The bezel accommodates 1-3/8" - standard bronze, plated, &amp; Tri-colored medallions. (Medallions not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4185848003</id>
+      <title>Shiny Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>KM12S#K20. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4185848003</id>
+      <title>Brushed Silver</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>#K20. Key Chain: Metal Medallion Holder, Shiny or Brushed, TEAR DROP.</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559914557505</id>
+    <published>2021-05-21T14:09:07-04:00</published>
+    <updated>2021-05-21T14:09:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/37-new-na-sponsor-crystal-coin-sphere-medallions"/>
+    <title>37. NEW NA Sponsor Crystal Coin Sphere Medallions</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/Untitleddesign_3_6db318ec-81ba-41a8-ae9a-b1f6dd63a979.png?v=1621626232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand new Crystal "COIN". </p>
+<p>Take your gift giving game to the next level!  These are 60mm 3D Crystal Coins.  Its a coin image inside the crystal.  Not only that....it comes with battery operated base that lights up the Crystal Coin in multi colors - from red to blue, green, purple, orange, yellow.   <br></p>
+<p>This is the perfect gift for your loved one, sponsor, friends and fellows.  </p>
+<p>Batteries not included.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor Coins</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559914557505</id>
+      <title>NA Sponsor</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 25 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559915442241</id>
+    <published>2021-05-21T14:09:02-04:00</published>
+    <updated>2021-05-21T14:09:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/36-new-aa-sponsor-crystal-coin-sphere-medallions"/>
+    <title>36. NEW AA Sponsor Crystal Coin Sphere Medallions</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/Untitleddesign_2.png?v=1621626083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand new Crystal "COIN". </p>
+<p>Take your gift giving game to the next level!  These are 60mm 3D Crystal Coins.  Its a coin image inside the crystal.  Not only that....it comes with battery operated base that lights up the Crystal Coin in multi colors - from red to blue, green, purple, orange, yellow.   <br></p>
+<p>This is the perfect gift for your loved one, sponsor, friends and fellows.  </p>
+<p>Batteries not included.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor Coins</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559915442241</id>
+      <title>AA Sponsor</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 25 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/507606237220</id>
+    <published>2021-05-21T14:06:56-04:00</published>
+    <updated>2021-05-21T14:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/43k03-grateful-dead-key-chain-gold-or-silver-medallion-included"/>
+    <title>43K03. Grateful Dead Key Chain, Gold or Silver.  Medallion Included</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12_3500d631-61ac-4f87-9258-bed114de010e.png?v=1623775661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Grateful Dead Keychain medallion!  New!    Great gift item for your friends, sponsor or sponsee.  Comes in Gold or Silver lettering and velvet pouch.  </p>
+<p><span>This medallion is copyright protected by Choices ©2009.   All rights Reserved.  </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/507606237220</id>
+      <title>Silver</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey-Gold1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/507606237220</id>
+      <title>Gold</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey- Silver1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6559917342785</id>
+    <published>2021-05-21T14:06:32-04:00</published>
+    <updated>2021-05-21T14:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/44k04-grateful-dead-key-chain-gold-or-silver-medallion-included"/>
+    <title>44K04. Grateful Dead Key Chain, Gold or Silver.  Medallion Included</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/12.png?v=1623775519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>None<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Grateful Dead Keychain medallion!  New!    Great gift item for your friends, sponsor or sponsee.  Comes in Gold or Silver lettering and velvet pouch.  </p>
+<p><span>This medallion is copyright protected by Choices ©2009.   All rights Reserved.  </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Keychains</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559917342785</id>
+      <title>Silver</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey-Gold1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6559917342785</id>
+      <title>Gold</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>GDKey- Silver1</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/6555813806145</id>
+    <published>2021-05-07T17:47:14-04:00</published>
+    <updated>2021-05-07T17:47:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/18-book-cover-na-triple-book-cover-for-the-basic-text-6th-ed-it-works-how-and-why-and-living-clean"/>
+    <title>18. Book Cover: NA TRIPLE BOOK COVER for THE BASIC TEXT (6th Edition), IT WORKS HOW &amp; WHY, and LIVING CLEAN</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/purple_triple_serenity.jpg?v=1624392291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span></span></div>
+<div><span></span></div>
+<div>Hand crafted, American Made Triple<strong> Deluxe NA book cover</strong>: holds the Hardbound NA Basic Text, It Works ,How &amp; Why, and Living Clean. Coin Holder, snap-shut button, silk page holders that say "One Day at a Time," "How It Works" and "Living the Steps" - comes either with NA Symbol or Serenity Prayer.</div>
+<div></div>
+<div></div>
+<div>
+<div></div>
+<div></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><strong>Medallion and Book(s) NOT Included.</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Purple Symbol/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Purple Serenity Prayer/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Pink Symbol/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Pink Serenity Prayer/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Black Symbol/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Black Serenity Prayer/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Navy Symbol/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/6555813806145</id>
+      <title>Navy Serenity Prayer/Coin Holder</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4628724187201</id>
+    <published>2020-12-16T10:44:07-05:00</published>
+    <updated>2020-12-16T10:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/23-medallion-holder-personalized-medallion-holder-12-coins"/>
+    <title>23. Medallion Holder,  PERSONALIZED Medallion Holder, 12 Coins</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Wooden U recover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k37-medallion-holder-personalized-medallion-holder-12-coins.jpg?v=1610746707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wooden U recover<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span>Deluxe 12 Slot Recovery Chip Holder </span></h1>
+<div>Proudly display up to 12 of your most cherished recovery chips!  Each of these beautiful chip holder/display plaques features 12 spaces for mounting your special recovery coins. </div>
+<div><br></div>
+<div>"One Day at a Time" is expertly laser engraved at the top of the plaque.  ...a Choices Books &amp; Gifts exclusive!  Nearly any other message or phrase request can be accommodated.  Simply contact us with your special requests!  What a wonderful way to display your recovery tokens!  </div>
+<div><br></div>
+<div>The backside of each medallion holder display plaque is "key holed" making it simple to mount flush to any wall, door, or flat surface. Your tokens are held securely in place with the provided mounting tabs.  In addition, each medallion pocket has an access hole drilled all the way through the plaque - making it much easier to remove tokens when/if necessary.  </div>
+<div><br></div>
+<div>
+<div>
+<span>Material:</span> <span>Alder Wood with Walnut side trim </span>
+</div>
+<div>
+<span>Dimensions:</span> <span>Approx. 8 x 10 x 0.75" (thick)</span>
+</div>
+<div>
+<span>Holder Diameter:</span> <span>1-3/8" - accommodates standard bronze, plated, &amp; tri-colored medallions. (Medallions not included)</span>
+</div>
+<div><span><br></span></div>
+<div>
+<span>Please note:</span><span> These are laser engraved plaques.  Text and graphic contrast are subject to the natural characteristics of each individual piece of wood. Yours will be a one-of-a-kind - unlike anyone else's in the world! We do not utilize color fill techniques to increase the darkness/contrast of the engraving - opting instead to allow the beauty of each piece of wood to bring into being a special and unique piece of art for you to treasure for years and years.</span>
+</div>
+<div><span><strong>Note: For customization you have to put your name and date in order notes!</strong></span></div>
+<div><span><b>This is a custom made product that will ship separately.  Please allow 10 business days for shipment.</b></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4628724187201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4628405387329</id>
+    <published>2020-12-15T17:11:19-05:00</published>
+    <updated>2020-12-15T17:11:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/19-medallion-holder-20-coins-w-serenity-prayer-personalized"/>
+    <title>19. Medallion Holder, 20 Coins w Serenity Prayer  PERSONALIZED</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Wooden U recover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k41-medallion-holder-20-coins-w-serenity-prayer-personalized.png?v=1610746704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wooden U recover<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            139.95 - 149.95
+            <a href="https://www.choicesgifts.com/products/19-medallion-holder-20-coins-w-serenity-prayer-personalized">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>
+<span>9 x 12 inch 20 </span><span>Token Serenity Prayer Holder</span><span> - Display Plaque </span>
+</h1>
+<p>After many requests, we are pleased to offer this lovely,<span> </span><span>Token Personalized Recovery Medallion Display Plaque</span>.  It features our Serenity Prayer and slots for your favorite recovery medallions. </p>
+<p>A keyhole on the back side of each medallion display plaque makes it simple to mount on the wall, door, or any flat surface. And because we drill a hole entirely through each medallion holder pocket, it's easy to change out your medallions whenever you wish.  Just pop 'em out and mount the new ones with double sided tape!<br></p>
+<p><span>Material:</span> <span>Alder Wood</span><br></p>
+<div>
+<p><span>Dimensions:</span><span> 9" x 12" x 0.75" (thick)</span></p>
+<p><span>Holder Diameter:</span> <span>1-3/8" - accommodates 20 standard bronze, plated, &amp; tri-colored medallions. (Medallions not included.</span></p>
+<p><meta charset="utf-8"><span>Please note:</span><span> These are laser engraved plaques.  Text and graphic contrast are subject to the natural characteristics of each individual piece of wood. Yours will be a one-of-a-kind - unlike anyone else's in the world! We do not utilize color fill techniques to increase the darkness/contrast of the engraving - opting instead to allow the beauty of each piece of wood to bring into being a special and unique piece of art for you to treasure for years and years.</span></p>
+<div><span><strong>Note: For customization you have to put your name and date in order notes!</strong></span></div>
+<div><span><b>This is a custom made product that will ship separately.  Please allow 10 business days for shipment.</b></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4628405387329</id>
+      <title>Customize</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>20HOLDER-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4628405387329</id>
+      <title>Without Customization</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>20HOLDER-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4628405321793</id>
+    <published>2020-12-15T17:11:01-05:00</published>
+    <updated>2020-12-15T17:11:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/20-medallion-holder-25-coins-w-serenity-prayer-personalized"/>
+    <title>20. Medallion Holder, 25 Coins w Serenity Prayer  PERSONALIZED</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Wooden U recover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k42-medallion-holder-25-coins-w-serenity-prayer-personalized.png?v=1610746695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wooden U recover<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            139.95 - 149.95
+            <a href="https://www.choicesgifts.com/products/20-medallion-holder-25-coins-w-serenity-prayer-personalized">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>
+<span>9 x 12 inch 25 </span><span>Token Serenity Prayer Holder</span><span> - Display Plaque </span>
+</h1>
+<p>After many requests, we are pleased to offer this lovely,<span> Token Personalized Recovery Medallion Display Plaque</span>.  It features our Serenity Prayer and slots for your favorite recovery medallions. </p>
+<p>A keyhole on the back side of each medallion display plaque makes it simple to mount on the wall, door, or any flat surface. And because we drill a hole entirely through each medallion holder pocket, it's easy to change out your medallions whenever you wish.  Just pop 'em out and mount the new ones with double sided tape!<br></p>
+<p><span>Material:</span> <span>Alder Wood</span><br></p>
+<div>
+<p><span>Dimensions:</span><span> 9" x 12" x 0.75" (thick)</span></p>
+<p><span>Holder Diameter:</span> <span>1-3/8" - accommodates 25 standard bronze, plated, &amp; tri-colored medallions. (Medallions not included) </span></p>
+<p><meta charset="utf-8"><span>Please note:</span><span> These are laser engraved plaques.  Text and graphic contrast are subject to the natural characteristics of each individual piece of wood. Yours will be a one-of-a-kind - unlike anyone else's in the world! We do not utilize color fill techniques to increase the darkness/contrast of the engraving - opting instead to allow the beauty of each piece of wood to bring into being a special and unique piece of art for you to treasure for years and years.</span></p>
+<div><span><strong>Note: For customization you have to put your name and date in order notes!</strong></span></div>
+<div><span><b>This is a custom made product that will ship separately.  Please allow 10 business days for shipment.</b></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4628405321793</id>
+      <title>Customize</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>25HOLDER-1</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4628405321793</id>
+      <title>Without Customization</title>
+      <s:price currency="USD">139.95</s:price>
+      <s:sku>25HOLDER-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4622598242369</id>
+    <published>2020-11-30T13:08:31-05:00</published>
+    <updated>2020-11-30T13:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/34-new-aa-crystal-coin-sphere-medallions-new-aa-years-1-10-15-20-25"/>
+    <title>34. NEW AA Crystal Coin Sphere Medallions: NEW. AA Years 1 -10, 15, 20, 25.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k45-new-aa-crystal-coin-sphere-medallions-new-aa-years-1-10-15-20-25.png?v=1610746632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand new Crystal "COIN". </p>
+<p>Take your gift giving game to the next level!  These are 60mm 3D Crystal Coins.  Its a coin image inside the crystal.  Not only that....it comes with battery operated base that lights up the Crystal Coin in multi colors - from red to blue, green, purple, orange, yellow.   <br></p>
+<p>This is the perfect gift for your loved one, sponsor, friends and fellows.  </p>
+<p>Select your year from the drop down.   </p>
+<p>Batteries not included.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor Coins</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>1 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 1 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>2 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 2  YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>3 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 3 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>4 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 4 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>5 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 5 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>6 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 6 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>7 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 7 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>8 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 8 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>9 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 9 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>10 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 10 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>15 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 15 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>20 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 20 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598242369</id>
+      <title>25 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>AA CC 25 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4622598799425</id>
+    <published>2020-11-30T13:06:04-05:00</published>
+    <updated>2020-11-30T13:06:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/35-new-na-crystal-coin-sphere-medallions-na-years-1-10-15-20-25"/>
+    <title>35. NEW NA Crystal Coin Sphere Medallions: NA Years 1 -10, 15, 20, 25.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Choices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k46-new-na-crystal-coin-sphere-medallions-na-years-1-10-15-20-25.png?v=1610746682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choices<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand new Crystal "COIN". </p>
+<p>Take your gift giving game to the next level!  These are 60mm 3D Crystal Coins.  Its a coin image inside the crystal.  Not only that....it comes with battery operated base that lights up the Crystal Coin in multi colors - from red to blue, green, purple, orange, yellow.   <br></p>
+<p>This is the perfect gift for your loved one, sponsor, friends and fellows.  </p>
+<p>Select your year from the drop down.   </p>
+<p>Batteries not included.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Gifts</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>Sponsee</s:tag>
+    <s:tag>Sponsor Coins</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>1 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 1 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>2 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 2  YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>3 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 3 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>4 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 4 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>5 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 5 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>6 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 6 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>7 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 7 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>8 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 8 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>9 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 9 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>10 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 10 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>15 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 15 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>20 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 20 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4622598799425</id>
+      <title>25 Year</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>NA CC 25 YEAR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4589556662337</id>
+    <published>2020-09-30T18:36:48-04:00</published>
+    <updated>2020-09-30T18:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/16-book-cover-na-double-deluxe-for-hardcover-basic-text-6th-edition-and-it-works-how-and-why"/>
+    <title>16. Book Cover: NA DOUBLE DELUXE SOFTCOVER Basic Text 6th Edition and IT WORKS, HOW &amp; WHY</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-na-double-deluxe-for-hardcover-basic-text-6th-edition-and-it-works-how-and-why.png?v=1608240892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span></span></div>
+<div><span></span></div>
+<div>Hand crafted, American Made <strong>Double Deluxe NA book cover</strong>: holds the Hardbound NA Basic Text &amp; It Works ,How &amp; Why. Coin Holder, snap-shut button, silk page holders that say "One Day at a Time" and "Living the Steps - comes either with NA Symbol or Serenity Prayer.</div>
+<div></div>
+<div>
+<div></div>
+<div></div>
+</div>
+<div><span></span></div>
+<div><span></span></div>
+<div></div>
+<div><span>Medallion and Book(s) NOT Included.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Purple w/Serenity and Holder</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Serenity, Black</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Black w Serenity &amp; Coin Holder</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Serenity, Navy</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Pink w Serenity and Coin Holder</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Serenity, Pink</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Navy with Serenity and Coin Holder</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Symbol, Navy</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Pink w Symbol,</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Symbol, Pink</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Purple w Symbol</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Symbol, Purple</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Black w Symbol</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Symbol, Purple</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4589556662337</id>
+      <title>Deluxe Double, Navy w Symbol</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Deluxe Double, Symbol, Purple</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/4587805868097</id>
+    <published>2020-09-30T17:52:29-04:00</published>
+    <updated>2020-09-30T17:52:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/11-book-cover-aa-double-deluxe-book-cover-for-big-book-hardcover-and-12-12-use-drop-down-for-colors-styles"/>
+    <title>11. Book Cover: AA DOUBLE DELUXE for BIG BOOK HARDCOVER and 12 &amp; 12 (Use drop down for colors &amp; styles!)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-aa-double-deluxe-book-cover-for-big-book-hardcovers-twelve-and-twelve-use-drop-down-for-colors-styles.png?v=1608216891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            42.95 - 45.95
+            <a href="https://www.choicesgifts.com/products/11-book-cover-aa-double-deluxe-book-cover-for-big-book-hardcover-and-12-12-use-drop-down-for-colors-styles">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Custom, American Made book covers for AA Big Book Hardcover (4th Edition) and Twelve and Twelve. Snap closure with silk bookmarks<br>Available in several colors with and without the Serenity Prayer</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Purple w Serenity/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku>Purple w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Pink w Serenity/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Black w Serenity/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Navy w Serenity/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Purple w Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Pink w Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Black w Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Navy w Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Purple w I am Responsible/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Pink w I am Responsible/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Blue w I am Responsible/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/4587805868097</id>
+      <title>Black w I am Responsible/Coin Holder for Hardcover AA and 12&amp;12</title>
+      <s:price currency="USD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1087935610916</id>
+    <published>2020-05-08T14:07:17-04:00</published>
+    <updated>2020-05-08T14:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/29-medallion-box-wood-na-symbol-mahogany-natural-finish"/>
+    <title>29. Medallion Box: Wood, NA Symbol, Mahogany Natural Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k36-medallion-box-na-mahogany-natural-finish.png?v=1610746481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood Natural Wood Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>"Just For Today" on the inside.  </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1087935610916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/1087921291300</id>
+    <published>2020-05-08T14:07:16-04:00</published>
+    <updated>2020-05-08T14:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/30-medallion-box-aa-mahogany-natural-finish"/>
+    <title>30. Medallion Box: AA, Mahogany Natural Finish.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k31-medallion-box-aa-mahogany-natural-finish.png?v=1610746473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>Hand-rubbed mirror finish with circle/triangle logo on outside. </span></p>
+<p><span>"One Day At A Time" printed inside and a removable coin holder. </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/1087921291300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/434558499</id>
+    <published>2020-05-08T14:07:16-04:00</published>
+    <updated>2020-05-08T14:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/27-medallion-box-na-burgundy-high-gloss"/>
+    <title>27. Medallion Box: NA,  Burgundy, High Gloss.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k35-medallion-box-na-burgundy-high-gloss.jpg?v=1610746405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating.</span></p>
+<p>"Just for Today" printed inside and a removable coin holder.</p>
+<p>(Medallion NOT Included).</p>
+<script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/3e32901d/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/c45d55c0/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/c45d55c0/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script><script type="text/javascript" src="safari-extension://com.ebay.safari.myebaymanager-QYHMMGCMJR/85a69f6f/background/helpers/prefilterHelper.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:tag>NA Gifts</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/434558499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>NACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/434540183</id>
+    <published>2020-05-08T14:07:14-04:00</published>
+    <updated>2020-05-08T14:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/26-medallion-box-aa-burgundy-high-gloss"/>
+    <title>26. Medallion Box: AA, Burgundy, High Gloss.</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/k30-medallion-box-aa-burgundy-high-gloss.jpg?v=1610746400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teakwood High Gloss Medallion/Chip Box. 2 3/4 x 2 3/4 x 1 inch high. 15 layers of Lacquer coating. </span></p>
+<p><span>Hand-rubbed mirror finish with circle/triangle logo on outside. </span></p>
+<p><span>"One Day At A Time" printed inside and a removable coin holder. </span></p>
+<p><span>(Medallion NOT Included). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>God Box</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/434540183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>AACOINTEAK</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2341217091</id>
+    <published>2020-05-08T14:02:22-04:00</published>
+    <updated>2020-05-08T14:02:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/13-book-cover-aa-12-12-hardcover-use-drop-down-for-colors-styles"/>
+    <title>13. Book Cover: AA 12 &amp; 12 HARDCOVER (Use drop down for colors &amp; styles!)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-12-12-hardcovers-use-drop-down-for-colors-styles-3.jpg?v=1624390501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use drop down for colors &amp; styles!</p>
+<p>Our 12 &amp; 12 Book cover for Alcoholics Anonymous, Overeaters Anonymous, and Al-Anon comes with the Serenity Prayer on the front and holds the Twelve Steps and Twelve Traditions of Alcoholics Anonymous (Softcover and Hardcover versions).</p>
+<p><span>This cover can also hold the Twelve Steps and Twelve Traditions of Overeaters Anonymous and Al-Anon's Twelve Steps and Twelve Traditions. </span></p>
+<p>Book(s) and coins NOT Included. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Navy w Serenity Prayer &amp; Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Navy Cover w Serenity Prayer/coin holder for Hardcover 12/12</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Black w Serenity Prayer &amp; Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Purple w Serenity Prayer</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Pink w Serenity Prayer &amp; Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Pink w Serenity Prayer</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Purple w Serenity Prayer &amp; Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Black Blank w NO Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2341217091</id>
+      <title>Navy Blank w NO Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2340865027</id>
+    <published>2020-05-08T14:02:20-04:00</published>
+    <updated>2020-05-08T14:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/14-book-cover-aa-hard-cover-big-book-use-drop-down-for-colors-styles"/>
+    <title>14. Book Cover: AA HARDCOVER BIG BOOK (Use drop down for colors &amp; styles!)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-aa-single-book-cover-for-big-book-hardcovers-use-drop-down-for-colors-styles-13.jpg?v=1621622536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95 - 29.95
+            <a href="https://www.choicesgifts.com/products/14-book-cover-aa-hard-cover-big-book-use-drop-down-for-colors-styles">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Custom, American Made book covers for AA Big Book Hardcover (4th Edition)<br>Available in several colors with and without the Serenity Prayer</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Purple w Serenity/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>Purple w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Green w/ Serenity Prayer and Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Silver w/ Serenity Prayer and Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Pink w Serenity/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Pink w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Black w Serenity/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Black w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Navy w Serenity/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Navy w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Navy plain cover w coin holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Navy plain cover w coin holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Tan plain cover w coin holder for Hardcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Tan plain cover w coin holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Black plain cover w coin holder for Hardcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Black plain cover w coin holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Purple Plain Cover with Coin Holder for Hardcover</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Pink Plain Cover with Coin Holder</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Pink w Third Step Prayer/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Navy w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Black w Third Step Prayer/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Navy w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Purple w Third Step Prayer/Coin Holder for Hardcover AA</title>
+      <s:price currency="USD">25.95</s:price>
+      <s:sku>Navy w Serenity/Coin Holder for Hardcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2340865027</id>
+      <title>Pink Plain Cover w NO Coin Holder</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/2304876547</id>
+    <published>2020-05-08T14:02:20-04:00</published>
+    <updated>2020-05-08T14:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/15-book-cover-aa-large-print-softcover-use-drop-down-for-colors-styles"/>
+    <title>15. Book Cover: AA LARGE PRINT SOFTCOVER (Use drop down for colors &amp; styles!)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-aa-large-print-softcovers-use-drop-down-for-colors-styles_832c7259-8589-4ee8-b834-eab8b243a7b7.png?v=1608217298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use drop down for colors &amp; styles.</p>
+<p>LARGE PRINT Book Cover Options: All covers have cardboard back for extra support; fits Alcoholics Anonymous (4th Edition) and 12 &amp; 12 Softcover.</p>
+<p>LARGE AA Big Book SoftCover, w/ Serenity Prayer &amp; Coin Holder.</p>
+<p><br></p>
+<p>Medallion and Book(s) NOT Included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2304876547</id>
+      <title>Navy w/Serenity Prayer</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BIIL/BOB - RED</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2304876547</id>
+      <title>Pink w/ Serenity Prayer</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>BILL/BOB-BRWN</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2304876547</id>
+      <title>Black w/ Serenity Prayer</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>Serenity, Black, SC</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/2304876547</id>
+      <title>Purple w/ Serenity Prayer</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.choicesgifts.com/products/397367111</id>
+    <published>2020-05-08T14:02:17-04:00</published>
+    <updated>2020-05-08T14:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.choicesgifts.com/products/10-book-cover-aa-big-book-softcover-use-drop-down-for-different-colors-styles"/>
+    <title>10. Book Cover: AA BIG BOOK SOFTCOVER (Use Drop Down for different Colors &amp; Styles!)</title>
+    <s:type>Gifts</s:type>
+    <s:vendor>Culver Enterprises</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0685/9435/products/book-cover-aa-single-book-cover-for-big-book-hardcovers-use-drop-down-for-colors-styles_2000x_d8d9d115-664b-4fc4-8c4c-da1e5b035562.png?v=1621622430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Culver Enterprises<br>
+        <strong>Type: </strong>Gifts<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>﻿﻿Use the DROP DOWN to see different styles/colors. </span></p>
+<p><span>Our AA Big Book Covers come in a variety of options. The Softcover ("Portable") version of the Big Book (4th Edition) of Alcoholics Anonymous </span></p>
+<p><br></p>
+<p>Medallion and Book(s) NOT Included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AA Gifts</s:tag>
+    <s:tag>Book Covers</s:tag>
+    <s:tag>Medallion Accessories</s:tag>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397367111</id>
+      <title>Black cover w Serenity for Softcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Black cover w Serenity for Softcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397367111</id>
+      <title>Navy cover w Serenity for Softcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Navy cover w Serenity for Softcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397367111</id>
+      <title>Purple cover w Serenity for Softcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Purple cover w Serenity for Softcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.choicesgifts.com/products/397367111</id>
+      <title>Pink cover w Serenity/Coin holder for Softcover AA</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>Pink cover w Serenity/Coin holder for Softcover AA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+</feed>
